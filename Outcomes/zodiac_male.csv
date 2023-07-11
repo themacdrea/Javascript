@@ -1,0 +1,1434 @@
+Id,Divorce Date,Divorce Type,DOB Male,Age Male,Income Male,Marriage Date,Education Male,Marriage Year,Number Children,Zodiac_Sign,Income Category,Divorce Month
+1,2006-06-09,Necessary,1975-12-18,30.0,2000.0,2000-06-26,High School,5.0,1.0,Sagittarius,Poor,06
+2,2011-02-01,Necessary,1969-06-04,41.0,5000.0,2000-02-02,Associates,2.0,2.0,Gemini,Poor,02
+3,2005-03-01,Necessary,1970-07-09,34.0,5600.0,1991-09-10,High School,10.0,2.0,Cancer,Poor,03
+4,2005-03-01,Necessary,1974-02-07,31.0,3500.0,1993-02-01,Associates,10.0,2.0,Aquarius,Poor,03
+5,2006-03-01,Necessary,1964-04-03,41.0,12000.0,1998-11-12,Bachelors,7.0,1.0,Aries,Lower-middle Class,03
+6,2007-03-01,Necessary,1969-03-03,37.0,12000.0,1996-04-30,Bachelors,11.0,1.0,Pisces,Lower-middle Class,03
+7,2007-03-01,Necessary,1961-09-26,45.0,6000.0,1987-03-19,Bachelors,19.0,3.0,Libra,Poor,03
+8,2010-03-01,Necessary,1968-05-31,41.0,5000.0,2002-03-22,Bachelors,3.0,1.0,Gemini,Poor,03
+9,2002-04-01,Voluntary,1968-05-09,33.0,2000.0,1989-05-26,Elementary,12.0,2.0,Taurus,Poor,04
+10,2008-04-01,Necessary,1964-04-11,43.0,14000.0,2001-05-30,Bachelors,5.0,1.0,Aries,Lower-middle Class,04
+11,2009-04-01,Voluntary,1966-02-25,43.0,5000.0,1985-04-12,High School,23.0,1.0,Pisces,Poor,04
+12,2009-04-01,Necessary,1955-10-15,53.0,10000.0,1986-01-27,Bachelors,22.0,2.0,Libra,Lower-middle Class,04
+13,2004-06-01,Voluntary,1970-04-03,34.0,2000.0,1998-11-28,Associates,5.0,1.0,Aries,Poor,06
+14,2012-06-01,Necessary,1971-02-23,41.0,5000.0,1995-10-13,Associates,13.0,2.0,Pisces,Poor,06
+15,2012-06-01,Necessary,1971-07-26,40.0,6000.0,1997-12-23,Bachelors,10.0,2.0,Leo,Poor,06
+16,2002-07-01,Voluntary,1956-10-03,45.0,8000.0,1985-02-22,Bachelors,17.0,1.0,Libra,Poor,07
+17,2003-07-01,Voluntary,1970-06-24,33.0,5000.0,1991-04-12,Associates,12.0,2.0,Cancer,Poor,07
+18,2013-07-01,Necessary,1981-07-06,31.0,12000.0,2007-01-30,Bachelors,4.0,1.0,Cancer,Lower-middle Class,07
+19,2000-08-01,Voluntary,1965-01-05,35.0,2200.0,1992-09-04,High School,7.0,2.0,Capricorn,Poor,08
+20,2000-08-01,Voluntary,1963-04-08,37.0,3000.0,1995-05-27,Bachelors,5.0,1.0,Aries,Poor,08
+21,2003-08-01,Voluntary,1971-03-13,32.0,3900.0,1992-05-14,Associates,11.0,2.0,Pisces,Poor,08
+22,2003-08-01,Voluntary,1966-09-01,36.0,12000.0,1992-10-24,Bachelors,11.0,3.0,Virgo,Lower-middle Class,08
+23,2011-08-01,Necessary,1980-04-14,31.0,12000.0,2002-06-10,Bachelors,9.0,1.0,Aries,Lower-middle Class,08
+24,2011-08-01,Necessary,1980-12-15,30.0,5000.0,2002-05-29,Bachelors,9.0,2.0,Sagittarius,Poor,08
+25,2000-09-01,Voluntary,1972-11-17,27.0,25000.0,1994-12-19,Bachelors,3.0,1.0,Scorpio,Wealthy,09
+26,2004-09-01,Voluntary,1972-12-17,31.0,10000.0,1999-05-28,Bachelors,5.0,1.0,Sagittarius,Lower-middle Class,09
+27,2008-09-01,Necessary,1970-01-22,38.0,6500.0,1993-08-10,Bachelors,15.0,2.0,Aquarius,Poor,09
+28,2008-09-01,Necessary,1963-02-09,45.0,10000.0,1994-12-24,Bachelors,13.0,2.0,Aquarius,Lower-middle Class,09
+29,2008-09-01,Necessary,1975-01-12,33.0,5000.0,2003-12-13,Bachelors,15.0,2.0,Capricorn,Poor,09
+30,2000-11-01,Voluntary,1960-03-29,40.0,3000.0,1980-12-27,Bachelors,19.0,3.0,Aries,Poor,11
+31,2012-11-01,Voluntary,1952-12-15,59.0,8400.0,1988-10-08,Bachelors,24.0,1.0,Sagittarius,Poor,11
+32,2004-12-01,Voluntary,1967-01-03,37.0,9000.0,1991-12-20,Bachelors,12.0,2.0,Capricorn,Poor,12
+33,2008-12-01,Necessary,1944-11-29,64.0,3000.0,1988-06-04,High School,13.0,2.0,Sagittarius,Poor,12
+34,2009-12-01,Necessary,1967-03-23,42.0,6000.0,1992-07-18,Bachelors,13.0,2.0,Aries,Poor,12
+35,2009-12-01,Necessary,1962-05-23,47.0,1000.0,1989-12-20,Bachelors,16.0,1.0,Gemini,Poor,12
+36,2009-12-01,Necessary,1976-06-18,33.0,8000.0,2004-02-06,Bachelors,4.0,1.0,Gemini,Poor,12
+37,2001-01-02,Voluntary,1965-02-20,35.0,2400.0,1989-03-08,Elementary,11.0,2.0,Pisces,Poor,01
+38,2010-02-02,Necessary,1973-03-25,36.0,3500.0,1994-09-02,Associates,12.0,2.0,Aries,Poor,02
+39,2012-02-02,Necessary,1986-01-27,26.0,10000.0,2009-11-14,Bachelors,2.0,1.0,Aquarius,Lower-middle Class,02
+40,2004-03-02,Voluntary,1972-02-21,32.0,6500.0,1998-11-27,Bachelors,5.0,1.0,Pisces,Poor,03
+41,2004-03-02,Voluntary,1961-02-28,43.0,5000.0,1986-05-30,Bachelors,17.0,3.0,Pisces,Poor,03
+42,2004-03-02,Voluntary,1979-12-08,24.0,4000.0,2000-01-24,Associates,3.0,1.0,Sagittarius,Poor,03
+43,2006-03-02,Necessary,1975-12-17,30.0,3000.0,2002-04-13,Associates,3.0,1.0,Sagittarius,Poor,03
+44,2009-03-02,Necessary,1959-03-04,49.0,18000.0,1988-09-23,Bachelors,20.0,2.0,Pisces,Upper-middle Class,03
+45,2009-03-02,Necessary,1969-10-29,39.0,10000.0,1994-09-09,Bachelors,14.0,2.0,Scorpio,Lower-middle Class,03
+46,2001-04-02,Voluntary,1970-04-26,30.0,2500.0,1992-11-28,High School,8.0,1.0,Taurus,Poor,04
+47,2001-04-02,Voluntary,1973-11-02,27.0,3500.0,1998-08-21,Bachelors,2.0,1.0,Scorpio,Poor,04
+48,2007-04-02,Necessary,1951-10-17,55.0,12000.0,1989-12-23,Bachelors,14.0,2.0,Libra,Lower-middle Class,04
+49,2007-04-02,Necessary,1973-11-14,33.0,3500.0,2003-11-28,Bachelors,3.0,1.0,Scorpio,Poor,04
+50,2012-04-02,Voluntary,1972-11-06,39.0,6000.0,1988-10-08,Associates,25.0,1.0,Scorpio,Poor,04
+51,2000-05-02,Voluntary,1970-03-18,30.0,6000.0,1991-08-24,Associates,8.0,2.0,Pisces,Poor,05
+52,2003-05-02,Voluntary,1969-02-22,34.0,7000.0,1994-12-16,Bachelors,8.0,3.0,Pisces,Poor,05
+53,2006-05-02,Necessary,1956-04-19,50.0,5000.0,1994-05-25,Bachelors,11.0,1.0,Aries,Poor,05
+54,2006-05-02,Necessary,1975-01-31,31.0,4000.0,2002-08-21,Associates,3.0,1.0,Aquarius,Poor,05
+55,2006-05-02,Necessary,1967-02-05,39.0,2000.0,1990-11-19,High School,15.0,3.0,Aquarius,Poor,05
+56,2011-05-02,Necessary,1974-09-09,36.0,12000.0,2009-01-16,Associates,2.0,1.0,Virgo,Lower-middle Class,05
+57,2011-05-02,Necessary,1966-10-24,44.0,15000.0,2001-11-17,Bachelors,9.0,1.0,Scorpio,Upper-middle Class,05
+58,2011-05-02,Necessary,1955-06-19,55.0,10000.0,1979-11-17,Bachelors,32.0,2.0,Gemini,Lower-middle Class,05
+59,2012-05-02,Necessary,1970-12-29,41.0,412362.0,1993-04-07,Associates,19.0,1.0,Capricorn,Wealthy,05
+60,2005-06-02,Necessary,1954-03-10,51.0,20000.0,1975-12-22,Bachelors,29.0,2.0,Pisces,Wealthy,06
+61,2006-06-02,Necessary,1964-08-15,41.0,5000.0,1998-12-19,Bachelors,7.0,2.0,Leo,Poor,06
+62,2010-06-02,Necessary,1972-10-06,37.0,4000.0,1998-04-03,Bachelors,12.0,3.0,Libra,Poor,06
+63,2003-07-02,Voluntary,1968-04-15,35.0,5000.0,1995-06-02,Bachelors,8.0,1.0,Aries,Poor,07
+64,2008-07-02,Necessary,1959-06-15,49.0,5000.0,2003-05-02,Bachelors,3.0,3.0,Gemini,Poor,07
+65,2009-07-02,Necessary,1969-05-31,40.0,3000.0,1996-03-20,High School,10.0,2.0,Gemini,Poor,07
+66,2014-07-02,Necessary,1974-10-22,39.0,19000.0,2006-09-13,Associates,7.0,2.0,Libra,Upper-middle Class,07
+67,2003-09-02,Voluntary,1965-11-09,37.0,15000.0,1999-09-10,Bachelors,3.0,1.0,Scorpio,Upper-middle Class,09
+68,2003-09-02,Voluntary,1966-01-07,37.0,7000.0,1989-09-19,High School,13.0,3.0,Capricorn,Poor,09
+69,2004-09-02,Voluntary,1966-11-02,37.0,20000.0,1989-11-03,Bachelors,15.0,1.0,Scorpio,Wealthy,09
+70,2010-09-02,Necessary,1985-12-05,24.0,2500.0,2007-09-03,Bachelors,3.0,1.0,Sagittarius,Poor,09
+71,2013-09-02,Necessary,1965-07-20,48.0,10000.0,1991-11-15,Bachelors,21.0,3.0,Cancer,Lower-middle Class,09
+72,2001-10-02,Voluntary,1970-11-13,30.0,3500.0,1995-02-25,Bachelors,6.0,1.0,Scorpio,Poor,10
+73,2006-10-02,Voluntary,1955-10-10,50.0,40000.0,1981-04-06,Bachelors,24.0,1.0,Libra,Wealthy,10
+74,2006-10-02,Necessary,1968-11-05,37.0,9000.0,1989-08-12,High School,17.0,2.0,Scorpio,Poor,10
+75,2006-10-02,Necessary,1973-01-07,33.0,15000.0,1993-07-22,Associates,13.0,1.0,Capricorn,Upper-middle Class,10
+76,2009-10-02,Necessary,1968-11-26,40.0,6000.0,1999-04-29,Bachelors,9.0,1.0,Sagittarius,Poor,10
+77,2009-10-02,Necessary,1971-08-17,38.0,10000.0,2002-07-13,Bachelors,5.0,1.0,Leo,Lower-middle Class,10
+78,2013-10-02,Necessary,1975-01-09,38.0,3000.0,1996-11-30,Associates,9.0,2.0,Capricorn,Poor,10
+79,2009-12-02,Necessary,1973-06-30,36.0,4000.0,2003-07-08,Associates,6.0,1.0,Cancer,Poor,12
+80,2011-12-02,Necessary,1975-09-22,36.0,6000.0,1999-08-17,High School,12.0,1.0,Virgo,Poor,12
+81,2011-12-02,Necessary,1972-07-14,39.0,15600.0,1997-04-26,Bachelors,14.0,1.0,Cancer,Upper-middle Class,12
+82,2014-12-02,Voluntary,1951-04-22,63.0,20000.0,1985-07-20,Bachelors,29.0,2.0,Taurus,Wealthy,12
+83,2001-01-03,Voluntary,1969-11-13,31.0,5400.0,1993-02-15,Bachelors,7.0,2.0,Scorpio,Poor,01
+84,2002-01-03,Voluntary,1960-01-04,41.0,12000.0,1992-08-01,Bachelors,9.0,1.0,Capricorn,Lower-middle Class,01
+85,2012-01-03,Voluntary,1961-01-09,50.0,18000.0,1983-12-16,Bachelors,28.0,2.0,Capricorn,Upper-middle Class,01
+86,2013-01-03,Necessary,1980-09-16,32.0,30000.0,2007-05-26,Bachelors,5.0,1.0,Virgo,Wealthy,01
+87,2010-02-03,Voluntary,1958-09-14,51.0,5000.0,1978-03-27,Elementary,30.0,2.0,Virgo,Poor,02
+88,2004-03-03,Voluntary,1967-12-02,36.0,2240.0,1992-07-14,Bachelors,11.0,3.0,Sagittarius,Poor,03
+89,2004-03-03,Voluntary,1954-11-24,49.0,25000.0,1986-06-07,Bachelors,17.0,2.0,Sagittarius,Wealthy,03
+90,2008-03-03,Necessary,1948-09-22,59.0,2000.0,1973-04-26,Elementary,26.0,5.0,Virgo,Poor,03
+91,2011-03-03,Necessary,1970-11-30,40.0,10000.0,1995-04-29,Associates,15.0,3.0,Sagittarius,Lower-middle Class,03
+92,2011-03-03,Necessary,1973-12-01,37.0,4000.0,1991-06-17,High School,19.0,1.0,Sagittarius,Poor,03
+93,2002-04-03,Voluntary,1970-03-26,32.0,5000.0,1996-04-20,High School,5.0,2.0,Aries,Poor,04
+94,2002-04-03,Voluntary,1954-09-25,47.0,16000.0,1991-06-25,Bachelors,10.0,2.0,Libra,Upper-middle Class,04
+95,2003-04-03,Voluntary,1965-03-29,38.0,4800.0,1994-06-25,Associates,8.0,1.0,Aries,Poor,04
+96,2007-04-03,Necessary,1980-12-05,26.0,5000.0,2005-05-04,Associates,1.0,1.0,Sagittarius,Poor,04
+97,2007-04-03,Necessary,1981-10-28,25.0,3000.0,2001-02-26,Associates,6.0,1.0,Scorpio,Poor,04
+98,2008-04-03,Necessary,1969-08-19,38.0,10856.0,1994-12-17,Bachelors,14.0,1.0,Leo,Lower-middle Class,04
+99,2002-05-03,Voluntary,1958-05-12,43.0,4500.0,1984-12-17,Bachelors,17.0,2.0,Taurus,Poor,05
+100,2006-05-03,Voluntary,1951-08-02,54.0,18000.0,2005-04-16,Bachelors,1.0,2.0,Leo,Upper-middle Class,05
+101,2012-05-03,Necessary,1970-11-30,41.0,563218.0,1998-09-17,Bachelors,13.0,1.0,Sagittarius,Wealthy,05
+102,2013-05-03,Necessary,1977-05-24,35.0,10000.0,2001-09-20,Bachelors,12.0,1.0,Gemini,Lower-middle Class,05
+103,2002-06-03,Voluntary,1970-08-22,31.0,6250.0,1992-12-30,Associates,9.0,1.0,Leo,Poor,06
+104,2002-06-03,Voluntary,1967-09-20,34.0,4500.0,1991-06-08,Bachelors,10.0,1.0,Virgo,Poor,06
+105,2009-06-03,Voluntary,1963-01-18,46.0,5000.0,1989-08-01,Associates,29.0,2.0,Capricorn,Poor,06
+106,2014-06-03,Necessary,1974-04-15,40.0,6000.0,2006-02-17,Associates,9.0,1.0,Aries,Poor,06
+107,2014-06-03,Necessary,1985-02-11,29.0,4000.0,2011-05-27,High School,2.0,1.0,Aquarius,Poor,06
+108,2000-07-03,Voluntary,1955-10-30,44.0,5000.0,1981-06-05,Bachelors,1.0,1.0,Scorpio,Poor,07
+109,2001-07-03,Voluntary,1947-05-12,54.0,100000.0,1974-09-21,Bachelors,26.0,2.0,Taurus,Wealthy,07
+110,2001-07-03,Voluntary,1960-05-03,41.0,3000.0,1981-04-28,Elementary,20.0,3.0,Taurus,Poor,07
+111,2003-07-03,Voluntary,1964-10-28,38.0,5400.0,1995-06-02,Bachelors,8.0,1.0,Scorpio,Poor,07
+112,2012-07-03,Necessary,1966-12-05,45.0,8000.0,1992-10-22,Associates,20.0,1.0,Sagittarius,Poor,07
+113,2001-08-03,Voluntary,1973-07-04,28.0,3000.0,1999-07-03,High School,2.0,1.0,Cancer,Poor,08
+114,2009-08-03,Necessary,1961-12-16,47.0,6000.0,1993-03-20,Bachelors,16.0,1.0,Sagittarius,Poor,08
+115,2009-08-03,Necessary,1973-04-16,36.0,11000.0,2002-05-07,Associates,7.0,1.0,Aries,Lower-middle Class,08
+116,2007-09-03,Necessary,1970-09-05,36.0,7400.0,1990-10-30,Associates,16.0,3.0,Virgo,Poor,09
+117,2007-09-03,Necessary,1961-04-15,46.0,7000.0,1984-01-28,Bachelors,23.0,1.0,Aries,Poor,09
+118,2013-09-03,Necessary,1978-07-30,35.0,8000.0,1998-10-09,Bachelors,15.0,1.0,Leo,Poor,09
+119,2001-10-03,Voluntary,1961-10-22,39.0,4000.0,1985-07-30,Bachelors,16.0,2.0,Libra,Poor,10
+120,2001-10-03,Voluntary,1963-02-04,38.0,3000.0,1982-06-05,Associates,19.0,3.0,Aquarius,Poor,10
+121,2008-10-03,Necessary,1975-01-24,33.0,7000.0,2006-08-21,Bachelors,1.0,1.0,Aquarius,Poor,10
+122,2008-10-03,Voluntary,1964-10-24,43.0,35000.0,1985-02-13,High School,23.0,3.0,Scorpio,Wealthy,10
+123,2012-10-03,Necessary,1980-08-05,32.0,4000.0,2006-09-29,Bachelors,4.0,1.0,Leo,Poor,10
+124,2004-11-03,Voluntary,1961-11-26,42.0,15000.0,1993-05-22,Bachelors,11.0,2.0,Sagittarius,Upper-middle Class,11
+125,2008-11-03,Necessary,1972-11-16,35.0,6000.0,1995-08-18,Bachelors,12.0,3.0,Scorpio,Poor,11
+126,2009-11-03,Necessary,1963-12-26,45.0,10000.0,1990-01-12,Bachelors,19.0,2.0,Capricorn,Lower-middle Class,11
+127,2009-11-03,Necessary,1964-11-22,44.0,9000.0,1999-09-22,Bachelors,10.0,2.0,Sagittarius,Poor,11
+128,2011-11-03,Necessary,1977-07-08,34.0,6000.0,2001-07-25,Bachelors,10.0,1.0,Cancer,Poor,11
+129,2011-11-03,Necessary,1963-11-19,47.0,25000.0,1998-10-17,Bachelors,13.0,3.0,Scorpio,Wealthy,11
+130,2001-12-03,Voluntary,1949-08-28,52.0,2500.0,1974-03-16,High School,27.0,4.0,Virgo,Poor,12
+131,2001-12-03,Voluntary,1961-01-06,40.0,1000.0,1988-04-16,Elementary,13.0,3.0,Capricorn,Poor,12
+132,2004-12-03,Voluntary,1957-09-20,47.0,2120.0,1981-12-17,Bachelors,22.0,2.0,Virgo,Poor,12
+133,2004-12-03,Voluntary,1954-06-15,50.0,16000.0,1981-08-29,Bachelors,23.0,3.0,Gemini,Upper-middle Class,12
+134,2007-12-03,Necessary,1952-07-29,55.0,4500.0,1986-05-10,Bachelors,25.0,2.0,Leo,Poor,12
+135,2008-12-03,Necessary,1961-09-22,47.0,3500.0,1990-02-03,Bachelors,18.0,2.0,Virgo,Poor,12
+136,2008-12-03,Necessary,1951-06-11,57.0,4400.0,1981-05-07,Bachelors,27.0,2.0,Gemini,Poor,12
+137,2009-12-03,Necessary,1955-09-03,54.0,6500.0,1979-04-11,Bachelors,9.0,2.0,Virgo,Poor,12
+138,2001-01-04,Voluntary,1943-06-03,57.0,10000.0,2031-08-31,Associates,30.0,4.0,Gemini,Lower-middle Class,01
+139,2012-01-04,Necessary,1958-10-07,53.0,13000.0,1976-08-28,Bachelors,29.0,3.0,Libra,Lower-middle Class,01
+140,2002-02-04,Voluntary,1970-09-24,31.0,10000.0,1997-07-11,Bachelors,4.0,1.0,Libra,Lower-middle Class,02
+141,2005-02-04,Voluntary,1948-12-10,56.0,14000.0,1972-04-09,Bachelors,32.0,2.0,Sagittarius,Lower-middle Class,02
+142,2010-02-04,Necessary,1962-06-08,47.0,3000.0,2002-06-22,High School,6.0,1.0,Gemini,Poor,02
+143,2010-02-04,Necessary,1964-10-10,45.0,10000.0,1993-02-18,Bachelors,14.0,1.0,Libra,Lower-middle Class,02
+144,2011-02-04,Necessary,1968-06-24,42.0,6000.0,1996-03-30,Associates,14.0,1.0,Cancer,Poor,02
+145,2014-02-04,Necessary,1983-12-06,30.0,6000.0,2008-04-25,High School,5.0,2.0,Sagittarius,Poor,02
+146,2004-03-04,Voluntary,1967-09-30,36.0,17000.0,1990-09-03,Associates,13.0,3.0,Libra,Upper-middle Class,03
+147,2004-03-04,Voluntary,1962-03-20,41.0,12000.0,1999-03-31,Bachelors,4.0,1.0,Pisces,Lower-middle Class,03
+148,2011-03-04,Necessary,1981-04-26,29.0,7000.0,2000-05-09,High School,10.0,3.0,Taurus,Poor,03
+149,2008-04-04,Necessary,1965-08-05,42.0,7000.0,1986-10-25,Associates,21.0,2.0,Leo,Poor,04
+150,2014-04-04,Necessary,1971-04-30,42.0,5000.0,2002-06-28,Bachelors,12.0,2.0,Taurus,Poor,04
+151,2007-05-04,Necessary,1963-11-17,43.0,12000.0,1988-12-10,Bachelors,15.0,1.0,Scorpio,Lower-middle Class,05
+152,2011-05-04,Necessary,1973-04-16,38.0,5000.0,2001-10-24,Bachelors,10.0,2.0,Aries,Poor,05
+153,2002-06-04,Voluntary,1960-12-01,41.0,12000.0,1990-05-12,Bachelors,12.0,1.0,Sagittarius,Lower-middle Class,06
+154,2002-06-04,Voluntary,1964-04-02,38.0,3500.0,1991-11-12,Associates,10.0,1.0,Aries,Poor,06
+155,2007-06-04,Necessary,1977-05-23,30.0,2500.0,1999-12-06,Associates,7.0,1.0,Gemini,Poor,06
+156,2000-07-04,Voluntary,1958-01-12,42.0,5000.0,1982-08-27,Bachelors,17.0,1.0,Capricorn,Poor,07
+157,2003-07-04,Voluntary,1964-12-03,38.0,20000.0,1990-08-10,Elementary,12.0,1.0,Sagittarius,Wealthy,07
+158,2008-07-04,Necessary,1969-03-25,39.0,9000.0,1993-09-28,Bachelors,14.0,2.0,Aries,Poor,07
+159,2011-07-04,Necessary,1979-04-08,32.0,3600.0,1997-07-18,No Education,13.0,2.0,Aries,Poor,07
+160,2003-08-04,Voluntary,1963-02-08,40.0,6000.0,1985-03-11,Associates,18.0,2.0,Aquarius,Poor,08
+161,2003-08-04,Voluntary,1979-01-02,24.0,5000.0,2000-06-17,Associates,3.0,1.0,Capricorn,Poor,08
+162,2003-09-04,Voluntary,1976-05-15,27.0,18000.0,1997-03-24,High School,6.0,1.0,Taurus,Upper-middle Class,09
+163,2006-09-04,Necessary,1969-02-15,37.0,5000.0,1994-08-05,Bachelors,12.0,1.0,Aquarius,Poor,09
+164,2001-10-04,Voluntary,1934-12-28,66.0,2000.0,2052-04-02,Associates,48.0,7.0,Capricorn,Poor,10
+165,2002-10-04,Voluntary,1966-09-01,36.0,35000.0,1998-08-15,Bachelors,4.0,1.0,Virgo,Wealthy,10
+166,2002-10-04,Voluntary,1959-09-30,43.0,5000.0,1999-04-09,Bachelors,3.0,1.0,Libra,Poor,10
+167,2006-10-04,Necessary,1965-09-02,41.0,8000.0,1993-05-08,Bachelors,13.0,2.0,Virgo,Poor,10
+168,2010-10-04,Necessary,1949-04-22,61.0,25000.0,1998-11-28,Bachelors,9.0,2.0,Taurus,Wealthy,10
+169,2011-10-04,Necessary,1973-07-01,38.0,8400.0,1998-02-10,High School,13.0,1.0,Cancer,Poor,10
+170,2011-10-04,Necessary,1970-09-03,41.0,7000.0,1990-03-29,Bachelors,21.0,2.0,Virgo,Poor,10
+171,2012-10-04,Voluntary,1969-05-05,43.0,9000.0,1992-12-18,Bachelors,19.0,1.0,Taurus,Poor,10
+172,2012-10-04,Voluntary,1954-04-26,58.0,7000.0,1978-08-31,Bachelors,34.0,2.0,Taurus,Poor,10
+173,2013-11-04,Voluntary,1956-05-28,57.0,2000.0,1984-05-26,High School,29.0,2.0,Gemini,Poor,11
+174,2000-12-04,Voluntary,1970-02-21,30.0,1500.0,1993-10-07,High School,7.0,1.0,Pisces,Poor,12
+175,2000-12-04,Voluntary,1961-12-13,38.0,7000.0,1987-07-11,Associates,3.0,1.0,Sagittarius,Poor,12
+176,2001-12-04,Voluntary,1954-08-12,47.0,5500.0,1993-12-10,Bachelors,7.0,1.0,Leo,Poor,12
+177,2002-12-04,Voluntary,1978-11-05,24.0,3000.0,1998-12-14,High School,3.0,1.0,Scorpio,Poor,12
+178,2003-12-04,Voluntary,1968-01-27,35.0,7000.0,1996-12-20,Bachelors,6.0,1.0,Aquarius,Poor,12
+179,2003-12-04,Voluntary,1967-06-30,36.0,5000.0,1987-12-15,Bachelors,15.0,2.0,Cancer,Poor,12
+180,2006-12-04,Necessary,1957-12-24,48.0,15000.0,1981-08-01,Bachelors,25.0,1.0,Capricorn,Upper-middle Class,12
+181,2006-12-04,Necessary,1969-10-16,37.0,5000.0,1999-08-20,Associates,7.0,2.0,Libra,Poor,12
+182,2012-12-04,Necessary,1979-03-17,33.0,20000.0,2001-11-24,Bachelors,11.0,1.0,Pisces,Wealthy,12
+183,2013-02-05,Necessary,1974-03-06,38.0,3000.0,1995-10-28,Elementary,16.0,2.0,Pisces,Poor,02
+184,2003-03-05,Voluntary,1960-12-29,42.0,20000.0,1985-12-21,Bachelors,13.0,2.0,Capricorn,Wealthy,03
+185,2003-03-05,Voluntary,1957-03-15,45.0,8000.0,1987-08-21,Bachelors,15.0,1.0,Pisces,Poor,03
+186,2003-03-05,Voluntary,1971-01-31,32.0,4000.0,1997-05-24,Bachelors,5.0,1.0,Aquarius,Poor,03
+187,2003-03-05,Voluntary,1966-05-02,36.0,4000.0,1986-02-12,Associates,17.0,2.0,Taurus,Poor,03
+188,2004-03-05,Voluntary,1963-10-06,40.0,2500.0,1995-05-02,Associates,8.0,1.0,Libra,Poor,03
+189,2004-03-05,Voluntary,1954-07-30,49.0,12000.0,1975-07-21,Elementary,28.0,1.0,Leo,Lower-middle Class,03
+190,2002-04-05,Voluntary,1960-07-28,41.0,3000.0,1983-07-14,Bachelors,18.0,2.0,Leo,Poor,04
+191,2002-04-05,Voluntary,1957-04-16,44.0,8000.0,1974-03-18,High School,27.0,3.0,Aries,Poor,04
+192,2012-04-05,Necessary,1974-07-13,37.0,5500.0,2000-03-03,Bachelors,11.0,2.0,Cancer,Poor,04
+193,2002-06-05,Voluntary,1956-05-02,46.0,2000.0,1982-01-18,Elementary,20.0,2.0,Taurus,Poor,06
+194,2003-06-05,Voluntary,1962-04-11,41.0,6000.0,1986-06-28,Bachelors,16.0,2.0,Aries,Poor,06
+195,2014-06-05,Necessary,1975-05-29,39.0,25000.0,2002-12-20,Bachelors,12.0,2.0,Gemini,Wealthy,06
+196,2000-07-05,Voluntary,1953-05-21,47.0,8000.0,1975-12-22,Associates,24.0,1.0,Gemini,Poor,07
+197,2002-07-05,Voluntary,1977-08-15,24.0,2400.0,1996-02-14,High School,6.0,1.0,Leo,Poor,07
+198,2002-07-05,Voluntary,1960-02-13,42.0,5000.0,1993-01-09,Bachelors,9.0,2.0,Aquarius,Poor,07
+199,2013-07-05,Necessary,1980-01-09,33.0,4000.0,2000-06-01,Associates,10.0,2.0,Capricorn,Poor,07
+200,2002-08-05,Voluntary,1956-08-26,45.0,20000.0,1985-02-23,Bachelors,17.0,2.0,Virgo,Wealthy,08
+201,2003-08-05,Voluntary,1957-05-31,46.0,15000.0,1986-08-09,Bachelors,18.0,1.0,Gemini,Upper-middle Class,08
+202,2009-08-05,Necessary,1974-11-08,34.0,6500.0,1996-06-21,Elementary,13.0,2.0,Scorpio,Poor,08
+203,2010-08-05,Necessary,1957-11-08,52.0,4000.0,1998-10-19,Associates,12.0,2.0,Scorpio,Poor,08
+204,2000-09-05,Voluntary,1954-04-25,46.0,12000.0,1979-10-26,Bachelors,20.0,2.0,Taurus,Lower-middle Class,09
+205,2003-09-05,Voluntary,1969-08-10,34.0,2600.0,1995-10-05,High School,7.0,2.0,Leo,Poor,09
+206,2003-09-05,Voluntary,1958-02-14,45.0,50000.0,1979-05-14,Associates,24.0,3.0,Aquarius,Wealthy,09
+207,2005-09-05,Necessary,1946-03-04,59.0,50000.0,1971-07-09,Bachelors,34.0,3.0,Pisces,Wealthy,09
+208,2005-09-05,Necessary,1953-06-01,52.0,50000.0,1977-04-06,Bachelors,28.0,3.0,Gemini,Wealthy,09
+209,2005-09-05,Necessary,1943-10-08,61.0,20000.0,1996-09-12,Bachelors,9.0,3.0,Libra,Wealthy,09
+210,2011-09-05,Necessary,1977-08-20,34.0,20000.0,2005-09-10,Bachelors,5.0,1.0,Leo,Wealthy,09
+211,2011-09-05,Necessary,1965-12-29,45.0,4000.0,1989-08-17,Bachelors,22.0,2.0,Capricorn,Poor,09
+212,2012-09-05,Necessary,1985-06-03,27.0,15000.0,2007-04-14,Bachelors,5.0,1.0,Gemini,Upper-middle Class,09
+213,2001-10-05,Voluntary,1962-06-06,39.0,9000.0,1991-02-14,Bachelors,10.0,2.0,Gemini,Poor,10
+214,2009-10-05,Voluntary,1951-07-19,58.0,3620.0,1981-11-14,Bachelors,28.0,2.0,Cancer,Poor,10
+215,2009-10-05,Necessary,1971-08-31,38.0,15000.0,1994-01-15,Bachelors,15.0,1.0,Virgo,Upper-middle Class,10
+216,2009-10-05,Necessary,1941-12-29,67.0,7000.0,2067-11-04,Associates,22.0,1.0,Capricorn,Poor,10
+217,2011-10-05,Necessary,1964-11-19,46.0,20000.0,1990-11-17,Bachelors,20.0,1.0,Scorpio,Wealthy,10
+218,2011-10-05,Necessary,1973-07-25,38.0,2500.0,2001-02-09,Associates,10.0,2.0,Leo,Poor,10
+219,2012-10-05,Necessary,1980-12-10,31.0,4000.0,2008-08-08,Associates,4.0,1.0,Sagittarius,Poor,10
+220,2012-10-05,Necessary,1967-01-09,45.0,50000.0,1993-08-04,Associates,19.0,5.0,Capricorn,Wealthy,10
+221,2001-11-05,Voluntary,1953-05-28,48.0,1200.0,1988-02-29,Elementary,13.0,3.0,Gemini,Poor,11
+222,2007-11-05,Necessary,1950-05-18,57.0,25000.0,1972-12-09,Bachelors,35.0,2.0,Taurus,Wealthy,11
+223,2007-11-05,Necessary,1974-11-04,32.0,6000.0,1997-12-19,Bachelors,10.0,1.0,Scorpio,Poor,11
+224,2009-11-05,Necessary,1958-11-22,50.0,15900.0,1976-06-04,Bachelors,29.0,3.0,Sagittarius,Upper-middle Class,11
+225,2009-11-05,Necessary,1968-10-24,41.0,45000.0,1995-01-07,Bachelors,14.0,2.0,Scorpio,Wealthy,11
+226,2010-11-05,Necessary,1963-07-31,47.0,6000.0,1989-12-21,Bachelors,20.0,2.0,Leo,Poor,11
+227,2000-12-05,Voluntary,1973-06-01,27.0,4000.0,1995-12-21,Associates,4.0,1.0,Gemini,Poor,12
+228,2001-12-05,Voluntary,1967-01-15,34.0,10000.0,1997-09-13,Associates,4.0,1.0,Capricorn,Lower-middle Class,12
+229,2003-12-05,Voluntary,1956-03-20,47.0,6500.0,1981-11-07,Bachelors,22.0,3.0,Pisces,Poor,12
+230,2006-12-05,Necessary,1974-05-09,32.0,12000.0,2001-04-14,Bachelors,5.0,2.0,Taurus,Lower-middle Class,12
+231,2008-12-05,Necessary,1974-07-31,34.0,3000.0,1997-12-11,High School,10.0,2.0,Leo,Poor,12
+232,2013-12-05,Necessary,1966-03-29,47.0,10000.0,1986-12-30,Bachelors,19.0,2.0,Aries,Lower-middle Class,12
+233,2009-01-06,Necessary,1954-02-25,54.0,13000.0,1985-05-17,Bachelors,23.0,2.0,Pisces,Lower-middle Class,01
+234,2002-02-06,Voluntary,1968-07-22,33.0,3050.0,1995-07-19,Associates,6.0,1.0,Cancer,Poor,02
+235,2003-02-06,Voluntary,1971-01-18,32.0,4000.0,1996-03-11,Bachelors,6.0,1.0,Capricorn,Poor,02
+236,2004-02-06,Voluntary,1971-06-27,32.0,10000.0,1995-08-09,Bachelors,8.0,1.0,Cancer,Lower-middle Class,02
+237,2014-02-06,Necessary,1953-04-03,60.0,30000.0,1980-02-23,Bachelors,29.0,3.0,Aries,Wealthy,02
+238,2014-02-06,Necessary,1975-03-13,38.0,6000.0,2004-07-30,Bachelors,9.0,1.0,Pisces,Poor,02
+239,2007-03-06,Necessary,1979-07-26,27.0,2000.0,2004-08-10,Associates,2.0,1.0,Leo,Poor,03
+240,2008-03-06,Necessary,1970-07-14,37.0,3000.0,1994-09-30,Elementary,13.0,1.0,Cancer,Poor,03
+241,2012-03-06,Necessary,1972-12-01,39.0,4000.0,2002-01-23,Elementary,8.0,1.0,Sagittarius,Poor,03
+242,2012-03-06,Voluntary,1957-12-05,54.0,10000.0,1983-04-30,Bachelors,20.0,2.0,Sagittarius,Lower-middle Class,03
+243,2001-04-06,Voluntary,1953-03-06,48.0,8000.0,1978-03-20,Elementary,23.0,2.0,Pisces,Poor,04
+244,2004-04-06,Voluntary,1968-11-10,35.0,6000.0,1990-01-05,Bachelors,14.0,3.0,Scorpio,Poor,04
+245,2006-04-06,Necessary,1943-07-31,62.0,25000.0,2068-01-25,Bachelors,37.0,2.0,Leo,Wealthy,04
+246,2006-04-06,Necessary,1975-03-17,31.0,4330.0,1996-12-07,Associates,9.0,1.0,Pisces,Poor,04
+247,2009-04-06,Necessary,1970-11-04,38.0,6000.0,1996-07-06,Bachelors,31.0,2.0,Scorpio,Poor,04
+248,2009-04-06,Necessary,1979-08-07,29.0,4000.0,2002-03-08,Associates,6.0,1.0,Leo,Poor,04
+249,2010-04-06,Necessary,1964-05-18,45.0,4000.0,1986-10-20,Associates,23.0,4.0,Taurus,Poor,04
+250,2011-04-06,Necessary,1978-12-01,32.0,4000.0,2006-02-14,High School,5.0,2.0,Sagittarius,Poor,04
+251,2002-05-06,Voluntary,1965-10-25,36.0,561676.0,1994-08-12,Bachelors,7.0,1.0,Scorpio,Wealthy,05
+252,2002-05-06,Voluntary,1966-11-03,35.0,2000.0,1985-06-29,Elementary,16.0,1.0,Scorpio,Poor,05
+253,2004-05-06,Voluntary,1966-07-26,37.0,1500.0,1989-12-08,Associates,13.0,2.0,Leo,Poor,05
+254,2009-05-06,Necessary,1962-09-27,46.0,4000.0,1982-04-12,Bachelors,27.0,2.0,Libra,Poor,05
+255,2010-05-06,Necessary,1963-03-12,47.0,20000.0,2000-03-10,Bachelors,10.0,1.0,Pisces,Wealthy,05
+256,2000-06-06,Necessary,1968-08-22,31.0,2500.0,1988-11-25,High School,11.0,2.0,Leo,Poor,06
+257,2001-06-06,Voluntary,1971-09-21,29.0,4000.0,1991-04-20,Associates,10.0,2.0,Virgo,Poor,06
+258,2001-06-06,Voluntary,1970-04-30,31.0,2800.0,1988-05-19,Bachelors,11.0,2.0,Taurus,Poor,06
+259,2013-06-06,Necessary,1982-08-28,30.0,3500.0,2010-07-15,Associates,2.0,2.0,Virgo,Poor,06
+260,2000-07-06,Voluntary,1971-10-08,28.0,2500.0,1992-03-14,High School,1.0,1.0,Libra,Poor,07
+261,2001-07-06,Voluntary,1945-01-25,56.0,5000.0,1992-09-09,Bachelors,10.0,1.0,Aquarius,Poor,07
+262,2001-07-06,Voluntary,1948-11-15,52.0,2500.0,1970-10-17,Elementary,30.0,4.0,Scorpio,Poor,07
+263,2002-08-06,Voluntary,1972-08-08,29.0,8300.0,1991-08-09,Bachelors,10.0,2.0,Leo,Poor,08
+264,2014-08-06,Voluntary,1967-10-13,46.0,3000.0,1990-05-09,High School,24.0,1.0,Libra,Poor,08
+265,2005-10-06,Necessary,1945-08-21,60.0,10900.0,1980-10-11,Bachelors,24.0,2.0,Leo,Lower-middle Class,10
+266,2008-10-06,Necessary,1957-05-10,51.0,2800.0,1988-05-26,Bachelors,5.0,2.0,Taurus,Poor,10
+267,2000-11-06,Voluntary,1972-12-07,27.0,2500.0,1994-06-13,High School,6.0,1.0,Sagittarius,Poor,11
+268,2006-11-06,Necessary,1962-03-18,44.0,9000.0,1982-05-07,Bachelors,24.0,2.0,Pisces,Poor,11
+269,2007-11-06,Necessary,1973-05-22,34.0,6000.0,1998-11-13,Bachelors,9.0,1.0,Gemini,Poor,11
+270,2008-11-06,Necessary,1978-04-11,30.0,7000.0,1999-03-15,Bachelors,2.0,2.0,Aries,Poor,11
+271,2000-12-06,Voluntary,1943-01-02,57.0,10000.0,1981-01-02,Bachelors,19.0,3.0,Capricorn,Lower-middle Class,12
+272,2000-12-06,Voluntary,1957-11-19,43.0,2500.0,1993-12-29,Bachelors,6.0,1.0,Scorpio,Poor,12
+273,2002-12-06,Voluntary,1959-02-17,43.0,3000.0,1984-11-30,Elementary,7.0,2.0,Aquarius,Poor,12
+274,2003-01-07,Voluntary,1967-12-03,35.0,4000.0,1992-07-20,Associates,10.0,2.0,Sagittarius,Poor,01
+275,2002-02-07,Voluntary,1962-08-29,39.0,4000.0,1985-05-13,Elementary,16.0,4.0,Virgo,Poor,02
+276,2006-02-07,Necessary,1961-05-14,44.0,2000.0,1991-08-03,Associates,14.0,2.0,Taurus,Poor,02
+277,2006-02-07,Necessary,1969-04-29,36.0,2800.0,1995-12-05,Associates,10.0,1.0,Taurus,Poor,02
+278,2013-02-07,Necessary,1976-08-09,41.0,6000.0,1993-01-05,Associates,20.0,1.0,Leo,Poor,02
+279,2014-02-07,Necessary,1969-08-25,44.0,70000.0,1995-12-22,Bachelors,18.0,2.0,Virgo,Wealthy,02
+280,2001-03-07,Voluntary,1966-01-06,35.0,6600.0,1990-12-03,Bachelors,6.0,2.0,Capricorn,Poor,03
+281,2002-03-07,Voluntary,1973-02-20,29.0,750000.0,1996-08-22,Associates,5.0,1.0,Pisces,Wealthy,03
+282,2003-03-07,Voluntary,1962-10-30,40.0,2500.0,1991-12-16,Associates,11.0,2.0,Scorpio,Poor,03
+283,2003-03-07,Voluntary,1975-09-04,27.0,1300.0,1997-06-19,Associates,5.0,1.0,Virgo,Poor,03
+284,2005-03-07,Necessary,1965-10-17,39.0,5000.0,1988-04-30,Bachelors,16.0,3.0,Libra,Poor,03
+285,2006-03-07,Necessary,1958-05-22,47.0,35000.0,1989-06-24,Bachelors,14.0,2.0,Gemini,Wealthy,03
+286,2008-03-07,Necessary,1971-10-26,36.0,3000.0,1999-12-20,High School,8.0,2.0,Scorpio,Poor,03
+287,2004-04-07,Voluntary,1964-01-11,40.0,3000.0,1986-06-17,Associates,17.0,2.0,Capricorn,Poor,04
+288,2004-04-07,Voluntary,1954-12-24,49.0,5000.0,1979-01-15,Bachelors,25.0,2.0,Capricorn,Poor,04
+289,2004-04-07,Voluntary,1955-05-19,48.0,12000.0,1980-10-18,Bachelors,23.0,2.0,Taurus,Lower-middle Class,04
+290,2004-04-07,Voluntary,1975-03-06,29.0,5000.0,1999-02-20,Associates,5.0,2.0,Pisces,Poor,04
+291,2006-04-07,Necessary,1958-02-14,48.0,3500.0,1980-08-15,Associates,25.0,3.0,Aquarius,Poor,04
+292,2010-04-07,Necessary,1972-07-31,37.0,2000.0,1993-07-31,Bachelors,15.0,1.0,Leo,Poor,04
+293,2011-04-07,Necessary,1974-02-04,37.0,9000.0,2001-12-14,Associates,1.0,1.0,Aquarius,Poor,04
+294,2002-05-07,Voluntary,1952-02-19,50.0,4000.0,1981-09-26,Bachelors,20.0,1.0,Pisces,Poor,05
+295,2003-05-07,Voluntary,1972-06-25,30.0,2000.0,1993-02-18,High School,10.0,1.0,Cancer,Poor,05
+296,2004-05-07,Voluntary,1975-03-31,29.0,10500.0,1997-05-24,Bachelors,6.0,1.0,Aries,Lower-middle Class,05
+297,2004-05-07,Voluntary,1949-03-13,55.0,6000.0,1973-12-17,Bachelors,30.0,3.0,Pisces,Poor,05
+298,2007-05-07,Necessary,1972-11-25,34.0,6000.0,2004-05-14,Bachelors,2.0,1.0,Sagittarius,Poor,05
+299,2008-05-07,Necessary,1977-02-10,31.0,3000.0,1998-06-05,Bachelors,1.0,2.0,Aquarius,Poor,05
+300,2009-05-07,Necessary,1972-05-17,36.0,6000.0,2001-01-29,Associates,5.0,1.0,Taurus,Poor,05
+301,2012-05-07,Necessary,1985-09-18,26.0,10000.0,2005-08-18,Bachelors,5.0,1.0,Virgo,Lower-middle Class,05
+302,2002-06-07,Voluntary,1972-11-14,29.0,2200.0,1995-12-27,Associates,6.0,1.0,Scorpio,Poor,06
+303,2012-06-07,Necessary,1981-01-03,31.0,7500.0,2004-07-29,Bachelors,6.0,1.0,Capricorn,Poor,06
+304,2000-07-07,Voluntary,1967-05-05,33.0,4800.0,1992-12-20,Bachelors,1.0,1.0,Taurus,Poor,07
+305,2003-07-07,Voluntary,1946-08-24,56.0,6000.0,1988-12-17,Bachelors,14.0,1.0,Virgo,Poor,07
+306,2006-07-07,Necessary,1970-10-28,35.0,5000.0,1997-12-19,Bachelors,5.0,2.0,Scorpio,Poor,07
+307,2008-07-07,Necessary,1973-02-28,35.0,5000.0,1994-10-08,High School,13.0,2.0,Pisces,Poor,07
+308,2000-08-07,Voluntary,1965-10-01,34.0,10000.0,1995-08-18,Bachelors,4.0,1.0,Libra,Lower-middle Class,08
+309,2009-08-07,Necessary,1975-10-28,33.0,4000.0,2005-02-10,High School,4.0,1.0,Scorpio,Poor,08
+310,2000-09-07,Voluntary,1963-04-20,37.0,10000.0,1994-04-23,Bachelors,6.0,2.0,Taurus,Lower-middle Class,09
+311,2000-09-07,Voluntary,1961-07-23,39.0,10000.0,1990-04-11,Bachelors,10.0,2.0,Leo,Lower-middle Class,09
+312,2006-09-07,Necessary,1974-07-23,32.0,8000.0,1994-07-15,Bachelors,11.0,2.0,Leo,Poor,09
+313,2007-09-07,Necessary,1962-07-17,45.0,10000.0,1995-01-20,Bachelors,12.0,2.0,Cancer,Lower-middle Class,09
+314,2011-09-07,Necessary,1965-08-07,46.0,6000.0,2002-01-19,Bachelors,9.0,1.0,Leo,Poor,09
+315,2003-10-07,Voluntary,1966-02-21,37.0,40000.0,1987-03-09,Associates,16.0,2.0,Pisces,Wealthy,10
+316,2003-10-07,Voluntary,1970-01-27,33.0,10000.0,1998-01-17,Bachelors,5.0,1.0,Aquarius,Lower-middle Class,10
+317,2003-10-07,Necessary,1955-12-13,47.0,14000.0,1989-12-16,Bachelors,13.0,3.0,Sagittarius,Lower-middle Class,10
+318,2008-10-07,Necessary,1968-02-29,40.0,7000.0,1990-12-08,Bachelors,17.0,2.0,Pisces,Poor,10
+319,2000-11-07,Voluntary,1962-05-14,38.0,937.0,1998-10-24,High School,2.0,1.0,Taurus,Poor,11
+320,2000-11-07,Voluntary,1956-08-06,44.0,10000.0,1996-12-20,Other,3.0,2.0,Leo,Lower-middle Class,11
+321,2001-11-07,Voluntary,1974-04-01,27.0,4000.0,1995-05-31,Associates,6.0,2.0,Aries,Poor,11
+322,2006-11-07,Necessary,1947-05-12,59.0,15000.0,1972-06-22,Bachelors,34.0,3.0,Taurus,Upper-middle Class,11
+323,2007-11-07,Necessary,1974-11-24,32.0,5000.0,2000-07-24,Bachelors,7.0,2.0,Sagittarius,Poor,11
+324,2011-11-07,Necessary,1958-05-08,53.0,12000.0,1980-12-05,Bachelors,20.0,2.0,Taurus,Lower-middle Class,11
+325,2012-11-07,Necessary,1975-10-10,37.0,8000.0,2000-04-26,Associates,12.0,2.0,Libra,Poor,11
+326,2000-12-07,Voluntary,1965-09-26,35.0,8000.0,1992-06-25,Bachelors,8.0,2.0,Libra,Poor,12
+327,2006-12-07,Necessary,1969-08-21,37.0,3000.0,1998-12-16,Bachelors,8.0,2.0,Leo,Poor,12
+328,2006-12-07,Necessary,1973-05-15,33.0,5000.0,1998-12-19,Bachelors,8.0,1.0,Taurus,Poor,12
+329,2007-12-07,Necessary,1961-12-20,45.0,17000.0,1997-02-22,Associates,10.0,2.0,Sagittarius,Upper-middle Class,12
+330,2007-12-07,Necessary,1970-12-27,36.0,550.0,1995-02-02,High School,8.0,3.0,Capricorn,Poor,12
+331,2009-12-07,Necessary,1974-11-24,35.0,6000.0,2000-12-07,Bachelors,8.0,1.0,Sagittarius,Poor,12
+332,2009-12-07,Necessary,1975-01-06,34.0,6000.0,1994-02-23,High School,15.0,2.0,Capricorn,Poor,12
+333,2009-12-07,Necessary,1977-08-25,32.0,6000.0,1994-04-08,High School,13.0,2.0,Virgo,Poor,12
+334,2011-12-07,Necessary,1979-11-15,32.0,3500.0,2002-06-24,High School,9.0,2.0,Scorpio,Poor,12
+335,2011-12-07,Necessary,1965-11-19,46.0,20000.0,1997-09-20,Bachelors,13.0,1.0,Scorpio,Wealthy,12
+336,2007-01-08,Necessary,1963-12-08,43.0,4200.0,1990-12-19,Bachelors,15.0,2.0,Sagittarius,Poor,01
+337,2001-02-08,Voluntary,1962-06-07,38.0,1600.0,1986-12-16,Associates,14.0,2.0,Gemini,Poor,02
+338,2010-02-08,Necessary,1961-12-20,48.0,1000.0,1997-01-31,Bachelors,12.0,2.0,Sagittarius,Poor,02
+339,2010-02-08,Voluntary,1951-08-11,58.0,6000.0,1977-07-29,Bachelors,5.0,1.0,Leo,Poor,02
+340,2008-04-08,Necessary,1965-10-18,42.0,500.0,1998-09-17,Elementary,5.0,1.0,Libra,Poor,04
+341,2008-04-08,Necessary,1970-08-26,37.0,6000.0,1992-07-17,Bachelors,16.0,2.0,Virgo,Poor,04
+342,2010-04-08,Necessary,1963-03-21,47.0,9600.0,1992-12-19,Bachelors,15.0,2.0,Aries,Poor,04
+343,2010-04-08,Necessary,1965-10-03,44.0,24000.0,1990-04-24,Bachelors,19.0,3.0,Libra,Wealthy,04
+344,2000-05-08,Voluntary,1975-08-12,24.0,1100.0,1996-12-16,Bachelors,3.0,1.0,Leo,Poor,05
+345,2014-05-08,Necessary,1986-05-19,27.0,12000.0,2008-03-18,Associates,6.0,1.0,Taurus,Lower-middle Class,05
+346,2001-06-08,Voluntary,1965-06-11,35.0,4500.0,1988-07-22,Bachelors,12.0,2.0,Gemini,Poor,06
+347,2008-07-08,Necessary,1964-05-09,44.0,7000.0,1991-11-23,Bachelors,16.0,2.0,Taurus,Poor,07
+348,2009-07-08,Necessary,1958-02-15,51.0,5000.0,1980-07-10,High School,28.0,3.0,Aquarius,Poor,07
+349,2014-07-08,Voluntary,1961-10-27,52.0,8200.0,1986-01-24,Bachelors,28.0,1.0,Scorpio,Poor,07
+350,2004-09-08,Voluntary,1962-01-30,42.0,10000.0,1982-12-22,Bachelors,21.0,3.0,Aquarius,Lower-middle Class,09
+351,2008-09-08,Necessary,1968-08-24,40.0,2000.0,1990-11-08,Bachelors,16.0,2.0,Virgo,Poor,09
+352,2008-09-08,Necessary,1953-04-27,55.0,4000.0,1985-06-21,Bachelors,22.0,3.0,Taurus,Poor,09
+353,2001-10-08,Voluntary,1958-09-10,43.0,20000.0,1991-03-16,Bachelors,10.0,1.0,Virgo,Wealthy,10
+354,2008-10-08,Necessary,1972-12-31,35.0,10000.0,1995-12-11,Bachelors,12.0,2.0,Capricorn,Lower-middle Class,10
+355,2012-10-08,Necessary,1970-04-11,42.0,5000.0,1994-11-15,High School,16.0,2.0,Aries,Poor,10
+356,2001-11-08,Voluntary,1967-03-03,34.0,16000.0,1989-06-03,Associates,12.0,2.0,Pisces,Upper-middle Class,11
+357,2002-11-08,Voluntary,1959-02-12,43.0,3000.0,1981-08-01,Associates,21.0,2.0,Aquarius,Poor,11
+358,2002-11-08,Voluntary,1959-03-23,43.0,1500.0,1985-10-05,Associates,17.0,1.0,Aries,Poor,11
+359,2002-11-08,Voluntary,1972-09-29,30.0,1600.0,1992-12-07,Associates,9.0,2.0,Libra,Poor,11
+360,2006-11-08,Necessary,1959-09-22,47.0,6000.0,1989-03-07,Associates,5.0,2.0,Virgo,Poor,11
+361,2010-11-08,Necessary,1984-03-12,26.0,10500.0,2008-12-19,Bachelors,26.0,1.0,Pisces,Lower-middle Class,11
+362,2013-11-08,Voluntary,1966-02-20,47.0,2000.0,1993-08-10,Elementary,12.0,1.0,Pisces,Poor,11
+363,2000-12-08,Voluntary,1970-01-04,30.0,5000.0,1998-02-28,Bachelors,1.0,1.0,Capricorn,Poor,12
+364,2000-12-08,Voluntary,1956-09-16,44.0,4000.0,1994-07-08,Bachelors,6.0,1.0,Virgo,Poor,12
+365,2006-12-08,Necessary,1964-12-15,41.0,20000.0,1993-08-21,Associates,13.0,2.0,Sagittarius,Wealthy,12
+366,2008-12-08,Necessary,1965-05-03,43.0,4000.0,1994-11-15,Bachelors,11.0,3.0,Taurus,Poor,12
+367,2012-01-09,Voluntary,1954-08-05,57.0,16000.0,1980-04-26,Bachelors,31.0,3.0,Leo,Upper-middle Class,01
+368,2006-02-09,Necessary,1965-09-22,40.0,5000.0,1985-12-27,Bachelors,21.0,2.0,Virgo,Poor,02
+369,2001-03-09,Voluntary,1960-01-19,41.0,10000.0,1991-04-20,Bachelors,9.0,1.0,Capricorn,Lower-middle Class,03
+370,2009-03-09,Necessary,1959-05-17,49.0,6000.0,1985-07-27,High School,17.0,4.0,Taurus,Poor,03
+371,2011-03-09,Necessary,1977-09-25,33.0,10000.0,2003-10-02,Bachelors,6.0,1.0,Libra,Lower-middle Class,03
+372,2014-04-09,Voluntary,1958-10-03,55.0,12000.0,1984-12-14,Bachelors,29.0,2.0,Libra,Lower-middle Class,04
+373,2005-05-09,Necessary,1969-07-06,35.0,1500.0,1990-06-22,Associates,14.0,3.0,Cancer,Poor,05
+374,2006-05-09,Necessary,1966-04-07,40.0,6000.0,1995-02-17,Bachelors,11.0,1.0,Aries,Poor,05
+375,2014-05-09,Necessary,1974-05-10,39.0,39000.0,2002-03-02,Bachelors,10.0,2.0,Taurus,Wealthy,05
+376,2014-05-09,Necessary,1979-11-15,34.0,3200.0,2008-02-11,High School,4.0,2.0,Scorpio,Poor,05
+377,2006-06-09,Necessary,1967-07-31,38.0,25000.0,1992-05-23,Bachelors,13.0,2.0,Leo,Wealthy,06
+378,2006-06-09,Necessary,1968-04-16,38.0,3000.0,1998-12-18,Bachelors,8.0,2.0,Aries,Poor,06
+379,2006-06-09,Necessary,1965-03-17,41.0,2800.0,1997-05-23,High School,9.0,2.0,Pisces,Poor,06
+380,2006-06-09,Necessary,1953-09-08,52.0,15000.0,1980-08-23,High School,26.0,2.0,Virgo,Upper-middle Class,06
+381,2009-06-09,Necessary,1978-11-09,30.0,8000.0,2001-11-28,Bachelors,4.0,2.0,Scorpio,Poor,06
+382,2009-06-09,Necessary,1968-09-25,40.0,2400.0,1990-06-10,High School,19.0,1.0,Libra,Poor,06
+383,2003-07-09,Voluntary,1970-09-29,32.0,3000.0,1995-12-21,Associates,7.0,1.0,Libra,Poor,07
+384,2003-07-09,Voluntary,1965-10-22,37.0,5000.0,1993-06-22,Bachelors,10.0,2.0,Libra,Poor,07
+385,2007-07-09,Necessary,1964-10-27,42.0,6800.0,1990-06-30,Elementary,17.0,3.0,Scorpio,Poor,07
+386,2008-07-09,Necessary,1974-10-12,33.0,10000.0,2000-12-15,Bachelors,8.0,1.0,Libra,Lower-middle Class,07
+387,2008-07-09,Necessary,1969-07-24,38.0,10000.0,1999-11-08,Bachelors,7.0,1.0,Leo,Lower-middle Class,07
+388,2008-07-09,Necessary,1960-11-30,47.0,15000.0,1999-03-30,Bachelors,9.0,1.0,Sagittarius,Upper-middle Class,07
+389,2004-09-09,Voluntary,1960-06-09,44.0,8000.0,1989-04-20,Bachelors,14.0,3.0,Gemini,Poor,09
+390,2008-09-09,Necessary,1970-04-03,38.0,4500.0,1999-12-20,Bachelors,5.0,2.0,Aries,Poor,09
+391,2010-09-09,Voluntary,1953-03-25,57.0,8000.0,1984-12-14,Bachelors,26.0,3.0,Aries,Poor,09
+392,2011-09-09,Necessary,1974-10-31,36.0,15000.0,1997-03-07,Bachelors,14.0,1.0,Scorpio,Upper-middle Class,09
+393,2002-10-09,Voluntary,1955-06-14,47.0,10000.0,1979-12-15,Bachelors,21.0,2.0,Gemini,Lower-middle Class,10
+394,2006-10-09,Necessary,1959-03-17,47.0,14000.0,1985-05-31,Associates,21.0,1.0,Pisces,Lower-middle Class,10
+395,2008-10-09,Necessary,1977-10-29,30.0,15000.0,2005-11-05,Bachelors,2.0,1.0,Scorpio,Upper-middle Class,10
+396,2008-10-09,Necessary,1967-02-23,41.0,5000.0,1988-10-03,No Education,6.0,3.0,Pisces,Poor,10
+397,2008-10-09,Necessary,1968-11-19,39.0,1800.0,1995-12-22,Bachelors,12.0,1.0,Scorpio,Poor,10
+398,2009-10-09,Necessary,1973-02-05,36.0,5000.0,1996-12-03,Associates,13.0,2.0,Aquarius,Poor,10
+399,2009-10-09,Necessary,1966-02-16,43.0,9000.0,1996-08-10,Bachelors,10.0,1.0,Aquarius,Poor,10
+400,2009-10-09,Necessary,1979-04-07,30.0,5000.0,1997-04-10,Associates,2.0,1.0,Aries,Poor,10
+401,2009-10-09,Necessary,1965-03-27,44.0,9000.0,1987-11-07,High School,14.0,2.0,Aries,Poor,10
+402,2000-11-09,Voluntary,1968-01-31,32.0,3500.0,1989-09-28,High School,11.0,1.0,Aquarius,Poor,11
+403,2001-11-09,Voluntary,1960-08-02,41.0,1000.0,1987-12-22,Bachelors,13.0,3.0,Leo,Poor,11
+404,2003-12-09,Voluntary,1956-09-17,47.0,13000.0,1979-08-15,Bachelors,24.0,2.0,Virgo,Lower-middle Class,12
+405,2009-12-09,Necessary,1957-03-09,52.0,8500.0,1979-12-19,Bachelors,29.0,2.0,Pisces,Poor,12
+406,2009-12-09,Necessary,1954-07-07,55.0,4000.0,1992-05-29,Elementary,17.0,2.0,Cancer,Poor,12
+407,2010-12-09,Necessary,1976-07-18,34.0,6000.0,2004-02-10,Bachelors,6.0,2.0,Cancer,Poor,12
+408,2010-12-09,Necessary,1972-07-13,38.0,3000.0,1998-11-12,Bachelors,12.0,1.0,Cancer,Poor,12
+409,2013-12-09,Necessary,1977-11-04,36.0,2500.0,2001-08-30,Bachelors,12.0,1.0,Scorpio,Poor,12
+410,2009-02-10,Voluntary,1965-04-10,43.0,4500.0,1986-08-09,High School,3.0,2.0,Aries,Poor,02
+411,2012-02-10,Necessary,1984-09-30,27.0,4000.0,2005-12-09,Associates,5.0,1.0,Libra,Poor,02
+412,2014-02-10,Voluntary,1963-01-07,51.0,6000.0,1980-02-16,Associates,33.0,2.0,Capricorn,Poor,02
+413,2005-03-10,Necessary,1943-02-06,62.0,15000.0,2067-12-21,Bachelors,33.0,4.0,Aquarius,Upper-middle Class,03
+414,2005-03-10,Necessary,1967-09-15,37.0,10000.0,1994-09-24,Bachelors,10.0,1.0,Virgo,Lower-middle Class,03
+415,2008-03-10,Necessary,1962-12-22,45.0,5000.0,1987-12-23,Bachelors,16.0,2.0,Capricorn,Poor,03
+416,2010-03-10,Voluntary,1965-05-05,44.0,9000.0,1990-05-24,Bachelors,19.0,2.0,Taurus,Poor,03
+417,2010-03-10,Necessary,1952-09-14,57.0,20000.0,1979-02-28,Bachelors,24.0,3.0,Virgo,Wealthy,03
+418,2010-03-10,Necessary,1957-08-30,52.0,20000.0,1981-08-20,Bachelors,25.0,2.0,Virgo,Wealthy,03
+419,2011-03-10,Necessary,1967-10-25,43.0,11200.0,2005-02-18,Bachelors,6.0,1.0,Scorpio,Lower-middle Class,03
+420,2014-03-10,Necessary,1961-01-14,53.0,7000.0,1993-03-04,Bachelors,21.0,2.0,Capricorn,Poor,03
+421,2002-04-10,Voluntary,1962-05-08,39.0,10000.0,1993-09-11,Bachelors,8.0,2.0,Taurus,Lower-middle Class,04
+422,2006-04-10,Necessary,1977-01-11,29.0,5000.0,2001-09-01,Bachelors,4.0,1.0,Capricorn,Poor,04
+423,2012-04-10,Necessary,1974-02-03,38.0,5000.0,1999-02-04,Bachelors,13.0,1.0,Aquarius,Poor,04
+424,2002-06-10,Voluntary,1974-04-23,28.0,9996.5,1996-07-12,High School,5.0,1.0,Taurus,Poor,06
+425,2008-06-10,Necessary,1970-12-14,37.0,10000.0,1994-10-22,Bachelors,13.0,3.0,Sagittarius,Lower-middle Class,06
+426,2008-06-10,Necessary,1977-11-10,30.0,8500.0,1999-09-18,Associates,5.0,1.0,Scorpio,Poor,06
+427,2009-06-10,Necessary,1970-04-25,39.0,4500.0,1996-12-20,Bachelors,9.0,2.0,Taurus,Poor,06
+428,2010-06-10,Necessary,1968-02-20,42.0,4000.0,1989-07-06,Associates,21.0,1.0,Pisces,Poor,06
+429,2000-07-10,Voluntary,1969-03-20,31.0,1500.0,1992-11-06,High School,1.0,1.0,Pisces,Poor,07
+430,2000-07-10,Voluntary,1970-07-13,29.0,3000.0,1990-05-07,High School,2.0,2.0,Cancer,Poor,07
+431,2001-07-10,Voluntary,1966-07-01,35.0,3000.0,1995-04-22,Associates,6.0,1.0,Cancer,Poor,07
+432,2002-07-10,Voluntary,1962-02-21,40.0,8000.0,1987-03-28,Bachelors,15.0,1.0,Pisces,Poor,07
+433,2003-07-10,Necessary,1959-02-07,44.0,10000.0,1992-11-13,Bachelors,7.0,1.0,Aquarius,Lower-middle Class,07
+434,2006-07-10,Necessary,1971-06-07,35.0,5000.0,1999-12-23,Associates,6.0,1.0,Gemini,Poor,07
+435,2009-07-10,Necessary,1964-12-11,44.0,5000.0,2001-01-20,Bachelors,6.0,1.0,Sagittarius,Poor,07
+436,2013-07-10,Necessary,1965-11-19,47.0,12000.0,1990-12-21,Bachelors,22.0,2.0,Scorpio,Lower-middle Class,07
+437,2001-08-10,Voluntary,1977-06-10,24.0,1600.0,1995-11-17,Associates,5.0,1.0,Gemini,Poor,08
+438,2006-08-10,Voluntary,1961-08-06,44.0,5000.0,1981-12-17,High School,16.0,3.0,Leo,Poor,08
+439,2011-08-10,Necessary,1978-04-08,33.0,2500.0,1998-07-18,Associates,12.0,2.0,Aries,Poor,08
+440,2001-09-10,Voluntary,1952-12-17,48.0,4000.0,1980-07-05,Bachelors,21.0,3.0,Sagittarius,Poor,09
+441,2003-09-10,Voluntary,1965-01-20,38.0,3500.0,1993-08-20,Associates,10.0,3.0,Aquarius,Poor,09
+442,2003-09-10,Voluntary,1969-08-28,34.0,80000.0,1998-08-07,Associates,5.0,1.0,Virgo,Wealthy,09
+443,2004-09-10,Voluntary,1954-04-01,50.0,10000.0,1989-02-18,Bachelors,2.0,2.0,Aries,Lower-middle Class,09
+444,2007-09-10,Necessary,1964-06-25,43.0,3000.0,1985-02-09,Bachelors,12.0,2.0,Cancer,Poor,09
+445,2008-09-10,Necessary,1949-02-19,59.0,8000.0,1978-01-14,Bachelors,30.0,2.0,Pisces,Poor,09
+446,2000-10-10,Voluntary,1959-07-18,41.0,2500.0,1983-12-30,High School,16.0,3.0,Cancer,Poor,10
+447,2001-10-10,Voluntary,1972-03-18,29.0,3000.0,1995-04-20,Bachelors,6.0,1.0,Pisces,Poor,10
+448,2011-10-10,Necessary,1965-09-16,46.0,14000.0,1990-01-10,Bachelors,21.0,3.0,Virgo,Lower-middle Class,10
+449,2000-11-10,Voluntary,1973-03-21,27.0,1000.0,1995-07-28,Elementary,5.0,1.0,Aries,Poor,11
+450,2009-11-10,Necessary,1981-12-19,27.0,4000.0,2007-02-13,Bachelors,2.0,1.0,Sagittarius,Poor,11
+451,2003-12-10,Voluntary,1962-07-07,41.0,10000.0,1990-04-19,Associates,13.0,2.0,Cancer,Lower-middle Class,12
+452,2004-12-10,Voluntary,1965-06-20,39.0,2000.0,1994-07-28,High School,16.0,2.0,Gemini,Poor,12
+453,2007-12-10,Necessary,1974-07-09,33.0,3600.0,1996-03-09,Bachelors,7.0,1.0,Cancer,Poor,12
+454,2008-12-10,Necessary,1971-12-26,36.0,5000.0,2002-12-20,Bachelors,4.0,1.0,Capricorn,Poor,12
+455,2008-12-10,Necessary,1968-05-13,40.0,6000.0,2001-04-21,Bachelors,6.0,1.0,Taurus,Poor,12
+456,2009-12-10,Necessary,1970-03-01,39.0,4000.0,1993-01-04,Bachelors,16.0,2.0,Pisces,Poor,12
+457,2013-12-10,Voluntary,1967-07-28,46.0,5000.0,1988-07-28,Associates,25.0,3.0,Leo,Poor,12
+458,2012-01-11,Necessary,1955-05-20,56.0,8000.0,1980-12-06,Bachelors,30.0,3.0,Taurus,Poor,01
+459,2012-01-11,Necessary,1978-05-24,33.0,4500.0,2007-10-25,Associates,4.0,1.0,Gemini,Poor,01
+460,2003-02-11,Voluntary,1966-08-23,36.0,1300.0,1990-07-20,Associates,12.0,2.0,Virgo,Poor,02
+461,2010-02-11,Necessary,1973-02-03,37.0,6000.0,1995-07-03,Associates,9.0,1.0,Aquarius,Poor,02
+462,2010-02-11,Necessary,1959-06-26,50.0,25000.0,1984-10-06,Bachelors,22.0,1.0,Cancer,Wealthy,02
+463,2011-02-11,Necessary,1969-06-22,41.0,12000.0,1996-02-09,Bachelors,14.0,2.0,Cancer,Lower-middle Class,02
+464,2014-02-11,Necessary,1971-03-10,42.0,7000.0,2004-08-06,Bachelors,7.0,1.0,Pisces,Poor,02
+465,2008-03-11,Necessary,1967-06-09,40.0,2000.0,1986-05-12,High School,15.0,1.0,Gemini,Poor,03
+466,2011-03-11,Necessary,1962-07-17,48.0,10000.0,1990-01-19,High School,20.0,1.0,Cancer,Lower-middle Class,03
+467,2013-03-11,Necessary,1968-07-31,44.0,8000.0,1990-11-14,Bachelors,22.0,2.0,Leo,Poor,03
+468,2001-04-11,Voluntary,1961-06-10,39.0,1900.0,1981-08-17,Elementary,20.0,2.0,Gemini,Poor,04
+469,2001-04-11,Voluntary,1955-06-29,45.0,25.0,1977-05-06,Bachelors,23.0,3.0,Cancer,Poor,04
+470,2003-04-11,Voluntary,1958-10-06,44.0,12000.0,1987-04-25,Bachelors,15.0,3.0,Libra,Lower-middle Class,04
+471,2006-04-11,Necessary,1961-09-29,44.0,7000.0,1989-11-06,Bachelors,16.0,3.0,Libra,Poor,04
+472,2006-04-11,Necessary,1971-01-05,35.0,30000.0,1997-10-04,Bachelors,9.0,1.0,Capricorn,Wealthy,04
+473,2007-04-11,Necessary,1970-02-20,37.0,5000.0,1989-12-19,Bachelors,17.0,3.0,Pisces,Poor,04
+474,2008-04-11,Necessary,1983-12-26,24.0,4000.0,2002-10-25,Bachelors,5.0,2.0,Capricorn,Poor,04
+475,2008-04-11,Necessary,1965-02-19,43.0,3000.0,1985-05-25,High School,7.0,2.0,Pisces,Poor,04
+476,2011-04-11,Necessary,1978-07-14,32.0,3000.0,2007-11-09,Bachelors,4.0,1.0,Cancer,Poor,04
+477,2014-04-11,Voluntary,1961-04-22,52.0,14000.0,1983-06-25,Bachelors,30.0,2.0,Taurus,Lower-middle Class,04
+478,2000-05-11,Voluntary,1963-06-03,36.0,2000.0,1986-06-02,Elementary,13.0,1.0,Gemini,Poor,05
+479,2004-05-11,Voluntary,1975-06-15,28.0,2500.0,2001-03-07,Associates,3.0,2.0,Gemini,Poor,05
+480,2010-05-11,Necessary,1974-11-18,35.0,4000.0,1999-01-25,Associates,11.0,1.0,Scorpio,Poor,05
+481,2010-05-11,Necessary,1962-09-20,47.0,12000.0,1983-07-14,Associates,26.0,3.0,Virgo,Lower-middle Class,05
+482,2011-05-11,Necessary,1977-02-20,34.0,6000.0,1998-05-08,Bachelors,5.0,2.0,Pisces,Poor,05
+483,2012-05-11,Necessary,1967-10-13,44.0,9800.0,1989-07-28,Associates,23.0,2.0,Libra,Poor,05
+484,2001-06-11,Voluntary,1963-03-16,38.0,4000.0,1991-12-19,Associates,19.0,1.0,Pisces,Poor,06
+485,2003-06-11,Voluntary,1978-06-15,24.0,900.0,1996-09-12,High School,6.0,1.0,Gemini,Poor,06
+486,2003-06-11,Voluntary,1967-02-27,36.0,2000.0,1992-01-17,Associates,10.0,3.0,Pisces,Poor,06
+487,2003-06-11,Voluntary,1958-06-06,45.0,4000.0,1982-01-18,Elementary,11.0,2.0,Gemini,Poor,06
+488,2004-06-11,Voluntary,1970-06-05,34.0,10000.0,1993-09-04,Bachelors,10.0,2.0,Gemini,Lower-middle Class,06
+489,2008-06-11,Necessary,1985-02-02,23.0,4000.0,2004-02-02,Bachelors,4.0,1.0,Aquarius,Poor,06
+490,2008-06-11,Necessary,1967-11-10,40.0,9000.0,2002-04-20,Bachelors,6.0,1.0,Scorpio,Poor,06
+491,2009-06-11,Necessary,1949-12-05,59.0,4000.0,1977-02-26,Bachelors,18.0,2.0,Sagittarius,Poor,06
+492,2010-06-11,Necessary,1968-08-27,41.0,10000.0,1997-12-18,Bachelors,12.0,1.0,Virgo,Lower-middle Class,06
+493,2001-07-11,Voluntary,1965-10-23,35.0,2500.0,1992-11-26,Associates,8.0,1.0,Scorpio,Poor,07
+494,2011-07-11,Necessary,1972-10-01,38.0,5000.0,2000-10-31,Bachelors,11.0,1.0,Libra,Poor,07
+495,2000-08-11,Voluntary,1949-11-30,50.0,6000.0,1973-06-20,Associates,27.0,2.0,Sagittarius,Poor,08
+496,2006-08-11,Necessary,1969-08-30,36.0,5000.0,1996-10-31,Associates,8.0,1.0,Virgo,Poor,08
+497,2011-08-11,Necessary,1976-01-04,35.0,12000.0,2000-10-20,Bachelors,10.0,2.0,Capricorn,Lower-middle Class,08
+498,2011-08-11,Necessary,1974-06-11,37.0,4000.0,2003-04-23,High School,3.0,1.0,Gemini,Poor,08
+499,2003-09-11,Voluntary,1978-11-13,24.0,2070.0,2000-12-01,High School,3.0,1.0,Scorpio,Poor,09
+500,2008-09-11,Necessary,1978-03-30,30.0,6000.0,1997-10-03,Bachelors,10.0,1.0,Aries,Poor,09
+501,2009-09-11,Necessary,1962-09-03,47.0,10000.0,1993-07-10,Bachelors,15.0,1.0,Virgo,Lower-middle Class,09
+502,2000-10-11,Voluntary,1960-04-16,40.0,3000.0,1982-12-11,Associates,17.0,3.0,Aries,Poor,10
+503,2002-10-11,Voluntary,1964-10-02,38.0,2500.0,1989-08-11,Associates,13.0,2.0,Libra,Poor,10
+504,2003-11-11,Voluntary,1948-05-13,55.0,3000.0,1977-01-29,Bachelors,26.0,2.0,Taurus,Poor,11
+505,2004-11-11,Voluntary,1968-04-10,36.0,2600.0,1990-07-04,Associates,14.0,1.0,Aries,Poor,11
+506,2004-11-11,Voluntary,1970-05-30,34.0,6638.0,1995-01-12,Bachelors,9.0,2.0,Gemini,Poor,11
+507,2004-11-11,Voluntary,1965-03-15,39.0,3000.0,1998-11-06,Bachelors,6.0,1.0,Pisces,Poor,11
+508,2004-11-11,Voluntary,1974-10-23,30.0,5000.0,2000-03-25,Bachelors,4.0,1.0,Scorpio,Poor,11
+509,2005-11-11,Voluntary,1954-10-09,51.0,5000.0,1975-03-22,Bachelors,30.0,2.0,Libra,Poor,11
+510,2008-11-11,Necessary,1975-01-01,33.0,4000.0,1996-06-17,Associates,12.0,2.0,Capricorn,Poor,11
+511,2009-11-11,Necessary,1970-04-28,39.0,3000.0,1992-04-11,High School,17.0,1.0,Taurus,Poor,11
+512,2009-11-11,Necessary,1983-02-24,26.0,5000.0,2004-10-11,Bachelors,4.0,1.0,Pisces,Poor,11
+513,2010-11-11,Necessary,1969-05-02,41.0,8000.0,1990-02-19,Bachelors,20.0,1.0,Taurus,Poor,11
+514,2000-12-11,Voluntary,1967-10-04,33.0,6000.0,1990-12-14,Bachelors,10.0,2.0,Libra,Poor,12
+515,2002-12-11,Voluntary,1958-01-03,44.0,10000.0,1982-02-26,Bachelors,20.0,2.0,Capricorn,Lower-middle Class,12
+516,2006-12-11,Necessary,1977-01-08,29.0,6000.0,2001-04-27,Bachelors,5.0,1.0,Capricorn,Poor,12
+517,2006-12-11,Necessary,1968-02-29,38.0,8000.0,1995-11-18,Bachelors,11.0,1.0,Pisces,Poor,12
+518,2007-12-11,Necessary,1964-01-15,43.0,5000.0,1998-07-31,Bachelors,9.0,3.0,Capricorn,Poor,12
+519,2007-12-11,Necessary,1969-01-11,38.0,1900.0,1990-09-14,High School,12.0,2.0,Capricorn,Poor,12
+520,2008-12-11,Necessary,1977-04-14,31.0,10000.0,2003-02-08,Bachelors,5.0,1.0,Aries,Lower-middle Class,12
+521,2008-12-11,Necessary,1963-12-11,45.0,65000.0,1987-01-23,High School,21.0,1.0,Sagittarius,Wealthy,12
+522,2009-12-11,Necessary,1968-02-10,41.0,4000.0,1996-08-20,Bachelors,13.0,2.0,Aquarius,Poor,12
+523,2009-12-11,Necessary,1970-04-18,39.0,8000.0,1993-03-25,High School,16.0,1.0,Aries,Poor,12
+524,2005-01-12,Necessary,1969-12-29,34.0,4000.0,2001-01-17,Bachelors,3.0,1.0,Capricorn,Poor,01
+525,2012-01-12,Necessary,1981-11-28,30.0,12000.0,2005-11-25,Bachelors,6.0,1.0,Sagittarius,Lower-middle Class,01
+526,2001-02-12,Voluntary,1959-12-07,41.0,3000.0,1987-12-21,Associates,13.0,1.0,Sagittarius,Poor,02
+527,2009-02-12,Necessary,1973-02-10,36.0,5000.0,2002-05-02,High School,6.0,1.0,Aquarius,Poor,02
+528,2008-03-12,Necessary,1971-01-10,37.0,5000.0,1991-05-09,Associates,16.0,1.0,Capricorn,Poor,03
+529,2009-03-12,Necessary,1951-11-03,57.0,22000.0,1997-12-22,Bachelors,11.0,1.0,Scorpio,Wealthy,03
+530,2010-03-12,Necessary,1977-08-18,32.0,2000.0,2000-05-03,Associates,9.0,2.0,Leo,Poor,03
+531,2012-03-12,Necessary,1960-07-26,51.0,30000.0,1994-09-19,Bachelors,19.0,2.0,Leo,Wealthy,03
+532,2012-03-12,Necessary,1968-07-08,43.0,5600.0,1992-10-08,Elementary,19.0,2.0,Cancer,Poor,03
+533,2013-03-12,Necessary,1983-04-20,29.0,3000.0,2004-02-09,Associates,7.0,1.0,Taurus,Poor,03
+534,2004-04-12,Voluntary,1953-01-18,51.0,15000.0,1982-05-28,Bachelors,21.0,2.0,Capricorn,Upper-middle Class,04
+535,2006-04-12,Necessary,1970-08-13,35.0,3800.0,1990-10-26,Associates,10.0,3.0,Leo,Poor,04
+536,2007-04-12,Necessary,1970-12-22,36.0,13000.0,1995-12-09,Bachelors,17.0,2.0,Capricorn,Lower-middle Class,04
+537,2007-04-12,Necessary,1964-07-21,42.0,7000.0,2001-07-12,Bachelors,6.0,1.0,Cancer,Poor,04
+538,2012-04-12,Necessary,1984-07-01,27.0,4500.0,2004-01-16,Bachelors,8.0,1.0,Cancer,Poor,04
+539,2000-05-12,Necessary,1952-01-28,48.0,5000.0,1986-12-18,Bachelors,13.0,2.0,Aquarius,Poor,05
+540,2006-05-12,Necessary,1972-05-28,33.0,5000.0,1997-08-16,Associates,6.0,1.0,Gemini,Poor,05
+541,2008-05-12,Necessary,1951-10-28,56.0,10000.0,1981-08-14,Bachelors,27.0,3.0,Scorpio,Lower-middle Class,05
+542,2008-05-12,Necessary,1963-10-31,44.0,2000.0,1987-01-15,High School,19.0,3.0,Scorpio,Poor,05
+543,2009-05-12,Voluntary,1952-05-12,56.0,7000.0,1974-07-03,Bachelors,35.0,3.0,Taurus,Poor,05
+544,2011-05-12,Necessary,1975-05-05,36.0,5000.0,1999-02-12,High School,12.0,1.0,Taurus,Poor,05
+545,2011-05-12,Necessary,1973-05-20,37.0,19000.0,2004-07-23,Bachelors,3.0,1.0,Taurus,Upper-middle Class,05
+546,2011-05-12,Necessary,1973-11-22,37.0,4800.0,1996-04-20,High School,14.0,1.0,Sagittarius,Poor,05
+547,2000-06-12,Voluntary,1954-05-20,46.0,28000.0,1978-07-22,Bachelors,20.0,2.0,Taurus,Wealthy,06
+548,2012-06-12,Voluntary,1965-03-21,47.0,12000.0,1984-12-17,Bachelors,27.0,1.0,Aries,Lower-middle Class,06
+549,2012-06-12,Necessary,1974-03-08,38.0,6000.0,1999-08-11,Associates,12.0,2.0,Pisces,Poor,06
+550,2012-06-12,Necessary,1974-04-06,38.0,6000.0,1999-07-28,Bachelors,11.0,1.0,Aries,Poor,06
+551,2013-06-12,Necessary,1984-02-22,29.0,7500.0,2011-03-11,Bachelors,1.0,2.0,Pisces,Poor,06
+552,2002-07-12,Voluntary,1938-04-24,64.0,60000.0,1994-12-17,Bachelors,7.0,1.0,Taurus,Wealthy,07
+553,2006-07-12,Necessary,1969-12-28,36.0,8300.0,1992-04-28,Bachelors,14.0,2.0,Capricorn,Poor,07
+554,2007-07-12,Necessary,1970-09-21,36.0,3000.0,1992-07-11,Bachelors,15.0,2.0,Virgo,Poor,07
+555,2011-07-12,Necessary,1981-07-19,29.0,3000.0,2003-09-12,Bachelors,7.0,1.0,Cancer,Poor,07
+556,2010-08-12,Voluntary,1945-08-11,65.0,40000.0,2068-12-24,Bachelors,41.0,2.0,Leo,Wealthy,08
+557,2002-09-12,Voluntary,1957-01-20,45.0,12000.0,1978-01-09,Bachelors,22.0,2.0,Aquarius,Lower-middle Class,09
+558,2006-09-12,Necessary,1959-09-02,47.0,2500.0,1983-12-24,Associates,23.0,1.0,Virgo,Poor,09
+559,2012-09-12,Necessary,1954-01-23,58.0,12000.0,1979-03-31,Bachelors,33.0,3.0,Aquarius,Lower-middle Class,09
+560,2013-09-12,Necessary,1985-01-10,28.0,6000.0,2006-06-27,High School,6.0,1.0,Capricorn,Poor,09
+561,2014-09-12,Voluntary,1959-11-28,54.0,9500.0,1990-06-14,Bachelors,24.0,2.0,Sagittarius,Poor,09
+562,2007-11-12,Necessary,1963-08-01,44.0,15000.0,1993-12-19,Bachelors,14.0,2.0,Leo,Upper-middle Class,11
+563,2008-11-12,Necessary,1974-05-30,34.0,2000.0,1996-04-03,High School,12.0,2.0,Gemini,Poor,11
+564,2014-12-12,Voluntary,1944-11-09,70.0,30000.0,1972-07-15,Bachelors,42.0,2.0,Scorpio,Wealthy,12
+565,2011-01-13,Necessary,1971-02-17,39.0,9000.0,1988-11-19,Associates,18.0,3.0,Aquarius,Poor,01
+566,2002-02-13,Voluntary,1960-12-01,41.0,3000.0,1986-01-18,Bachelors,16.0,3.0,Sagittarius,Poor,02
+567,2004-02-13,Voluntary,1957-10-23,46.0,2800.0,1990-08-15,Elementary,13.0,3.0,Scorpio,Poor,02
+568,2008-02-13,Necessary,1969-06-09,38.0,4000.0,1998-05-21,Bachelors,10.0,1.0,Gemini,Poor,02
+569,2009-02-13,Necessary,1971-09-06,37.0,10000.0,1994-06-04,Bachelors,12.0,1.0,Virgo,Lower-middle Class,02
+570,2012-02-13,Necessary,1977-06-22,34.0,6000.0,2005-10-15,Bachelors,7.0,2.0,Cancer,Poor,02
+571,2012-02-13,Necessary,1952-11-12,59.0,3000.0,1987-03-14,Bachelors,24.0,2.0,Scorpio,Poor,02
+572,2014-02-13,Necessary,1981-07-23,32.0,4000.0,2007-06-29,Associates,2.0,1.0,Leo,Poor,02
+573,2008-03-13,Necessary,1953-05-21,54.0,10000.0,1998-11-13,Bachelors,9.0,1.0,Gemini,Lower-middle Class,03
+574,2012-03-13,Necessary,1985-06-26,26.0,3000.0,2007-03-08,High School,4.0,1.0,Cancer,Poor,03
+575,2013-03-13,Necessary,1962-04-26,50.0,2000.0,2001-03-20,Bachelors,11.0,1.0,Taurus,Poor,03
+576,2005-04-13,Voluntary,1970-08-17,34.0,16000.0,1994-09-21,Bachelors,10.0,2.0,Leo,Upper-middle Class,04
+577,2009-04-13,Necessary,1960-04-25,48.0,10000.0,1982-12-04,High School,26.0,2.0,Taurus,Lower-middle Class,04
+578,2011-04-13,Necessary,1973-05-09,37.0,5000.0,1992-07-10,Bachelors,18.0,2.0,Taurus,Poor,04
+579,2011-04-13,Necessary,1969-05-15,41.0,8000.0,2000-05-26,Associates,11.0,1.0,Taurus,Poor,04
+580,2011-04-13,Necessary,1963-05-02,47.0,10000.0,1989-10-06,Bachelors,21.0,2.0,Taurus,Lower-middle Class,04
+581,2011-05-13,Necessary,1977-05-14,33.0,10000.0,1998-11-18,Bachelors,12.0,1.0,Taurus,Lower-middle Class,05
+582,2003-06-13,Voluntary,1969-03-11,34.0,2800.0,1995-11-13,Associates,7.0,1.0,Pisces,Poor,06
+583,2006-06-13,Necessary,1965-07-08,40.0,3000.0,1991-06-20,Associates,15.0,2.0,Cancer,Poor,06
+584,2007-06-13,Voluntary,1968-10-26,38.0,6000.0,1996-08-09,Bachelors,10.0,1.0,Scorpio,Poor,06
+585,2008-06-13,Necessary,1957-07-10,50.0,6000.0,1996-11-16,Associates,11.0,2.0,Cancer,Poor,06
+586,2012-06-13,Necessary,1980-08-24,31.0,8000.0,2007-12-21,Bachelors,4.0,1.0,Virgo,Poor,06
+587,2000-07-13,Necessary,1971-10-15,28.0,70000.0,1992-12-19,Bachelors,7.0,1.0,Libra,Wealthy,07
+588,2004-07-13,Voluntary,1977-09-22,26.0,1000.0,1999-09-30,Bachelors,4.0,2.0,Virgo,Poor,07
+589,2004-07-13,Voluntary,1959-04-18,45.0,800.0,2000-05-04,Elementary,4.0,1.0,Aries,Poor,07
+590,2006-07-13,Necessary,1967-06-30,39.0,7000.0,1999-04-24,Bachelors,6.0,1.0,Cancer,Poor,07
+591,2009-07-13,Necessary,1966-03-07,43.0,2400.0,1986-10-18,Bachelors,21.0,3.0,Pisces,Poor,07
+592,2009-07-13,Necessary,1966-02-26,43.0,6000.0,1993-09-08,Bachelors,15.0,2.0,Pisces,Poor,07
+593,2009-07-13,Necessary,1968-12-23,40.0,2400.0,1990-08-14,High School,17.0,1.0,Capricorn,Poor,07
+594,2010-07-13,Necessary,1983-09-09,26.0,5000.0,2008-02-13,Bachelors,2.0,1.0,Virgo,Poor,07
+595,2010-07-13,Necessary,1968-12-14,41.0,15000.0,1996-12-30,Bachelors,13.0,2.0,Sagittarius,Upper-middle Class,07
+596,2011-07-13,Necessary,1963-12-12,47.0,15000.0,2004-12-06,Associates,7.0,2.0,Sagittarius,Upper-middle Class,07
+597,2011-07-13,Necessary,1973-10-03,37.0,10000.0,1999-01-09,Bachelors,12.0,2.0,Libra,Lower-middle Class,07
+598,2012-07-13,Necessary,1976-12-24,35.0,24000.0,2003-01-14,Bachelors,9.0,2.0,Capricorn,Wealthy,07
+599,2012-07-13,Necessary,1985-04-24,27.0,6000.0,2004-02-07,Bachelors,8.0,1.0,Taurus,Poor,07
+600,2003-08-13,Voluntary,1959-12-07,43.0,3000.0,1985-12-26,Associates,17.0,2.0,Sagittarius,Poor,08
+601,2004-08-13,Voluntary,1979-09-08,24.0,2500.0,2000-12-28,Bachelors,3.0,1.0,Virgo,Poor,08
+602,2007-08-13,Necessary,1962-11-26,44.0,12000.0,1987-09-25,Bachelors,20.0,2.0,Sagittarius,Lower-middle Class,08
+603,2008-08-13,Necessary,1980-08-14,27.0,6500.0,2003-04-16,Bachelors,5.0,1.0,Leo,Poor,08
+604,2009-08-13,Necessary,1972-10-22,36.0,3000.0,2006-01-14,Bachelors,3.0,1.0,Libra,Poor,08
+605,2010-08-13,Necessary,1976-04-07,34.0,2600.0,1995-07-06,Associates,9.0,1.0,Aries,Poor,08
+606,2000-10-13,Voluntary,1952-07-09,48.0,2500.0,1974-03-19,High School,26.0,4.0,Cancer,Poor,10
+607,2000-10-13,Voluntary,1965-03-10,35.0,4000.0,1992-02-21,Associates,8.0,1.0,Pisces,Poor,10
+608,2004-10-13,Voluntary,1973-03-01,31.0,10000.0,2001-03-24,Bachelors,1.0,1.0,Pisces,Lower-middle Class,10
+609,2004-10-13,Voluntary,1953-12-14,50.0,3000.0,1985-12-28,Bachelors,19.0,1.0,Sagittarius,Poor,10
+610,2000-11-13,Voluntary,1972-11-20,27.0,3000.0,1992-02-29,Associates,8.0,2.0,Scorpio,Poor,11
+611,2000-11-13,Voluntary,1960-03-01,40.0,2500.0,1993-10-06,Bachelors,7.0,1.0,Pisces,Poor,11
+612,2002-11-13,Voluntary,1961-01-01,41.0,2500.0,1991-08-01,Associates,11.0,1.0,Capricorn,Poor,11
+613,2012-11-13,Necessary,1971-07-15,41.0,5000.0,1998-09-07,High School,14.0,1.0,Cancer,Poor,11
+614,2013-11-13,Necessary,1967-10-05,46.0,3000.0,1987-12-07,High School,27.0,3.0,Libra,Poor,11
+615,2002-12-13,Voluntary,1975-03-30,27.0,25000.0,1993-12-20,Associates,8.0,1.0,Aries,Wealthy,12
+616,2002-12-13,Voluntary,1961-08-20,41.0,15000.0,1988-07-22,Bachelors,13.0,2.0,Leo,Upper-middle Class,12
+617,2005-12-13,Necessary,1969-02-25,36.0,4000.0,1986-08-04,Associates,19.0,3.0,Pisces,Poor,12
+618,2006-12-13,Necessary,1948-01-14,58.0,7500.0,1987-02-03,Bachelors,17.0,3.0,Capricorn,Poor,12
+619,2007-12-13,Necessary,1985-02-28,22.0,2400.0,2003-06-09,Bachelors,4.0,1.0,Pisces,Poor,12
+620,2010-12-13,Necessary,1968-10-07,42.0,26000.0,1992-09-18,Bachelors,16.0,4.0,Libra,Wealthy,12
+621,2012-12-13,Necessary,1975-12-10,37.0,9500.0,2003-05-09,Bachelors,9.0,1.0,Sagittarius,Poor,12
+622,2003-02-14,Voluntary,1968-02-22,34.0,6000.0,1991-03-02,Bachelors,11.0,1.0,Pisces,Poor,02
+623,2011-02-14,Necessary,1976-06-07,34.0,6000.0,2005-04-09,Associates,5.0,1.0,Gemini,Poor,02
+624,2012-02-14,Necessary,1963-08-22,48.0,20000.0,1989-07-28,Associates,20.0,2.0,Leo,Wealthy,02
+625,2014-02-14,Necessary,1984-10-05,29.0,6000.0,2006-03-30,Associates,7.0,1.0,Libra,Poor,02
+626,2002-03-14,Voluntary,1971-11-26,30.0,5000.0,1999-03-27,Bachelors,2.0,1.0,Sagittarius,Poor,03
+627,2003-03-14,Voluntary,1951-12-27,51.0,12000.0,1972-05-13,Bachelors,30.0,2.0,Capricorn,Lower-middle Class,03
+628,2007-03-14,Necessary,1964-12-24,42.0,1000.0,2001-01-27,Bachelors,6.0,1.0,Capricorn,Poor,03
+629,2008-03-14,Necessary,1971-12-13,36.0,2000.0,2002-05-08,High School,5.0,1.0,Sagittarius,Poor,03
+630,2011-03-14,Necessary,1971-11-03,39.0,10000.0,1990-12-06,Bachelors,20.0,2.0,Scorpio,Lower-middle Class,03
+631,2013-03-14,Necessary,1986-01-01,27.0,4000.0,2006-03-10,Associates,7.0,2.0,Capricorn,Poor,03
+632,2000-04-14,Necessary,1968-08-03,31.0,5000.0,1993-10-22,Bachelors,1.0,1.0,Leo,Poor,04
+633,2004-04-14,Voluntary,1975-09-25,28.0,6000.0,1997-10-27,Bachelors,6.0,2.0,Libra,Poor,04
+634,2009-04-14,Necessary,1985-07-18,23.0,2000.0,2004-02-20,High School,5.0,1.0,Cancer,Poor,04
+635,2010-04-14,Necessary,1978-02-11,32.0,600.0,1998-05-18,Associates,11.0,1.0,Aquarius,Poor,04
+636,2010-04-14,Necessary,1968-05-23,41.0,6000.0,1991-02-20,Bachelors,16.0,3.0,Gemini,Poor,04
+637,2011-04-14,Necessary,1971-06-03,39.0,5000.0,1994-01-08,Bachelors,17.0,2.0,Gemini,Poor,04
+638,2001-05-14,Voluntary,1967-10-12,33.0,4500.0,1990-06-19,Associates,10.0,3.0,Libra,Poor,05
+639,2004-05-14,Voluntary,1966-10-09,37.0,1500.0,1998-08-14,Bachelors,5.0,1.0,Libra,Poor,05
+640,2009-05-14,Necessary,1969-08-12,39.0,5000.0,1997-05-03,Bachelors,12.0,1.0,Leo,Poor,05
+641,2010-05-14,Necessary,1979-02-17,31.0,3000.0,1997-02-17,High School,13.0,1.0,Aquarius,Poor,05
+642,2000-06-14,Voluntary,1964-03-09,36.0,4000.0,1991-09-20,Bachelors,8.0,1.0,Pisces,Poor,06
+643,2002-06-14,Voluntary,1961-01-07,41.0,3000.0,1994-03-19,Bachelors,8.0,1.0,Capricorn,Poor,06
+644,2002-06-14,Voluntary,1958-08-25,43.0,2800.0,1984-12-03,Associates,17.0,1.0,Virgo,Poor,06
+645,2006-06-14,Necessary,1972-03-21,34.0,3800.0,1992-01-13,Bachelors,14.0,1.0,Aries,Poor,06
+646,2011-06-14,Necessary,1975-06-27,35.0,13000.0,2003-05-31,Bachelors,8.0,1.0,Cancer,Lower-middle Class,06
+647,2011-06-14,Necessary,1972-09-28,38.0,11000.0,1997-11-21,High School,14.0,2.0,Libra,Lower-middle Class,06
+648,2003-07-14,Voluntary,1978-05-03,25.0,1400.0,1998-11-23,High School,4.0,1.0,Taurus,Poor,07
+649,2003-07-14,Voluntary,1968-10-12,34.0,8000.0,2000-02-29,Bachelors,3.0,1.0,Libra,Poor,07
+650,2005-07-14,Necessary,1971-10-08,33.0,15000.0,1997-01-21,Bachelors,8.0,2.0,Libra,Upper-middle Class,07
+651,2010-07-14,Necessary,1977-09-09,32.0,8000.0,2003-05-03,Bachelors,7.0,1.0,Virgo,Poor,07
+652,2010-07-14,Necessary,1946-11-01,63.0,5000.0,1989-12-14,Bachelors,21.0,1.0,Scorpio,Poor,07
+653,2011-07-14,Necessary,1954-10-02,56.0,6500.0,2004-08-11,Bachelors,6.0,1.0,Libra,Poor,07
+654,2006-08-14,Necessary,1967-04-08,39.0,3300.0,1990-08-24,High School,15.0,3.0,Aries,Poor,08
+655,2006-08-14,Necessary,1963-11-14,42.0,11000.0,1989-09-08,High School,16.0,2.0,Scorpio,Lower-middle Class,08
+656,2000-09-14,Voluntary,1955-09-30,44.0,8000.0,1982-11-10,Bachelors,17.0,2.0,Libra,Poor,09
+657,2001-09-14,Voluntary,1963-04-01,38.0,6000.0,1990-12-31,Bachelors,10.0,1.0,Aries,Poor,09
+658,2004-09-14,Voluntary,1974-02-01,30.0,5000.0,1995-08-31,Bachelors,8.0,1.0,Aquarius,Poor,09
+659,2005-09-14,Necessary,1970-10-20,34.0,3000.0,1993-11-26,High School,12.0,2.0,Libra,Poor,09
+660,2005-09-14,Necessary,1976-05-06,29.0,6000.0,2000-02-16,Bachelors,4.0,1.0,Taurus,Poor,09
+661,2011-09-14,Necessary,1980-04-07,31.0,3000.0,1998-07-28,Associates,9.0,1.0,Aries,Poor,09
+662,2002-10-14,Voluntary,1960-11-04,41.0,10000.0,1985-06-22,Bachelors,17.0,2.0,Scorpio,Lower-middle Class,10
+663,2003-10-14,Voluntary,1972-06-03,31.0,5000.0,1996-01-27,Associates,7.0,1.0,Gemini,Poor,10
+664,2003-10-14,Voluntary,1980-10-20,22.0,3500.0,2000-10-19,Elementary,2.0,1.0,Libra,Poor,10
+665,2004-10-14,Voluntary,1962-09-29,42.0,4000.0,1995-12-15,Bachelors,9.0,1.0,Libra,Poor,10
+666,2009-10-14,Necessary,1978-02-15,31.0,60000.0,1998-09-03,Associates,11.0,1.0,Aquarius,Wealthy,10
+667,2011-10-14,Necessary,1956-12-16,54.0,10000.0,1984-08-11,Bachelors,27.0,3.0,Sagittarius,Lower-middle Class,10
+668,2001-11-14,Voluntary,1950-01-20,51.0,4000.0,1974-12-04,Bachelors,26.0,4.0,Aquarius,Poor,11
+669,2008-11-14,Necessary,1960-10-07,48.0,40000.0,1991-04-26,Bachelors,16.0,2.0,Libra,Wealthy,11
+670,2011-11-14,Necessary,1968-10-15,43.0,5000.0,1992-08-14,Bachelors,19.0,1.0,Libra,Poor,11
+671,2009-12-14,Necessary,1955-10-02,54.0,1200.0,1978-02-28,Bachelors,31.0,2.0,Libra,Poor,12
+672,2011-12-14,Necessary,1961-08-02,50.0,4000.0,2005-02-10,High School,6.0,1.0,Leo,Poor,12
+673,2007-01-15,Necessary,1972-05-15,34.0,12000.0,2001-01-15,Bachelors,5.0,1.0,Taurus,Lower-middle Class,01
+674,2011-02-15,Necessary,1970-05-04,40.0,1200.0,1994-08-04,Associates,15.0,2.0,Taurus,Poor,02
+675,2012-02-15,Necessary,1966-10-12,45.0,6000.0,1991-12-23,Associates,20.0,2.0,Libra,Poor,02
+676,2013-02-15,Necessary,1967-05-22,45.0,10000.0,1990-12-14,Bachelors,22.0,1.0,Gemini,Lower-middle Class,02
+677,2001-03-15,Voluntary,1963-03-30,37.0,2000.0,1991-05-09,Associates,9.0,1.0,Aries,Poor,03
+678,2002-03-15,Voluntary,1970-03-28,31.0,2800.0,1990-07-13,Bachelors,11.0,3.0,Aries,Poor,03
+679,2002-03-15,Voluntary,1951-09-29,50.0,1500.0,1978-04-28,Elementary,22.0,3.0,Libra,Poor,03
+680,2007-03-15,Necessary,1960-11-17,46.0,3000.0,1982-05-06,Elementary,25.0,2.0,Scorpio,Poor,03
+681,2013-03-15,Necessary,1964-03-17,48.0,4000.0,1994-01-29,Bachelors,16.0,2.0,Pisces,Poor,03
+682,2004-04-15,Voluntary,1969-09-29,34.0,1700.0,1991-07-02,High School,12.0,1.0,Libra,Poor,04
+683,2014-04-15,Necessary,1977-06-01,36.0,5000.0,2002-05-03,Bachelors,11.0,2.0,Gemini,Poor,04
+684,2000-05-15,Voluntary,1956-06-19,43.0,16000.0,1979-04-28,Bachelors,21.0,3.0,Gemini,Upper-middle Class,05
+685,2000-05-15,Voluntary,1971-08-06,28.0,7130.0,1995-09-30,Bachelors,4.0,1.0,Leo,Poor,05
+686,2000-05-15,Voluntary,1963-11-18,36.0,1500.0,1997-08-29,Associates,2.0,1.0,Scorpio,Poor,05
+687,2009-05-15,Necessary,1969-06-29,39.0,15000.0,2000-11-18,Bachelors,7.0,1.0,Cancer,Upper-middle Class,05
+688,2009-05-15,Necessary,1958-05-19,50.0,3000.0,1988-04-25,High School,21.0,1.0,Taurus,Poor,05
+689,2013-05-15,Necessary,1973-08-11,39.0,1000.0,1997-02-13,High School,13.0,2.0,Leo,Poor,05
+690,2004-06-15,Voluntary,1962-12-01,41.0,6000.0,1987-11-28,Associates,17.0,1.0,Sagittarius,Poor,06
+691,2006-06-15,Necessary,1947-09-03,58.0,5000.0,1975-01-29,High School,32.0,2.0,Virgo,Poor,06
+692,2011-06-15,Voluntary,1950-09-16,60.0,10000.0,1974-03-02,Bachelors,37.0,1.0,Virgo,Lower-middle Class,06
+693,2011-06-15,Necessary,1979-09-22,31.0,4000.0,2003-09-22,Associates,7.0,2.0,Virgo,Poor,06
+694,2011-06-15,Necessary,1977-01-30,34.0,5500.0,1996-05-24,Associates,10.0,2.0,Aquarius,Poor,06
+695,2008-07-15,Necessary,1966-04-28,42.0,10000.0,2001-01-26,Bachelors,8.0,1.0,Taurus,Lower-middle Class,07
+696,2009-07-15,Voluntary,1963-03-18,46.0,15000.0,1987-09-30,Associates,21.0,1.0,Pisces,Upper-middle Class,07
+697,2011-07-15,Necessary,1960-08-07,50.0,1900.0,1984-05-17,Elementary,27.0,1.0,Leo,Poor,07
+698,2011-07-15,Necessary,1977-08-11,33.0,4000.0,2007-10-26,Bachelors,3.0,1.0,Leo,Poor,07
+699,2006-08-15,Necessary,1978-06-05,28.0,4000.0,1997-10-03,Bachelors,7.0,3.0,Gemini,Poor,08
+700,2007-10-15,Necessary,1962-04-16,45.0,13000.0,1992-11-27,Bachelors,15.0,2.0,Aries,Lower-middle Class,10
+701,2008-10-15,Necessary,1980-01-04,28.0,3200.0,2001-04-09,Associates,6.0,1.0,Capricorn,Poor,10
+702,2000-11-15,Voluntary,1956-09-24,44.0,1400.0,1977-08-22,Elementary,23.0,1.0,Libra,Poor,11
+703,2001-11-15,Voluntary,1972-08-06,29.0,5.0,1995-07-14,Bachelors,6.0,2.0,Leo,Poor,11
+704,2001-11-15,Necessary,1964-09-01,37.0,2400.0,1986-01-14,High School,15.0,3.0,Virgo,Poor,11
+705,2011-11-15,Necessary,1965-01-07,46.0,5000.0,1993-06-21,High School,18.0,1.0,Capricorn,Poor,11
+706,2000-12-15,Voluntary,1962-03-03,38.0,4000.0,1986-08-16,Associates,14.0,1.0,Pisces,Poor,12
+707,2003-12-15,Voluntary,1957-06-19,46.0,12000.0,1982-07-31,Bachelors,21.0,1.0,Gemini,Lower-middle Class,12
+708,2005-12-15,Necessary,1951-11-03,54.0,15000.0,1982-12-22,Associates,23.0,2.0,Scorpio,Upper-middle Class,12
+709,2008-12-15,Necessary,1981-03-19,27.0,2300.0,2002-02-06,Associates,4.0,1.0,Pisces,Poor,12
+710,2009-12-15,Necessary,1966-01-07,43.0,6000.0,1988-02-08,Associates,21.0,1.0,Capricorn,Poor,12
+711,2010-12-15,Necessary,1974-01-04,36.0,3500.0,2002-01-31,Associates,8.0,1.0,Capricorn,Poor,12
+712,2010-12-15,Necessary,1975-05-11,35.0,4000.0,1995-06-30,High School,15.0,2.0,Taurus,Poor,12
+713,2010-12-15,Necessary,1949-11-08,61.0,20000.0,1972-05-20,Bachelors,38.0,1.0,Scorpio,Wealthy,12
+714,2011-12-15,Necessary,1965-04-16,46.0,6500.0,1998-11-10,Associates,13.0,1.0,Aries,Poor,12
+715,2011-12-15,Necessary,1964-02-24,47.0,5000.0,1993-03-04,Associates,18.0,1.0,Pisces,Poor,12
+716,2011-12-15,Necessary,1980-07-29,31.0,6000.0,2006-10-04,Bachelors,12.0,1.0,Leo,Poor,12
+717,2001-02-16,Voluntary,1965-08-07,35.0,5000.0,1990-12-22,Bachelors,10.0,1.0,Leo,Poor,02
+718,2001-02-16,Voluntary,1956-03-01,44.0,10.0,1987-02-27,Associates,13.0,2.0,Pisces,Poor,02
+719,2006-03-16,Necessary,1970-02-17,36.0,4000.0,1996-11-09,Associates,9.0,2.0,Aquarius,Poor,03
+720,2010-03-16,Necessary,1971-09-30,38.0,4000.0,2001-05-08,Bachelors,9.0,1.0,Libra,Poor,03
+721,2001-04-16,Voluntary,1965-03-17,36.0,2200.0,1994-12-20,Bachelors,6.0,1.0,Pisces,Poor,04
+722,2003-04-16,Voluntary,1965-09-10,37.0,3000.0,1993-03-11,Bachelors,7.0,3.0,Virgo,Poor,04
+723,2004-04-16,Voluntary,1949-02-09,55.0,15000.0,1974-05-14,Bachelors,29.0,1.0,Aquarius,Upper-middle Class,04
+724,2010-04-16,Necessary,1961-07-20,48.0,5000.0,1986-02-14,Bachelors,17.0,3.0,Cancer,Poor,04
+725,2013-04-16,Necessary,1977-06-09,35.0,6000.0,2001-08-08,Bachelors,5.0,2.0,Gemini,Poor,04
+726,2014-04-16,Necessary,1978-07-11,35.0,6000.0,2006-07-15,Associates,7.0,1.0,Cancer,Poor,04
+727,2003-05-16,Voluntary,1963-03-25,40.0,1800.0,1992-11-12,Elementary,10.0,2.0,Aries,Poor,05
+728,2005-05-16,Necessary,1976-04-23,29.0,2500.0,1998-09-19,Associates,6.0,1.0,Taurus,Poor,05
+729,2011-05-16,Necessary,1973-04-16,38.0,2000.0,2001-11-19,High School,5.0,1.0,Aries,Poor,05
+730,2000-06-16,Voluntary,1956-07-25,43.0,2100.0,1974-08-13,Associates,25.0,2.0,Leo,Poor,06
+731,2008-06-16,Necessary,1962-07-17,45.0,15000.0,1986-12-16,Bachelors,21.0,3.0,Cancer,Upper-middle Class,06
+732,2009-06-16,Necessary,1965-07-02,43.0,8000.0,1994-10-22,Bachelors,13.0,1.0,Cancer,Poor,06
+733,2010-06-16,Voluntary,1940-06-29,69.0,12600.0,2063-05-31,Bachelors,30.0,3.0,Cancer,Lower-middle Class,06
+734,2001-07-16,Voluntary,1971-07-27,29.0,5000.0,1999-06-28,Bachelors,2.0,1.0,Leo,Poor,07
+735,2002-07-16,Voluntary,1975-05-29,27.0,3000.0,1997-01-13,Associates,5.0,1.0,Gemini,Poor,07
+736,2002-07-16,Voluntary,1966-11-30,35.0,3000.0,1995-02-10,Bachelors,7.0,1.0,Sagittarius,Poor,07
+737,2003-07-16,Voluntary,1977-02-07,26.0,2000.0,1998-07-28,High School,4.0,1.0,Aquarius,Poor,07
+738,2004-07-16,Voluntary,1969-04-08,35.0,3000.0,1998-06-18,Associates,6.0,1.0,Aries,Poor,07
+739,2007-07-16,Necessary,1973-01-23,34.0,20000.0,2001-03-23,Bachelors,6.0,1.0,Aquarius,Wealthy,07
+740,2009-07-16,Necessary,1975-02-10,34.0,15000.0,1996-08-08,Bachelors,12.0,2.0,Aquarius,Upper-middle Class,07
+741,2012-07-16,Voluntary,1950-10-31,61.0,15000.0,1973-12-14,Associates,38.0,3.0,Scorpio,Upper-middle Class,07
+742,2014-07-16,Necessary,1987-11-22,26.0,12000.0,2011-11-25,Bachelors,1.0,1.0,Sagittarius,Lower-middle Class,07
+743,2014-07-16,Voluntary,1959-08-13,54.0,7800.0,1984-03-17,Bachelors,30.0,2.0,Leo,Poor,07
+744,2000-08-16,Voluntary,1975-11-10,24.0,2500.0,1994-11-10,Associates,5.0,1.0,Scorpio,Poor,08
+745,2011-08-16,Necessary,1958-10-18,52.0,5000.0,1989-05-11,Bachelors,22.0,1.0,Libra,Poor,08
+746,2013-08-16,Voluntary,1940-11-15,72.0,22000.0,1992-12-11,Bachelors,21.0,1.0,Scorpio,Wealthy,08
+747,2001-10-16,Voluntary,1955-04-30,46.0,5400.0,1998-09-19,Bachelors,3.0,2.0,Taurus,Poor,10
+748,2002-10-16,Voluntary,1948-02-25,54.0,2000.0,1973-04-14,Bachelors,29.0,2.0,Pisces,Poor,10
+749,2003-10-16,Voluntary,1971-01-30,32.0,2500.0,1993-04-20,Associates,10.0,2.0,Aquarius,Poor,10
+750,2006-10-16,Necessary,1957-06-12,49.0,6000.0,1983-03-25,Bachelors,11.0,2.0,Gemini,Poor,10
+751,2013-10-16,Voluntary,1959-12-03,53.0,6000.0,1981-08-28,Associates,32.0,2.0,Sagittarius,Poor,10
+752,2007-11-16,Necessary,1970-02-17,37.0,15000.0,1993-09-25,Associates,37.0,2.0,Aquarius,Upper-middle Class,11
+753,2003-12-16,Voluntary,1967-02-08,36.0,4800.0,1994-08-20,Bachelors,9.0,1.0,Aquarius,Poor,12
+754,2009-12-16,Necessary,1967-11-03,42.0,15000.0,1998-01-17,Bachelors,11.0,1.0,Scorpio,Upper-middle Class,12
+755,2009-12-16,Necessary,1963-08-11,46.0,30000.0,1990-12-14,Bachelors,18.0,2.0,Leo,Wealthy,12
+756,2009-12-16,Necessary,1975-01-15,34.0,6500.0,1999-12-04,Associates,9.0,1.0,Capricorn,Poor,12
+757,2009-12-16,Necessary,1961-02-19,48.0,5000.0,1982-02-20,Associates,27.0,3.0,Pisces,Poor,12
+758,2010-12-16,Necessary,1978-02-10,32.0,5000.0,2003-08-06,Bachelors,7.0,1.0,Aquarius,Poor,12
+759,2010-12-16,Necessary,1971-12-08,39.0,3000.0,1991-05-09,High School,19.0,1.0,Sagittarius,Poor,12
+760,2012-02-17,Necessary,1977-05-01,34.0,10000.0,2005-07-29,Bachelors,5.0,2.0,Taurus,Lower-middle Class,02
+761,2003-03-17,Voluntary,1961-01-20,42.0,6000.0,1998-10-23,Bachelors,4.0,2.0,Aquarius,Poor,03
+762,2006-03-17,Necessary,1965-12-17,40.0,4000.0,1997-03-01,High School,8.0,1.0,Sagittarius,Poor,03
+763,2008-03-17,Necessary,1964-11-24,43.0,30000.0,1986-10-18,Bachelors,21.0,1.0,Sagittarius,Wealthy,03
+764,2009-03-17,Necessary,1976-05-26,32.0,3500.0,1997-12-05,Associates,8.0,1.0,Gemini,Poor,03
+765,2010-03-17,Necessary,1976-08-26,33.0,5000.0,1998-10-03,Bachelors,9.0,3.0,Virgo,Poor,03
+766,2010-03-17,Necessary,1960-01-09,50.0,6063.48,1998-09-18,Bachelors,10.0,2.0,Capricorn,Poor,03
+767,2011-03-17,Necessary,1975-08-26,35.0,4000.0,2002-02-14,Associates,6.0,1.0,Virgo,Poor,03
+768,2002-04-17,Voluntary,1954-10-02,47.0,4000.0,1978-01-28,Associates,23.0,1.0,Libra,Poor,04
+769,2007-04-17,Necessary,1964-01-29,43.0,4000.0,1986-10-02,Bachelors,16.0,2.0,Aquarius,Poor,04
+770,2002-05-17,Voluntary,1948-11-16,53.0,4000.0,1970-08-22,High School,31.0,2.0,Scorpio,Poor,05
+771,2007-05-17,Necessary,1948-01-24,59.0,15000.0,1994-03-12,Bachelors,13.0,2.0,Aquarius,Upper-middle Class,05
+772,2010-05-17,Necessary,1970-03-27,40.0,7500.0,1994-04-23,Bachelors,11.0,2.0,Aries,Poor,05
+773,2011-05-17,Necessary,1977-05-07,34.0,10000.0,2003-09-10,Bachelors,6.0,1.0,Taurus,Lower-middle Class,05
+774,2004-06-17,Voluntary,1976-03-12,28.0,6000.0,1997-08-29,High School,6.0,2.0,Pisces,Poor,06
+775,2009-06-17,Necessary,1963-09-22,45.0,6500.0,1985-03-18,Bachelors,24.0,1.0,Virgo,Poor,06
+776,2009-06-17,Necessary,1968-12-12,40.0,6000.0,1998-11-14,Bachelors,10.0,1.0,Sagittarius,Poor,06
+777,2013-06-17,Necessary,1980-03-26,33.0,8000.0,2010-04-23,Bachelors,2.0,2.0,Aries,Poor,06
+778,2000-07-17,Voluntary,1976-11-02,23.0,3600.0,1998-09-09,Bachelors,1.0,1.0,Scorpio,Poor,07
+779,2006-07-17,Necessary,1977-09-27,28.0,10000.0,2003-01-07,Bachelors,2.0,1.0,Libra,Lower-middle Class,07
+780,2006-07-17,Necessary,1960-01-28,46.0,10000.0,1983-08-18,Bachelors,23.0,2.0,Aquarius,Lower-middle Class,07
+781,2006-07-17,Necessary,1963-03-25,43.0,10000.0,1988-11-12,Bachelors,16.0,3.0,Aries,Lower-middle Class,07
+782,2009-07-17,Necessary,1969-10-08,39.0,8000.0,1990-12-07,Bachelors,11.0,2.0,Libra,Poor,07
+783,2013-07-17,Necessary,1962-09-07,50.0,3000.0,1988-05-20,Bachelors,25.0,2.0,Virgo,Poor,07
+784,2013-07-17,Necessary,1984-10-23,28.0,14000.0,2005-04-08,Bachelors,8.0,2.0,Scorpio,Lower-middle Class,07
+785,2001-08-17,Necessary,1965-08-17,36.0,4500.0,1985-01-10,Bachelors,16.0,1.0,Leo,Poor,08
+786,2010-08-17,Necessary,1960-01-18,50.0,10000.0,1988-08-19,Bachelors,21.0,1.0,Capricorn,Lower-middle Class,08
+787,2011-08-17,Necessary,1958-10-26,52.0,6000.0,2005-12-17,Associates,3.0,2.0,Scorpio,Poor,08
+788,2011-08-17,Necessary,1979-07-31,32.0,3000.0,1998-03-09,High School,13.0,2.0,Leo,Poor,08
+789,2002-09-17,Voluntary,1974-02-05,28.0,4000.0,1995-10-07,Bachelors,6.0,2.0,Aquarius,Poor,09
+790,2003-09-17,Voluntary,1956-02-06,47.0,20000.0,1982-02-13,High School,21.0,1.0,Aquarius,Wealthy,09
+791,2004-09-17,Voluntary,1976-03-25,28.0,6000.0,2000-02-11,Associates,4.0,1.0,Aries,Poor,09
+792,2008-09-17,Necessary,1969-07-03,39.0,9000.0,1995-12-09,Bachelors,13.0,2.0,Cancer,Poor,09
+793,2008-09-17,Necessary,1958-03-04,50.0,5000.0,1983-08-05,Associates,25.0,3.0,Pisces,Poor,09
+794,2001-10-17,Voluntary,1961-03-19,40.0,4000.0,1983-01-15,Associates,18.0,3.0,Pisces,Poor,10
+795,2003-10-17,Voluntary,1972-11-27,30.0,2600.0,2000-12-11,Associates,2.0,1.0,Sagittarius,Poor,10
+796,2003-10-17,Voluntary,1970-04-24,33.0,5000.0,1994-07-11,Associates,9.0,2.0,Taurus,Poor,10
+797,2006-10-17,Necessary,1953-07-20,53.0,10000.0,1981-07-24,Bachelors,25.0,2.0,Cancer,Lower-middle Class,10
+798,2005-11-17,Necessary,1953-05-09,52.0,1200.0,1973-11-17,Bachelors,31.0,5.0,Taurus,Poor,11
+799,2005-11-17,Necessary,1958-09-18,47.0,6000.0,1980-12-05,Associates,25.0,2.0,Virgo,Poor,11
+800,2005-11-17,Necessary,1975-12-21,29.0,4500.0,1994-04-27,High School,11.0,1.0,Sagittarius,Poor,11
+801,2009-11-17,Necessary,1969-01-18,40.0,5000.0,2004-05-31,Associates,5.0,1.0,Capricorn,Poor,11
+802,2010-11-17,Necessary,1963-10-08,47.0,6000.0,1989-04-15,Associates,16.0,2.0,Libra,Poor,11
+803,2010-11-17,Necessary,1970-02-23,40.0,5000.0,1992-01-16,Associates,18.0,2.0,Pisces,Poor,11
+804,2001-12-17,Voluntary,1970-10-09,31.0,5000.0,1992-09-10,Bachelors,9.0,2.0,Libra,Poor,12
+805,2003-12-17,Voluntary,1970-05-01,33.0,10000.0,1989-12-26,Bachelors,22.0,2.0,Taurus,Lower-middle Class,12
+806,2004-12-17,Voluntary,1968-05-21,36.0,2800.0,1989-07-12,Associates,15.0,2.0,Gemini,Poor,12
+807,2004-12-17,Voluntary,1960-08-09,44.0,6000.0,1990-12-14,Bachelors,14.0,2.0,Leo,Poor,12
+808,2007-12-17,Necessary,1961-09-28,46.0,3000.0,1988-01-16,Bachelors,19.0,2.0,Libra,Poor,12
+809,2007-12-17,Necessary,1970-08-08,37.0,10000.0,1996-05-22,Associates,11.0,1.0,Leo,Lower-middle Class,12
+810,2007-12-17,Necessary,1972-04-06,35.0,5300.0,1989-02-21,Associates,18.0,2.0,Aries,Poor,12
+811,2010-12-17,Necessary,1971-02-18,39.0,6000.0,1999-08-02,Bachelors,11.0,1.0,Aquarius,Poor,12
+812,2010-12-17,Necessary,1973-09-10,37.0,20000.0,1998-08-21,Bachelors,12.0,2.0,Virgo,Wealthy,12
+813,2012-12-17,Necessary,1981-07-24,31.0,15000.0,2005-07-22,Bachelors,7.0,1.0,Leo,Upper-middle Class,12
+814,2001-01-18,Voluntary,1959-09-25,41.0,17000.0,1986-12-13,Bachelors,14.0,2.0,Libra,Upper-middle Class,01
+815,2013-01-18,Necessary,1963-03-23,49.0,7500.0,1994-11-15,Bachelors,13.0,2.0,Aries,Poor,01
+816,2011-02-18,Necessary,1969-03-30,41.0,3500.0,2001-02-13,Associates,9.0,2.0,Aries,Poor,02
+817,2011-02-18,Necessary,1965-02-24,45.0,708652.0,1989-07-07,Bachelors,22.0,1.0,Pisces,Wealthy,02
+818,2011-02-18,Necessary,1975-07-25,35.0,6000.0,2004-04-23,Bachelors,7.0,1.0,Leo,Poor,02
+819,2004-03-18,Voluntary,1966-04-06,37.0,2000.0,1993-08-21,High School,10.0,2.0,Aries,Poor,03
+820,2015-03-18,Voluntary,1960-06-20,54.0,10000.0,1990-02-23,Associates,25.0,1.0,Gemini,Lower-middle Class,03
+821,2006-04-18,Necessary,1954-10-03,51.0,12000.0,1978-11-24,High School,28.0,3.0,Libra,Lower-middle Class,04
+822,2008-04-18,Necessary,1968-05-04,39.0,5800.0,1994-08-04,High School,13.0,2.0,Taurus,Poor,04
+823,2008-04-18,Necessary,1967-01-15,41.0,10000.0,1993-03-13,Bachelors,13.0,2.0,Capricorn,Lower-middle Class,04
+824,2011-04-18,Necessary,1968-04-18,43.0,8000.0,1990-10-26,Bachelors,20.0,2.0,Aries,Poor,04
+825,2000-05-18,Voluntary,1949-03-03,51.0,18000.0,1977-08-19,Bachelors,20.0,3.0,Pisces,Upper-middle Class,05
+826,2000-05-18,Necessary,1953-11-03,46.0,10.0,1977-12-25,Bachelors,22.0,2.0,Scorpio,Poor,05
+827,2009-05-18,Necessary,1976-09-29,32.0,4000.0,1996-12-30,High School,12.0,2.0,Libra,Poor,05
+828,2009-05-18,Necessary,1978-07-10,30.0,3800.0,1993-11-17,High School,15.0,2.0,Cancer,Poor,05
+829,2009-05-18,Necessary,1960-02-28,49.0,6000.0,1991-08-10,Bachelors,16.0,2.0,Pisces,Poor,05
+830,2010-05-18,Necessary,1970-07-13,39.0,16000.0,1998-10-03,Bachelors,12.0,1.0,Cancer,Upper-middle Class,05
+831,2001-06-18,Voluntary,1950-04-18,51.0,20000.0,1978-03-04,Associates,22.0,2.0,Aries,Wealthy,06
+832,2001-06-18,Voluntary,1970-06-13,31.0,6000.0,1991-02-06,Bachelors,10.0,1.0,Gemini,Poor,06
+833,2002-06-18,Voluntary,1955-02-04,47.0,8000.0,1981-12-12,High School,20.0,2.0,Aquarius,Poor,06
+834,2007-06-18,Necessary,1978-11-30,28.0,8000.0,1998-09-07,Bachelors,8.0,1.0,Sagittarius,Poor,06
+835,2008-06-18,Necessary,1968-07-04,39.0,6000.0,1997-07-24,Bachelors,9.0,2.0,Cancer,Poor,06
+836,2014-06-18,Necessary,1982-03-19,32.0,8000.0,2005-12-10,High School,8.0,1.0,Pisces,Poor,06
+837,2001-07-18,Voluntary,1969-12-21,31.0,3000.0,1988-02-27,High School,13.0,2.0,Sagittarius,Poor,07
+838,2008-07-18,Necessary,1969-03-27,39.0,10000.0,1990-03-30,Bachelors,16.0,2.0,Aries,Lower-middle Class,07
+839,2008-08-18,Necessary,1955-02-21,53.0,25000.0,1997-01-18,Bachelors,11.0,2.0,Pisces,Wealthy,08
+840,2009-08-18,Necessary,1965-03-01,44.0,11309.0,1994-08-08,Bachelors,10.0,1.0,Pisces,Lower-middle Class,08
+841,2000-09-18,Voluntary,1971-01-13,29.0,1500.0,1988-09-02,High School,12.0,1.0,Capricorn,Poor,09
+842,2000-09-18,Voluntary,1955-12-08,44.0,8000.0,1976-10-30,Bachelors,23.0,2.0,Sagittarius,Poor,09
+843,2003-09-18,Voluntary,1978-03-20,25.0,33000.0,1997-03-15,Associates,6.0,1.0,Pisces,Wealthy,09
+844,2003-09-18,Voluntary,1968-05-30,35.0,8000.0,1993-02-03,Bachelors,10.0,2.0,Gemini,Poor,09
+845,2008-09-18,Necessary,1957-08-16,51.0,2200.0,1978-05-04,High School,30.0,1.0,Leo,Poor,09
+846,2000-10-18,Voluntary,1946-11-23,53.0,4000.0,1973-08-18,Associates,27.0,2.0,Sagittarius,Poor,10
+847,2000-10-18,Voluntary,1965-10-29,34.0,13600.0,1990-04-20,Bachelors,10.0,2.0,Scorpio,Lower-middle Class,10
+848,2001-10-18,Voluntary,1949-01-19,52.0,10000.0,2063-05-02,Bachelors,38.0,1.0,Capricorn,Lower-middle Class,10
+849,2001-10-18,Voluntary,1954-05-11,47.0,5000.0,1986-01-27,Associates,15.0,2.0,Taurus,Poor,10
+850,2002-10-18,Voluntary,1964-06-09,38.0,2000.0,1984-12-27,High School,17.0,2.0,Gemini,Poor,10
+851,2006-10-18,Necessary,1977-03-25,29.0,2800.0,1997-02-28,Associates,9.0,1.0,Aries,Poor,10
+852,2011-10-18,Necessary,1979-05-28,32.0,11000.0,1998-12-17,Bachelors,12.0,2.0,Gemini,Lower-middle Class,10
+853,2011-11-18,Necessary,1968-12-27,42.0,6000.0,1994-05-11,Associates,17.0,3.0,Capricorn,Poor,11
+854,2011-11-18,Voluntary,1954-06-20,57.0,10000.0,1978-12-02,Bachelors,32.0,2.0,Gemini,Lower-middle Class,11
+855,2002-12-18,Voluntary,1971-08-22,31.0,3000.0,1990-12-26,High School,12.0,2.0,Leo,Poor,12
+856,2003-12-18,Voluntary,1973-10-30,30.0,20000.0,1995-01-06,Associates,8.0,1.0,Scorpio,Wealthy,12
+857,2006-12-18,Necessary,1961-06-26,45.0,2000.0,1985-01-05,High School,24.0,3.0,Cancer,Poor,12
+858,2007-12-18,Necessary,1957-09-26,50.0,8000.0,1986-02-14,Bachelors,21.0,2.0,Libra,Poor,12
+859,2008-12-18,Necessary,1981-09-30,27.0,3000.0,2004-07-23,Associates,2.0,1.0,Libra,Poor,12
+860,2001-01-19,Voluntary,1961-07-27,39.0,7500.0,1989-01-14,Bachelors,11.0,1.0,Leo,Poor,01
+861,2010-01-19,Necessary,1970-06-05,39.0,9000.0,2003-11-19,Bachelors,5.0,2.0,Gemini,Poor,01
+862,2002-02-19,Voluntary,1962-09-23,39.0,1200.0,1989-01-31,Elementary,13.0,2.0,Libra,Poor,02
+863,2003-02-19,Voluntary,1971-09-18,31.0,8000.0,1993-08-07,Associates,9.0,2.0,Virgo,Poor,02
+864,2004-02-19,Voluntary,1954-12-06,49.0,5000.0,1990-08-28,High School,13.0,2.0,Sagittarius,Poor,02
+865,2004-02-19,Voluntary,1969-04-14,34.0,5000.0,2000-06-23,Bachelors,3.0,1.0,Aries,Poor,02
+866,2008-02-19,Necessary,1975-09-08,32.0,9000.0,1998-11-06,Bachelors,6.0,1.0,Virgo,Poor,02
+867,2009-02-19,Necessary,1974-03-22,34.0,1600.0,2000-03-10,High School,8.0,1.0,Aries,Poor,02
+868,2004-03-19,Voluntary,1969-12-09,34.0,10500.0,1993-03-20,Bachelors,9.0,3.0,Sagittarius,Lower-middle Class,03
+869,2004-03-19,Voluntary,1959-04-24,44.0,5000.0,1993-03-12,Bachelors,11.0,1.0,Taurus,Poor,03
+870,2004-03-19,Voluntary,1968-08-14,35.0,2200.0,1996-02-14,Bachelors,8.0,1.0,Leo,Poor,03
+871,2008-03-19,Necessary,1959-10-01,48.0,10000.0,1983-05-23,Bachelors,25.0,1.0,Libra,Lower-middle Class,03
+872,2010-03-19,Necessary,1976-04-04,33.0,10000.0,2000-07-22,Bachelors,9.0,2.0,Aries,Lower-middle Class,03
+873,2014-03-19,Voluntary,1957-07-11,56.0,25000.0,1987-06-30,Bachelors,26.0,1.0,Cancer,Wealthy,03
+874,2007-04-19,Necessary,1959-03-26,48.0,3150242.0,1988-09-24,Bachelors,18.0,2.0,Aries,Wealthy,04
+875,2007-04-19,Necessary,1962-04-23,44.0,35000.0,1991-05-18,Bachelors,15.0,2.0,Taurus,Wealthy,04
+876,2010-04-19,Necessary,1960-02-18,50.0,10000.0,1987-05-15,Bachelors,23.0,4.0,Aquarius,Lower-middle Class,04
+877,2004-05-19,Voluntary,1968-12-29,35.0,2000.0,1995-12-01,Associates,8.0,2.0,Capricorn,Poor,05
+878,2004-05-19,Voluntary,1961-03-28,43.0,11000.0,1989-04-08,Bachelors,15.0,2.0,Aries,Lower-middle Class,05
+879,2009-05-19,Necessary,1970-08-04,38.0,20000.0,1994-07-02,Bachelors,2.0,2.0,Leo,Wealthy,05
+880,2010-05-19,Necessary,1962-12-05,47.0,6000.0,1992-07-01,Bachelors,10.0,2.0,Sagittarius,Poor,05
+881,2001-06-19,Voluntary,1970-03-01,31.0,3000.0,1992-07-04,Associates,8.0,2.0,Pisces,Poor,06
+882,2003-06-19,Voluntary,1962-03-13,41.0,3200.0,1997-02-21,Bachelors,6.0,1.0,Pisces,Poor,06
+883,2003-06-19,Necessary,1967-07-23,35.0,15000.0,1993-03-06,Bachelors,10.0,2.0,Leo,Upper-middle Class,06
+884,2001-07-19,Voluntary,1963-08-14,37.0,6000.0,1994-06-11,Bachelors,7.0,1.0,Leo,Poor,07
+885,2011-07-19,Necessary,1976-01-03,35.0,5000.0,2009-09-24,Bachelors,1.0,2.0,Capricorn,Poor,07
+886,2011-07-19,Necessary,1968-05-14,43.0,12000.0,1995-07-29,Bachelors,15.0,2.0,Taurus,Lower-middle Class,07
+887,2003-08-19,Voluntary,1967-05-24,36.0,20000.0,1997-03-08,Bachelors,6.0,1.0,Gemini,Wealthy,08
+888,2004-08-19,Voluntary,1972-08-19,32.0,5300.0,1999-03-19,Bachelors,5.0,1.0,Leo,Poor,08
+889,2005-08-19,Necessary,1952-10-01,52.0,15000.0,1986-10-01,Bachelors,19.0,2.0,Libra,Upper-middle Class,08
+890,2008-08-19,Necessary,1980-12-02,27.0,4000.0,2005-04-15,Associates,30.0,1.0,Sagittarius,Poor,08
+891,2000-09-19,Voluntary,1971-09-05,29.0,2200.0,1991-02-26,Associates,2.0,2.0,Virgo,Poor,09
+892,2001-09-19,Voluntary,1965-07-21,36.0,10000.0,1991-12-11,Bachelors,9.0,1.0,Cancer,Lower-middle Class,09
+893,2003-09-19,Necessary,1975-10-13,27.0,1500.0,1997-08-08,Bachelors,16.0,1.0,Libra,Poor,09
+894,2005-09-19,Necessary,1961-06-05,44.0,2000.0,1987-10-19,Bachelors,17.0,4.0,Gemini,Poor,09
+895,2005-09-19,Necessary,1958-02-13,47.0,5000.0,1978-12-02,Bachelors,27.0,2.0,Aquarius,Poor,09
+896,2008-09-19,Necessary,1975-12-19,32.0,5000.0,1995-03-13,Associates,10.0,2.0,Sagittarius,Poor,09
+897,2011-09-19,Necessary,1962-01-15,49.0,20000.0,1990-07-28,Bachelors,20.0,2.0,Capricorn,Wealthy,09
+898,2000-10-19,Voluntary,1972-11-30,27.0,3000.0,1995-12-01,Bachelors,4.0,1.0,Sagittarius,Poor,10
+899,2009-10-19,Necessary,1947-03-05,62.0,4800.0,2067-01-28,Elementary,42.0,2.0,Pisces,Poor,10
+900,2009-10-19,Necessary,1981-02-26,28.0,3000.0,2002-11-11,Bachelors,6.0,1.0,Pisces,Poor,10
+901,2010-10-19,Necessary,1969-12-11,40.0,5000.0,1990-01-19,Bachelors,19.0,2.0,Sagittarius,Poor,10
+902,2012-10-19,Necessary,1971-02-22,41.0,2000.0,1990-04-19,Elementary,22.0,2.0,Pisces,Poor,10
+903,2012-10-19,Necessary,1980-07-13,32.0,7000.0,2000-10-20,High School,12.0,2.0,Cancer,Poor,10
+904,2002-11-19,Voluntary,1978-01-07,24.0,2000.0,1996-10-16,Elementary,6.0,1.0,Capricorn,Poor,11
+905,2002-11-19,Voluntary,1970-05-23,32.0,7000.0,1991-05-07,Associates,11.0,1.0,Gemini,Poor,11
+906,2003-11-19,Voluntary,1969-10-07,34.0,4000.0,1991-06-19,High School,12.0,3.0,Libra,Poor,11
+907,2008-11-19,Voluntary,1946-05-02,62.0,523305.0,1982-06-26,High School,26.0,3.0,Taurus,Wealthy,11
+908,2009-11-19,Necessary,1958-11-30,50.0,3000.0,1983-12-27,Bachelors,21.0,2.0,Sagittarius,Poor,11
+909,2009-11-19,Necessary,1978-10-16,31.0,6000.0,2004-12-06,Bachelors,5.0,1.0,Libra,Poor,11
+910,2003-12-19,Voluntary,1974-01-29,29.0,2400.0,1997-05-16,High School,6.0,1.0,Aquarius,Poor,12
+911,2003-12-19,Voluntary,1973-08-25,30.0,7500.0,1998-07-27,Bachelors,5.0,1.0,Virgo,Poor,12
+912,2003-12-19,Voluntary,1971-09-13,32.0,40000.0,2000-01-17,Bachelors,3.0,1.0,Virgo,Wealthy,12
+913,2005-12-19,Necessary,1976-05-01,29.0,5490.0,2000-07-15,Bachelors,5.0,1.0,Taurus,Poor,12
+914,2007-12-19,Necessary,1960-09-27,47.0,10000.0,1983-07-23,Bachelors,20.0,2.0,Libra,Lower-middle Class,12
+915,2011-12-19,Necessary,1972-01-29,39.0,4000.0,2004-12-15,Bachelors,7.0,1.0,Aquarius,Poor,12
+916,2012-12-19,Necessary,1974-06-04,38.0,25000.0,2005-05-14,Bachelors,7.0,1.0,Gemini,Wealthy,12
+917,2012-12-19,Necessary,1982-09-26,30.0,10000.0,2008-12-06,Bachelors,4.0,1.0,Libra,Lower-middle Class,12
+918,2006-01-20,Necessary,1971-11-04,34.0,8000.0,1993-12-22,High School,12.0,3.0,Scorpio,Poor,01
+919,2010-01-20,Necessary,1984-05-12,25.0,3200.0,2006-01-14,Bachelors,3.0,1.0,Taurus,Poor,01
+920,2010-01-20,Necessary,1965-11-11,44.0,5000.0,1991-10-04,Bachelors,17.0,1.0,Scorpio,Poor,01
+921,2011-01-20,Necessary,1985-08-31,25.0,5000.0,2005-06-30,Associates,5.0,1.0,Virgo,Poor,01
+922,2001-02-20,Voluntary,1967-10-19,33.0,2500.0,1989-05-13,Associates,11.0,1.0,Libra,Poor,02
+923,2013-02-20,Necessary,1957-08-21,55.0,3400.0,1985-05-06,High School,15.0,2.0,Leo,Poor,02
+924,2013-02-20,Necessary,1977-07-23,35.0,12000.0,2005-07-02,Bachelors,7.0,1.0,Leo,Lower-middle Class,02
+925,2001-03-20,Voluntary,1962-06-08,38.0,7000.0,1984-07-21,Associates,16.0,2.0,Gemini,Poor,03
+926,2002-03-20,Voluntary,1970-08-31,31.0,10000.0,1995-12-09,Bachelors,6.0,2.0,Virgo,Lower-middle Class,03
+927,2003-03-20,Voluntary,1962-05-07,40.0,3600.0,1988-06-20,Bachelors,14.0,2.0,Taurus,Poor,03
+928,2009-03-20,Necessary,1964-06-05,39.0,25000.0,1994-06-18,Bachelors,15.0,1.0,Gemini,Wealthy,03
+929,2001-04-20,Voluntary,1972-05-19,28.0,3000.0,1994-02-22,High School,7.0,1.0,Taurus,Poor,04
+930,2004-04-20,Voluntary,1973-10-28,30.0,5000.0,1998-12-08,Bachelors,5.0,1.0,Scorpio,Poor,04
+931,2006-04-20,Necessary,1958-04-07,48.0,60000.0,1996-02-03,Bachelors,10.0,2.0,Aries,Wealthy,04
+932,2009-04-20,Necessary,1977-11-02,31.0,4000.0,1997-11-26,High School,3.0,2.0,Scorpio,Poor,04
+933,2011-04-20,Necessary,1984-12-17,26.0,8000.0,2006-01-19,Bachelors,3.0,1.0,Sagittarius,Poor,04
+934,2011-04-20,Necessary,1976-02-27,35.0,8500.0,2004-10-08,Bachelors,5.0,2.0,Pisces,Poor,04
+935,2011-04-20,Necessary,1947-08-19,63.0,25000.0,1975-01-25,Bachelors,36.0,2.0,Leo,Wealthy,04
+936,2011-04-20,Necessary,1983-02-18,28.0,3500.0,2005-12-15,High School,6.0,1.0,Aquarius,Poor,04
+937,2012-04-20,Necessary,1977-07-22,34.0,8000.0,1995-10-07,Bachelors,15.0,1.0,Cancer,Poor,04
+938,2012-04-20,Necessary,1947-06-26,64.0,20000.0,1983-07-30,Bachelors,29.0,2.0,Cancer,Wealthy,04
+939,2005-05-20,Necessary,1965-10-02,39.0,3500.0,1991-05-25,Bachelors,13.0,2.0,Libra,Poor,05
+940,2008-05-20,Necessary,1964-11-11,43.0,8000.0,1991-02-07,Bachelors,16.0,2.0,Scorpio,Poor,05
+941,2009-05-20,Necessary,1970-07-02,38.0,10000.0,1989-08-05,Bachelors,19.0,2.0,Cancer,Lower-middle Class,05
+942,2009-05-20,Necessary,1963-10-13,45.0,6000.0,1985-03-09,Bachelors,24.0,2.0,Libra,Poor,05
+943,2010-05-20,Necessary,1974-12-04,35.0,7000.0,1993-10-11,Bachelors,2.0,2.0,Sagittarius,Poor,05
+944,2010-05-20,Necessary,1961-07-22,48.0,4000.0,1993-10-25,Bachelors,17.0,2.0,Cancer,Poor,05
+945,2011-05-20,Necessary,1975-04-25,36.0,12000.0,2002-04-18,Associates,9.0,1.0,Taurus,Lower-middle Class,05
+946,2011-05-20,Necessary,1962-10-29,48.0,10000.0,1986-12-27,Bachelors,25.0,3.0,Scorpio,Lower-middle Class,05
+947,2011-05-20,Necessary,1973-08-08,37.0,5000.0,1994-10-15,Bachelors,18.0,4.0,Leo,Poor,05
+948,2013-05-20,Necessary,1975-09-01,37.0,2000.0,2008-01-05,High School,5.0,1.0,Virgo,Poor,05
+949,2007-06-20,Necessary,1974-12-14,32.0,3132.0,1994-10-18,Associates,12.0,2.0,Sagittarius,Poor,06
+950,2008-06-20,Necessary,1963-02-16,45.0,20000.0,2000-08-07,Bachelors,7.0,1.0,Aquarius,Wealthy,06
+951,2001-07-20,Voluntary,1951-09-10,49.0,3300.0,1975-05-17,Associates,26.0,3.0,Virgo,Poor,07
+952,2009-07-20,Necessary,1972-06-20,37.0,5000.0,2001-08-03,Associates,7.0,1.0,Gemini,Poor,07
+953,2001-08-20,Voluntary,1974-04-05,27.0,5000.0,1993-07-16,Associates,8.0,3.0,Aries,Poor,08
+954,2008-08-20,Necessary,1965-12-02,42.0,5000.0,1993-04-16,Bachelors,15.0,2.0,Sagittarius,Poor,08
+955,2000-09-20,Voluntary,1942-07-29,58.0,15000.0,2067-12-23,Bachelors,32.0,3.0,Leo,Upper-middle Class,09
+956,2002-09-20,Voluntary,1961-11-09,40.0,5000.0,1986-12-19,Bachelors,15.0,2.0,Scorpio,Poor,09
+957,2007-09-20,Necessary,1954-01-28,53.0,6000.0,1975-04-04,Elementary,18.0,2.0,Aquarius,Poor,09
+958,2012-09-20,Necessary,1965-03-05,47.0,6000.0,1989-06-30,Bachelors,22.0,2.0,Pisces,Poor,09
+959,2000-10-20,Voluntary,1950-06-17,50.0,13000.0,1982-09-27,Bachelors,18.0,1.0,Gemini,Lower-middle Class,10
+960,2008-10-20,Necessary,1982-04-16,26.0,7000.0,2005-07-22,Associates,2.0,1.0,Aries,Poor,10
+961,2010-10-20,Necessary,1977-01-24,33.0,4500.0,1999-07-02,Bachelors,11.0,3.0,Aquarius,Poor,10
+962,2007-11-20,Necessary,1971-08-08,36.0,4000.0,1997-08-08,Bachelors,10.0,2.0,Leo,Poor,11
+963,2007-11-20,Necessary,1981-08-15,26.0,2000.0,1998-04-13,High School,9.0,2.0,Leo,Poor,11
+964,2008-11-20,Necessary,1967-07-10,41.0,1530.0,1992-01-27,Associates,1.0,1.0,Cancer,Poor,11
+965,2001-12-20,Voluntary,1946-08-23,55.0,13000.0,1979-12-09,Bachelors,22.0,1.0,Virgo,Lower-middle Class,12
+966,2004-12-20,Voluntary,1978-01-23,26.0,2800.0,2000-03-24,Associates,4.0,1.0,Aquarius,Poor,12
+967,2005-12-20,Necessary,1959-07-01,46.0,5000.0,1983-07-29,Associates,22.0,2.0,Cancer,Poor,12
+968,2011-12-20,Necessary,1974-04-20,37.0,5000.0,2002-05-31,Bachelors,9.0,1.0,Taurus,Poor,12
+969,2004-01-21,Voluntary,1977-04-18,26.0,2500.0,1998-07-17,Bachelors,5.0,1.0,Aries,Poor,01
+970,2005-01-21,Necessary,1962-11-29,42.0,3800.0,1989-12-29,Associates,12.0,2.0,Sagittarius,Poor,01
+971,2001-02-21,Voluntary,1962-03-08,38.0,2000.0,1991-01-21,Bachelors,10.0,2.0,Pisces,Poor,02
+972,2003-02-21,Voluntary,1956-05-19,46.0,3000.0,1983-04-23,Bachelors,19.0,2.0,Taurus,Poor,02
+973,2007-02-21,Necessary,1956-04-19,50.0,750.0,1979-03-10,Associates,27.0,2.0,Aries,Poor,02
+974,2008-02-21,Necessary,1975-07-23,32.0,10000.0,2000-12-15,Bachelors,8.0,1.0,Leo,Lower-middle Class,02
+975,2013-02-21,Necessary,1975-01-18,38.0,10000.0,2003-10-08,Bachelors,10.0,1.0,Capricorn,Lower-middle Class,02
+976,2013-02-21,Necessary,1977-10-30,35.0,5000.0,2006-01-27,Bachelors,5.0,2.0,Scorpio,Poor,02
+977,2012-03-21,Necessary,1952-12-11,59.0,25000.0,1979-10-27,Bachelors,32.0,1.0,Sagittarius,Wealthy,03
+978,2003-04-21,Voluntary,1975-06-12,27.0,3000.0,1994-07-22,High School,8.0,2.0,Gemini,Poor,04
+979,2006-04-21,Necessary,1978-12-19,27.0,7500.0,1997-12-05,Associates,7.0,1.0,Sagittarius,Poor,04
+980,2006-04-21,Necessary,1954-07-04,51.0,4500.0,1988-10-07,Bachelors,18.0,1.0,Cancer,Poor,04
+981,2008-04-21,Necessary,1955-04-05,53.0,4000.0,1981-08-22,Bachelors,25.0,3.0,Aries,Poor,04
+982,2009-04-21,Necessary,1972-11-20,36.0,9800.0,1994-11-18,Associates,14.0,2.0,Scorpio,Poor,04
+983,2010-04-21,Necessary,1964-03-28,46.0,4000.0,1986-06-14,Associates,23.0,2.0,Aries,Poor,04
+984,2007-05-21,Necessary,1963-05-09,44.0,5500.0,1988-07-20,High School,18.0,3.0,Taurus,Poor,05
+985,2007-05-21,Necessary,1959-10-21,47.0,25000.0,1984-03-03,Bachelors,23.0,3.0,Libra,Wealthy,05
+986,2008-05-21,Necessary,1977-05-21,30.0,4000.0,2005-02-11,Bachelors,3.0,1.0,Gemini,Poor,05
+987,2010-05-21,Necessary,1978-04-05,32.0,20000.0,2001-08-17,Associates,8.0,1.0,Aries,Wealthy,05
+988,2000-06-21,Voluntary,1960-11-16,39.0,2000.0,1985-11-16,Associates,2.0,1.0,Scorpio,Poor,06
+989,2000-06-21,Voluntary,1956-01-17,44.0,5000.0,1987-09-02,Associates,12.0,2.0,Capricorn,Poor,06
+990,2002-06-21,Voluntary,1947-02-05,55.0,850.0,1973-12-10,Elementary,28.0,4.0,Aquarius,Poor,06
+991,2005-06-21,Necessary,1969-06-12,36.0,5000.0,1990-01-10,Associates,4.0,4.0,Gemini,Poor,06
+992,2005-06-21,Necessary,1962-10-25,42.0,2600.0,1986-11-22,Bachelors,19.0,2.0,Scorpio,Poor,06
+993,2011-06-21,Necessary,1983-01-07,28.0,4000.0,2003-01-31,Associates,8.0,2.0,Capricorn,Poor,06
+994,2000-08-21,Voluntary,1970-06-07,30.0,5000.0,1995-08-04,Bachelors,5.0,1.0,Gemini,Poor,08
+995,2009-08-21,Necessary,1973-01-07,36.0,2500.0,1993-01-29,High School,16.0,1.0,Capricorn,Poor,08
+996,2009-08-21,Necessary,1970-08-25,38.0,12000.0,1998-06-27,Bachelors,9.0,2.0,Virgo,Lower-middle Class,08
+997,2012-08-21,Necessary,1974-03-17,38.0,10000.0,2003-08-19,Bachelors,9.0,1.0,Pisces,Lower-middle Class,08
+998,2000-11-21,Voluntary,1965-03-21,35.0,700.0,1993-06-03,Bachelors,7.0,1.0,Aries,Poor,11
+999,2000-11-21,Necessary,1957-08-15,43.0,8000.0,1978-02-26,Bachelors,21.0,2.0,Leo,Poor,11
+1000,2001-11-21,Voluntary,1962-11-02,39.0,2500.0,1980-02-09,Associates,20.0,2.0,Scorpio,Poor,11
+1001,2002-11-21,Voluntary,1971-11-26,30.0,3000.0,1996-12-26,High School,5.0,1.0,Sagittarius,Poor,11
+1002,2003-11-21,Voluntary,1965-11-07,38.0,143600.0,1988-12-17,High School,14.0,1.0,Scorpio,Wealthy,11
+1003,2003-11-21,Voluntary,1972-05-28,31.0,36000.0,2000-06-10,Bachelors,3.0,1.0,Gemini,Wealthy,11
+1004,2003-11-21,Voluntary,1966-01-11,37.0,7000.0,1991-06-13,Bachelors,12.0,1.0,Capricorn,Poor,11
+1005,2006-11-21,Necessary,1971-06-30,35.0,7500.0,2005-03-14,Bachelors,1.0,1.0,Cancer,Poor,11
+1006,2008-11-21,Necessary,1962-05-20,46.0,3545.0,1986-05-20,High School,22.0,2.0,Taurus,Poor,11
+1007,2008-11-21,Necessary,1977-05-22,31.0,5000.0,2002-10-18,Bachelors,3.0,1.0,Gemini,Poor,11
+1008,2012-11-21,Necessary,1975-02-20,37.0,19194.0,2002-06-28,Bachelors,10.0,2.0,Pisces,Upper-middle Class,11
+1009,2013-11-21,Necessary,1965-03-11,48.0,3000.0,1987-05-14,Associates,25.0,2.0,Pisces,Poor,11
+1010,2000-12-21,Voluntary,1965-02-27,35.0,5000.0,1993-07-09,Bachelors,7.0,1.0,Pisces,Poor,12
+1011,2000-12-21,Voluntary,1968-08-12,32.0,3000.0,1993-02-26,Bachelors,7.0,2.0,Leo,Poor,12
+1012,2001-12-21,Voluntary,1961-01-14,40.0,4000.0,1992-12-15,Bachelors,8.0,1.0,Capricorn,Poor,12
+1013,2004-12-21,Voluntary,1972-06-27,32.0,3000.0,1992-07-18,Associates,12.0,2.0,Cancer,Poor,12
+1014,2005-12-21,Necessary,1963-12-24,41.0,16000.0,1994-06-03,Bachelors,11.0,2.0,Capricorn,Upper-middle Class,12
+1015,2006-12-21,Necessary,1970-03-26,36.0,15020.0,1993-03-26,Associates,11.0,2.0,Aries,Upper-middle Class,12
+1016,2009-12-21,Voluntary,1948-05-07,61.0,2800.0,1970-03-20,Associates,39.0,3.0,Taurus,Poor,12
+1017,2009-12-21,Necessary,1975-09-15,34.0,10000.0,2003-08-06,Bachelors,6.0,1.0,Virgo,Lower-middle Class,12
+1018,2010-12-21,Necessary,1970-01-10,40.0,8000.0,2003-07-02,Bachelors,7.0,1.0,Capricorn,Poor,12
+1019,2010-12-21,Necessary,1953-02-16,57.0,6000.0,1979-03-27,Bachelors,29.0,3.0,Aquarius,Poor,12
+1020,2011-12-21,Voluntary,1950-01-14,61.0,4000.0,1982-02-20,Bachelors,29.0,2.0,Capricorn,Poor,12
+1021,2011-12-21,Necessary,1969-05-23,42.0,5000.0,2000-08-04,Associates,11.0,1.0,Gemini,Poor,12
+1022,2012-12-21,Necessary,1978-11-14,34.0,10000.0,2005-03-05,Bachelors,5.0,1.0,Scorpio,Lower-middle Class,12
+1023,2003-01-22,Voluntary,1958-09-04,44.0,14000.0,1983-12-26,Bachelors,19.0,3.0,Virgo,Lower-middle Class,01
+1024,2010-01-22,Necessary,1969-11-09,40.0,5000.0,2007-06-06,Elementary,3.0,1.0,Scorpio,Poor,01
+1025,2013-01-22,Necessary,1963-10-01,49.0,25000.0,1997-12-11,Bachelors,15.0,2.0,Libra,Wealthy,01
+1026,2014-01-22,Necessary,1973-06-09,40.0,2500.0,1999-12-02,Elementary,13.0,4.0,Gemini,Poor,01
+1027,2001-02-22,Voluntary,1974-04-16,26.0,1100.0,1994-11-02,High School,6.0,1.0,Aries,Poor,02
+1028,2002-02-22,Voluntary,1968-06-21,33.0,1500.0,1996-10-25,Elementary,5.0,1.0,Cancer,Poor,02
+1029,2005-02-22,Necessary,1970-01-25,35.0,3000.0,1994-07-23,Associates,10.0,2.0,Aquarius,Poor,02
+1030,2011-02-22,Necessary,1960-12-28,50.0,26000.0,1986-07-05,Bachelors,24.0,2.0,Capricorn,Wealthy,02
+1031,2005-03-22,Necessary,1959-06-01,45.0,4000.0,1984-02-18,Bachelors,21.0,2.0,Gemini,Poor,03
+1032,2011-03-22,Necessary,1962-05-01,48.0,15000.0,1994-03-19,Bachelors,17.0,2.0,Taurus,Upper-middle Class,03
+1033,2010-04-22,Necessary,1966-03-10,44.0,5000.0,1987-05-20,Associates,19.0,2.0,Pisces,Poor,04
+1034,2010-04-22,Necessary,1965-05-21,44.0,6500.0,1990-02-22,Associates,20.0,2.0,Gemini,Poor,04
+1035,2010-04-22,Necessary,1975-10-29,34.0,1500.0,1993-07-17,High School,7.0,2.0,Scorpio,Poor,04
+1036,2000-05-22,Voluntary,1970-03-26,30.0,2200.0,1994-11-10,High School,5.0,1.0,Aries,Poor,05
+1037,2001-05-22,Voluntary,1951-09-04,49.0,5000.0,1970-03-03,High School,31.0,3.0,Virgo,Poor,05
+1038,2003-05-22,Voluntary,1968-04-25,35.0,4000.0,1995-11-06,Bachelors,7.0,1.0,Taurus,Poor,05
+1039,2006-05-22,Necessary,1965-10-07,40.0,65000.0,1993-09-03,Bachelors,13.0,1.0,Libra,Wealthy,05
+1040,2006-05-22,Necessary,1973-11-28,32.0,4000.0,2002-02-08,Bachelors,4.0,1.0,Sagittarius,Poor,05
+1041,2001-06-22,Voluntary,1953-01-05,48.0,6000.0,1983-12-16,Bachelors,17.0,2.0,Capricorn,Poor,06
+1042,2006-06-22,Necessary,1953-12-13,52.0,16000.0,1980-02-20,Bachelors,26.0,1.0,Sagittarius,Upper-middle Class,06
+1043,2009-06-22,Necessary,1962-07-19,46.0,2800.0,1992-07-13,Elementary,2.0,2.0,Cancer,Poor,06
+1044,2001-08-22,Voluntary,1954-04-09,47.0,9000.0,1979-06-23,Bachelors,22.0,2.0,Aries,Poor,08
+1045,2002-08-22,Voluntary,1975-03-17,27.0,400.0,1994-05-09,Elementary,8.0,1.0,Pisces,Poor,08
+1046,2006-08-22,Necessary,1959-07-03,47.0,16000.0,1982-01-23,Bachelors,25.0,3.0,Cancer,Upper-middle Class,08
+1047,2011-08-22,Necessary,1958-08-10,53.0,5000.0,1986-01-17,Associates,23.0,3.0,Leo,Poor,08
+1048,2000-09-22,Voluntary,1966-11-27,33.0,1200.0,1988-11-09,Associates,11.0,1.0,Sagittarius,Poor,09
+1049,2000-09-22,Voluntary,1968-02-28,32.0,16000.0,1992-04-04,Bachelors,8.0,2.0,Pisces,Upper-middle Class,09
+1050,2008-09-22,Necessary,1968-04-27,40.0,4000.0,1991-12-11,High School,16.0,2.0,Taurus,Poor,09
+1051,2003-10-22,Voluntary,1953-11-04,49.0,5000.0,1978-06-17,Bachelors,25.0,2.0,Scorpio,Poor,10
+1052,2003-10-22,Voluntary,1958-08-04,45.0,2000.0,1980-04-21,Elementary,23.0,2.0,Leo,Poor,10
+1053,2009-10-22,Necessary,1975-02-10,34.0,12000.0,1998-06-06,Bachelors,11.0,2.0,Aquarius,Lower-middle Class,10
+1054,2009-10-22,Necessary,1975-06-23,34.0,4000.0,1994-09-14,Elementary,6.0,2.0,Cancer,Poor,10
+1055,2002-11-22,Voluntary,1942-02-17,60.0,3000.0,1972-09-08,High School,30.0,1.0,Aquarius,Poor,11
+1056,2002-11-22,Voluntary,1968-08-01,34.0,2000.0,1993-12-08,Associates,8.0,1.0,Leo,Poor,11
+1057,2007-11-22,Necessary,1972-12-02,34.0,6000.0,1998-08-21,Associates,9.0,1.0,Sagittarius,Poor,11
+1058,2012-11-22,Necessary,1959-09-08,53.0,10000.0,2003-10-01,Bachelors,9.0,1.0,Virgo,Lower-middle Class,11
+1059,2006-12-22,Voluntary,1943-04-16,63.0,2200.0,1969-04-19,Bachelors,37.0,2.0,Aries,Poor,12
+1060,2001-01-23,Voluntary,1955-01-06,46.0,10000.0,1981-12-18,Bachelors,19.0,2.0,Capricorn,Lower-middle Class,01
+1061,2004-01-23,Voluntary,1965-08-22,38.0,17000.0,1996-10-19,Bachelors,7.0,1.0,Leo,Upper-middle Class,01
+1062,2012-01-23,Necessary,1977-01-25,34.0,18000.0,2000-04-01,Bachelors,10.0,3.0,Aquarius,Upper-middle Class,01
+1063,2001-02-23,Voluntary,1975-03-08,25.0,3000.0,1994-06-04,Bachelors,6.0,1.0,Pisces,Poor,02
+1064,2010-02-23,Necessary,1960-11-01,49.0,50000.0,1985-12-28,High School,21.0,2.0,Scorpio,Wealthy,02
+1065,2012-02-23,Necessary,1948-11-20,63.0,6000.0,1973-08-11,Bachelors,38.0,2.0,Scorpio,Poor,02
+1066,2015-02-23,Voluntary,1977-12-12,37.0,4500.0,2004-06-07,High School,10.0,2.0,Sagittarius,Poor,02
+1067,2004-03-23,Voluntary,1975-06-30,28.0,4200.0,2000-09-08,Associates,3.0,1.0,Cancer,Poor,03
+1068,2011-03-23,Necessary,1980-02-04,31.0,5000.0,2005-08-12,Bachelors,5.0,1.0,Aquarius,Poor,03
+1069,2008-04-23,Necessary,1971-10-23,36.0,10679.0,1998-05-16,Bachelors,9.0,2.0,Scorpio,Lower-middle Class,04
+1070,2012-04-23,Voluntary,1956-04-10,56.0,50000.0,1980-08-30,Bachelors,31.0,2.0,Aries,Wealthy,04
+1071,2003-05-23,Voluntary,1972-08-13,30.0,6000.0,1998-02-14,Bachelors,5.0,1.0,Leo,Poor,05
+1072,2006-05-23,Necessary,1962-08-27,43.0,9000.0,1988-10-14,Bachelors,17.0,2.0,Virgo,Poor,05
+1073,2007-05-23,Necessary,1971-08-09,35.0,5000.0,1993-01-29,Associates,13.0,3.0,Leo,Poor,05
+1074,2007-05-23,Necessary,1957-08-18,49.0,7000.0,1978-07-29,Bachelors,28.0,3.0,Leo,Poor,05
+1075,2007-05-23,Necessary,1961-02-08,46.0,8000.0,1986-05-12,Associates,19.0,2.0,Aquarius,Poor,05
+1076,2011-05-23,Necessary,1969-04-10,42.0,6000.0,1998-08-29,Bachelors,11.0,2.0,Aries,Poor,05
+1077,2012-05-23,Necessary,1983-07-17,28.0,10000.0,2005-05-06,Bachelors,7.0,2.0,Cancer,Lower-middle Class,05
+1078,2013-05-23,Voluntary,1963-12-14,49.0,14000.0,1982-09-28,Associates,31.0,2.0,Sagittarius,Lower-middle Class,05
+1079,2000-06-23,Voluntary,1977-04-19,23.0,2000.0,1998-12-30,Bachelors,1.0,1.0,Aries,Poor,06
+1080,2000-06-23,Voluntary,1976-12-06,23.0,3000.0,1997-04-30,Associates,1.0,1.0,Sagittarius,Poor,06
+1081,2009-06-23,Necessary,1977-01-27,32.0,6000.0,1996-08-20,Bachelors,7.0,1.0,Aquarius,Poor,06
+1082,2010-06-23,Necessary,1964-10-27,45.0,10000.0,1993-04-17,Associates,14.0,2.0,Scorpio,Lower-middle Class,06
+1083,2011-06-23,Necessary,1984-03-15,27.0,7000.0,2007-03-02,Bachelors,3.0,1.0,Pisces,Poor,06
+1084,2014-06-23,Necessary,1983-01-01,31.0,1700.0,2006-09-06,No Education,8.0,1.0,Capricorn,Poor,06
+1085,2004-07-23,Voluntary,1975-05-12,29.0,2000.0,1997-12-27,Associates,6.0,1.0,Taurus,Poor,07
+1086,2007-07-23,Necessary,1980-10-11,26.0,8000.0,2005-11-25,Bachelors,1.0,1.0,Libra,Poor,07
+1087,2008-07-23,Necessary,1970-03-06,38.0,2000.0,1997-04-30,Bachelors,11.0,1.0,Pisces,Poor,07
+1088,2010-07-23,Voluntary,1957-04-19,53.0,3000.0,1977-06-15,Elementary,33.0,2.0,Aries,Poor,07
+1089,2010-07-23,Necessary,1972-08-28,37.0,10000.0,2002-04-13,Bachelors,7.0,1.0,Virgo,Lower-middle Class,07
+1090,2013-07-23,Necessary,1988-06-30,25.0,3700.0,2006-07-26,Associates,6.0,1.0,Cancer,Poor,07
+1091,2002-08-23,Voluntary,1961-04-30,41.0,15000.0,1985-09-14,Bachelors,16.0,2.0,Taurus,Upper-middle Class,08
+1092,2011-08-23,Necessary,1980-03-14,31.0,5000.0,2001-07-27,Bachelors,6.0,1.0,Pisces,Poor,08
+1093,2012-08-23,Necessary,1979-02-22,33.0,10000.0,2003-09-04,Bachelors,8.0,1.0,Pisces,Lower-middle Class,08
+1094,2002-09-23,Voluntary,1970-12-07,31.0,3000.0,1991-11-28,Associates,10.0,2.0,Sagittarius,Poor,09
+1095,2003-09-23,Voluntary,1961-11-10,41.0,1000.0,1995-12-11,Elementary,7.0,1.0,Scorpio,Poor,09
+1096,2010-09-23,Necessary,1967-08-10,43.0,15000.0,1988-03-25,Associates,21.0,2.0,Leo,Upper-middle Class,09
+1097,2013-09-23,Necessary,1982-07-09,31.0,12000.0,2007-03-15,Bachelors,6.0,1.0,Cancer,Lower-middle Class,09
+1098,2002-10-23,Voluntary,1950-04-27,52.0,8000.0,1980-09-25,Bachelors,22.0,2.0,Taurus,Poor,10
+1099,2009-10-23,Necessary,1984-09-16,25.0,3000.0,2003-06-24,Associates,6.0,1.0,Virgo,Poor,10
+1100,2001-11-23,Voluntary,1972-07-29,29.0,4000.0,1991-01-04,Associates,10.0,2.0,Leo,Poor,11
+1101,2001-11-23,Voluntary,1966-02-16,35.0,9000.0,1991-09-06,Bachelors,10.0,1.0,Aquarius,Poor,11
+1102,2011-11-23,Necessary,1968-01-15,43.0,14000.0,1996-08-24,Bachelors,14.0,2.0,Capricorn,Lower-middle Class,11
+1103,2002-12-23,Voluntary,1952-04-13,49.0,3000.0,1991-04-27,Bachelors,11.0,2.0,Aries,Poor,12
+1104,2002-12-23,Voluntary,1956-12-24,45.0,1500.0,1985-12-23,High School,17.0,2.0,Capricorn,Poor,12
+1105,2003-12-23,Voluntary,1952-06-22,51.0,1000.0,1971-03-16,High School,32.0,3.0,Cancer,Poor,12
+1106,2003-12-23,Voluntary,1966-12-16,37.0,3000.0,1987-09-26,Associates,16.0,3.0,Sagittarius,Poor,12
+1107,2003-12-23,Voluntary,1969-10-26,34.0,6000.0,1990-07-14,Bachelors,13.0,2.0,Scorpio,Poor,12
+1108,2008-12-23,Necessary,1975-08-06,33.0,4000.0,2001-05-09,Bachelors,6.0,2.0,Leo,Poor,12
+1109,2008-12-23,Necessary,1969-08-11,39.0,20000.0,1999-02-27,Bachelors,7.0,1.0,Leo,Wealthy,12
+1110,2007-01-24,Necessary,1949-10-23,57.0,6700.0,1974-08-05,Bachelors,28.0,2.0,Scorpio,Poor,01
+1111,2008-01-24,Necessary,1968-06-15,39.0,1500.0,1991-09-09,High School,13.0,3.0,Gemini,Poor,01
+1112,2008-01-24,Necessary,1967-05-30,40.0,4000.0,1985-12-07,Associates,18.0,1.0,Gemini,Poor,01
+1113,2011-01-24,Necessary,1960-10-20,50.0,9800.0,1992-12-19,Bachelors,16.0,1.0,Libra,Poor,01
+1114,2004-03-24,Voluntary,1977-08-29,26.0,8000.0,2000-06-01,Bachelors,3.0,1.0,Virgo,Poor,03
+1115,2004-03-24,Voluntary,1983-11-01,20.0,1500.0,2002-04-19,Associates,1.0,1.0,Scorpio,Poor,03
+1116,2014-03-24,Necessary,1973-07-14,40.0,10000.0,1997-08-26,Bachelors,15.0,2.0,Cancer,Lower-middle Class,03
+1117,2001-04-24,Voluntary,1976-03-31,25.0,600.0,1997-08-07,High School,3.0,1.0,Aries,Poor,04
+1118,2012-04-24,Necessary,1978-10-01,33.0,22000.0,2000-05-19,Associates,11.0,2.0,Libra,Wealthy,04
+1119,2010-05-24,Necessary,1974-01-01,36.0,5000.0,1999-07-23,Bachelors,10.0,2.0,Capricorn,Poor,05
+1120,2013-05-24,Necessary,1978-09-07,34.0,5800.0,2002-11-29,Bachelors,10.0,2.0,Virgo,Poor,05
+1121,2002-06-24,Voluntary,1970-06-27,31.0,11000.0,1993-12-16,Bachelors,8.0,3.0,Cancer,Lower-middle Class,06
+1122,2003-06-24,Voluntary,1949-12-07,53.0,45000.0,1978-04-21,Bachelors,25.0,2.0,Sagittarius,Wealthy,06
+1123,2003-06-24,Voluntary,1956-09-15,46.0,16000.0,1977-12-22,Bachelors,25.0,2.0,Virgo,Upper-middle Class,06
+1124,2005-06-24,Necessary,1977-04-22,28.0,7000.0,1998-06-01,Bachelors,7.0,1.0,Taurus,Poor,06
+1125,2008-06-24,Necessary,1963-01-07,45.0,5000.0,1990-06-22,Associates,18.0,2.0,Capricorn,Poor,06
+1126,2008-06-24,Necessary,1957-02-02,51.0,10000.0,1992-11-14,Associates,15.0,1.0,Aquarius,Lower-middle Class,06
+1127,2009-06-24,Necessary,1967-01-07,42.0,4500.0,2002-12-09,Bachelors,4.0,2.0,Capricorn,Poor,06
+1128,2010-06-24,Necessary,1965-01-27,45.0,10000.0,1990-04-26,Bachelors,20.0,2.0,Aquarius,Lower-middle Class,06
+1129,2010-06-24,Necessary,1979-09-05,30.0,10000.0,2004-05-29,Bachelors,5.0,1.0,Virgo,Lower-middle Class,06
+1130,2011-06-24,Necessary,1974-09-16,36.0,6000.0,2002-07-05,Bachelors,10.0,2.0,Virgo,Poor,06
+1131,2006-07-24,Necessary,1970-11-23,35.0,4000.0,1989-12-01,Associates,16.0,1.0,Sagittarius,Poor,07
+1132,2008-07-24,Necessary,1975-09-11,32.0,3000.0,2007-07-10,Associates,1.0,1.0,Virgo,Poor,07
+1133,2013-07-24,Necessary,1987-08-06,25.0,4800.0,2007-10-23,High School,3.0,2.0,Leo,Poor,07
+1134,2001-08-24,Voluntary,1962-09-27,38.0,4300.0,1988-10-13,Bachelors,12.0,1.0,Libra,Poor,08
+1135,2004-08-24,Voluntary,1968-01-04,36.0,4000.0,1999-02-27,Bachelors,5.0,1.0,Capricorn,Poor,08
+1136,2002-09-24,Voluntary,1955-09-18,47.0,8000.0,1977-02-12,Bachelors,25.0,5.0,Virgo,Poor,09
+1137,2003-09-24,Voluntary,1972-07-23,31.0,10000.0,1995-10-10,Bachelors,7.0,1.0,Leo,Lower-middle Class,09
+1138,2007-09-24,Necessary,1985-02-14,22.0,1500.0,2003-06-09,High School,6.0,1.0,Aquarius,Poor,09
+1139,2009-09-24,Necessary,1969-08-14,40.0,4000.0,1992-10-17,Associates,14.0,3.0,Leo,Poor,09
+1140,2010-09-24,Necessary,1967-02-25,43.0,10000.0,1990-03-22,Bachelors,20.0,1.0,Pisces,Lower-middle Class,09
+1141,2013-09-24,Voluntary,1950-02-03,63.0,10000.0,1986-04-09,Bachelors,27.0,1.0,Aquarius,Lower-middle Class,09
+1142,2006-10-24,Necessary,1967-09-08,39.0,10000.0,1996-12-20,Bachelors,10.0,1.0,Virgo,Lower-middle Class,10
+1143,2008-10-24,Necessary,1980-10-18,28.0,3000.0,2002-01-23,Bachelors,3.0,1.0,Libra,Poor,10
+1144,2008-11-24,Voluntary,1966-01-23,42.0,6000.0,1985-12-13,Associates,22.0,2.0,Aquarius,Poor,11
+1145,2010-11-24,Necessary,1977-05-02,33.0,9000.0,1999-11-13,High School,10.0,2.0,Taurus,Poor,11
+1146,2011-11-24,Necessary,1981-05-22,30.0,4800.0,2004-11-15,High School,6.0,2.0,Gemini,Poor,11
+1147,2014-11-24,Voluntary,1969-01-08,45.0,6000.0,1987-12-02,High School,27.0,2.0,Capricorn,Poor,11
+1148,2007-01-25,Necessary,1959-12-22,47.0,8000.0,1983-12-06,Bachelors,23.0,1.0,Capricorn,Poor,01
+1149,2012-01-25,Necessary,1973-01-17,39.0,8400.0,1998-02-18,Bachelors,11.0,3.0,Capricorn,Poor,01
+1150,2013-01-25,Necessary,1962-11-22,50.0,13000.0,2000-01-20,Bachelors,13.0,1.0,Sagittarius,Lower-middle Class,01
+1151,2003-02-25,Voluntary,1972-08-19,30.0,6000.0,1998-11-28,Bachelors,4.0,1.0,Leo,Poor,02
+1152,2005-02-25,Voluntary,1960-06-22,44.0,15000.0,1981-08-07,Bachelors,23.0,3.0,Cancer,Upper-middle Class,02
+1153,2008-02-25,Necessary,1977-10-30,30.0,3500.0,2004-11-15,High School,4.0,1.0,Scorpio,Poor,02
+1154,2011-02-25,Necessary,1953-10-04,57.0,25000.0,1976-04-10,Bachelors,25.0,3.0,Libra,Wealthy,02
+1155,2011-02-25,Necessary,1972-07-06,38.0,7800.0,1999-07-30,Bachelors,10.0,1.0,Cancer,Poor,02
+1156,2002-03-25,Voluntary,1945-10-27,56.0,10000.0,1972-07-14,Bachelors,29.0,2.0,Scorpio,Lower-middle Class,03
+1157,2008-03-25,Necessary,1956-11-10,51.0,6500.0,1998-12-19,Bachelors,9.0,1.0,Scorpio,Poor,03
+1158,2009-03-25,Necessary,1964-08-18,44.0,4000.0,1982-05-22,Associates,16.0,3.0,Leo,Poor,03
+1159,2009-03-25,Necessary,1963-05-23,45.0,4000.0,1984-12-22,Bachelors,15.0,4.0,Gemini,Poor,03
+1160,2011-03-25,Necessary,1945-04-18,65.0,6000.0,1969-01-25,Bachelors,41.0,2.0,Aries,Poor,03
+1161,2013-03-25,Voluntary,1960-11-14,52.0,3000.0,1995-11-10,High School,18.0,3.0,Scorpio,Poor,03
+1162,2002-04-25,Voluntary,1954-01-08,48.0,3500.0,1976-01-31,Elementary,26.0,3.0,Capricorn,Poor,04
+1163,2006-04-25,Necessary,1974-09-17,31.0,7000.0,2000-09-21,High School,4.0,1.0,Virgo,Poor,04
+1164,2007-05-25,Necessary,1951-11-11,55.0,12000.0,1989-08-18,Bachelors,18.0,2.0,Scorpio,Lower-middle Class,05
+1165,2001-06-25,Voluntary,1966-01-31,35.0,20000.0,1989-07-29,Bachelors,12.0,1.0,Aquarius,Wealthy,06
+1166,2001-06-25,Voluntary,1948-04-10,53.0,4000.0,1975-04-04,Bachelors,26.0,2.0,Aries,Poor,06
+1167,2007-06-25,Necessary,1967-11-25,39.0,5000.0,2000-02-08,Bachelors,7.0,1.0,Sagittarius,Poor,06
+1168,2008-06-25,Necessary,1976-08-10,31.0,10900.0,2002-12-19,Bachelors,1.0,1.0,Leo,Lower-middle Class,06
+1169,2009-06-25,Necessary,1969-02-26,40.0,10000.0,1994-06-18,Associates,15.0,2.0,Pisces,Lower-middle Class,06
+1170,2000-07-25,Voluntary,1958-08-23,41.0,3000.0,1982-01-16,Associates,18.0,2.0,Virgo,Poor,07
+1171,2002-07-25,Voluntary,1960-09-11,41.0,3500.0,1985-03-05,Bachelors,7.0,2.0,Virgo,Poor,07
+1172,2002-07-25,Voluntary,1972-01-14,30.0,5000.0,1999-02-06,Bachelors,3.0,2.0,Capricorn,Poor,07
+1173,2000-08-25,Voluntary,1975-09-11,24.0,2900.0,1996-01-20,Bachelors,1.0,1.0,Virgo,Poor,08
+1174,2006-08-25,Necessary,1976-04-12,30.0,10000.0,2000-05-11,Bachelors,5.0,1.0,Aries,Lower-middle Class,08
+1175,2010-08-25,Necessary,1973-06-16,37.0,4000.0,1995-04-04,High School,15.0,3.0,Gemini,Poor,08
+1176,2014-08-25,Voluntary,1955-07-20,59.0,2000.0,1979-05-21,Elementary,35.0,1.0,Cancer,Poor,08
+1177,2008-09-25,Necessary,1966-08-13,42.0,15000.0,1995-09-18,Bachelors,12.0,1.0,Leo,Upper-middle Class,09
+1178,2013-09-25,Necessary,1978-07-04,35.0,10000.0,2009-04-25,Bachelors,4.0,1.0,Cancer,Lower-middle Class,09
+1179,2000-10-25,Voluntary,1949-11-11,50.0,7000.0,1981-05-23,Bachelors,19.0,2.0,Scorpio,Poor,10
+1180,2002-10-25,Voluntary,1970-07-29,32.0,6000.0,1993-03-04,Bachelors,9.0,1.0,Leo,Poor,10
+1181,2002-11-25,Voluntary,1965-03-26,37.0,5000.0,1989-04-05,Associates,13.0,2.0,Aries,Poor,11
+1182,2002-11-25,Voluntary,1953-10-28,49.0,5200.0,1984-05-18,Bachelors,18.0,2.0,Scorpio,Poor,11
+1183,2010-11-25,Voluntary,1955-02-16,55.0,6000.0,1994-07-18,High School,15.0,1.0,Aquarius,Poor,11
+1184,2011-11-25,Necessary,1971-09-28,40.0,7000.0,1997-06-21,High School,14.0,2.0,Libra,Poor,11
+1185,2009-01-26,Necessary,1960-06-13,48.0,4800.0,1988-06-07,Bachelors,21.0,4.0,Gemini,Poor,01
+1186,2003-02-26,Voluntary,1964-01-19,39.0,11000.0,1996-08-02,Bachelors,6.0,2.0,Capricorn,Lower-middle Class,02
+1187,2004-02-26,Voluntary,1970-05-06,33.0,3500.0,1995-06-05,High School,8.0,1.0,Taurus,Poor,02
+1188,2001-03-26,Voluntary,1950-10-31,50.0,3000.0,1992-10-10,Bachelors,8.0,1.0,Scorpio,Poor,03
+1189,2014-03-26,Necessary,1975-10-24,38.0,5000.0,1993-11-06,High School,5.0,2.0,Scorpio,Poor,03
+1190,2002-04-26,Voluntary,1965-02-17,37.0,6000.0,1994-07-22,Bachelors,7.0,2.0,Aquarius,Poor,04
+1191,2011-04-26,Necessary,1954-10-25,56.0,15000.0,1998-02-07,Bachelors,13.0,1.0,Scorpio,Upper-middle Class,04
+1192,2004-05-26,Voluntary,1975-03-08,29.0,2500.0,1997-11-21,High School,6.0,2.0,Pisces,Poor,05
+1193,2004-05-26,Voluntary,1964-08-05,39.0,6500.0,1997-04-25,Bachelors,7.0,1.0,Leo,Poor,05
+1194,2008-05-26,Necessary,1979-07-08,28.0,4800.0,2004-06-14,Bachelors,3.0,1.0,Cancer,Poor,05
+1195,2011-05-26,Necessary,1969-05-02,42.0,9246.0,2000-11-04,Bachelors,10.0,1.0,Taurus,Poor,05
+1196,2003-06-26,Voluntary,1967-06-15,36.0,3000.0,1989-04-08,Associates,13.0,2.0,Gemini,Poor,06
+1197,2006-06-26,Necessary,1954-01-19,52.0,10000.0,1976-12-18,Bachelors,29.0,2.0,Capricorn,Lower-middle Class,06
+1198,2007-06-26,Necessary,1977-02-02,30.0,15000.0,2004-02-28,Bachelors,2.0,2.0,Aquarius,Upper-middle Class,06
+1199,2008-06-26,Necessary,1959-03-28,49.0,6000.0,1981-06-15,Bachelors,27.0,1.0,Aries,Poor,06
+1200,2008-06-26,Necessary,1952-07-28,55.0,10000.0,1975-09-27,Bachelors,32.0,2.0,Leo,Lower-middle Class,06
+1201,2012-06-26,Voluntary,1957-11-20,54.0,18000.0,1985-02-23,Bachelors,27.0,3.0,Scorpio,Upper-middle Class,06
+1202,2000-07-26,Voluntary,1966-09-16,33.0,2000.0,1990-03-06,High School,10.0,2.0,Virgo,Poor,07
+1203,2010-07-26,Necessary,1975-05-22,35.0,8000.0,2003-01-31,Associates,7.0,1.0,Gemini,Poor,07
+1204,2003-08-26,Voluntary,1975-10-23,27.0,2100.0,2000-10-23,Associates,2.0,2.0,Scorpio,Poor,08
+1205,2004-08-26,Voluntary,1970-11-07,33.0,3600.0,1999-12-17,Bachelors,4.0,1.0,Scorpio,Poor,08
+1206,2009-08-26,Necessary,1975-02-05,34.0,15000.0,2002-12-14,Bachelors,6.0,1.0,Aquarius,Upper-middle Class,08
+1207,2011-08-26,Necessary,1974-12-31,36.0,3000.0,1997-04-21,Elementary,8.0,2.0,Capricorn,Poor,08
+1208,2014-08-26,Voluntary,1967-07-12,47.0,7500.0,1992-08-07,Bachelors,22.0,1.0,Cancer,Poor,08
+1209,2003-09-26,Voluntary,1973-02-20,30.0,3000.0,2001-01-18,Bachelors,2.0,1.0,Pisces,Poor,09
+1210,2006-09-26,Necessary,1969-08-30,37.0,3000.0,1993-02-04,Bachelors,13.0,2.0,Virgo,Poor,09
+1211,2006-09-26,Necessary,1973-10-31,32.0,5000.0,1999-10-30,Bachelors,6.0,1.0,Scorpio,Poor,09
+1212,2008-09-26,Necessary,1960-12-20,47.0,5000.0,1988-11-18,Bachelors,20.0,2.0,Sagittarius,Poor,09
+1213,2008-09-26,Necessary,1974-10-19,33.0,3000.0,1996-04-18,Bachelors,12.0,1.0,Libra,Poor,09
+1214,2011-09-26,Necessary,1962-04-15,49.0,7000.0,1981-08-28,Elementary,30.0,1.0,Aries,Poor,09
+1215,2007-10-26,Necessary,1964-09-19,43.0,40000.0,1989-02-10,Bachelors,17.0,2.0,Virgo,Wealthy,10
+1216,2011-10-26,Necessary,1970-03-16,41.0,3000.0,1997-05-31,Associates,14.0,2.0,Pisces,Poor,10
+1217,2011-10-26,Necessary,1974-04-12,37.0,8000.0,1994-07-16,Associates,17.0,2.0,Aries,Poor,10
+1218,2003-11-26,Voluntary,1969-11-16,34.0,4000.0,1997-04-25,Bachelors,6.0,1.0,Scorpio,Poor,11
+1219,2007-11-26,Necessary,1957-01-10,50.0,6000.0,1983-09-03,High School,23.0,2.0,Capricorn,Poor,11
+1220,2007-11-26,Necessary,1970-11-04,37.0,10000.0,1995-03-11,Associates,12.0,2.0,Scorpio,Lower-middle Class,11
+1221,2009-11-26,Necessary,1949-11-16,60.0,6000.0,1978-07-29,Bachelors,31.0,3.0,Scorpio,Poor,11
+1222,2000-12-26,Voluntary,1959-11-11,41.0,6000.0,1990-12-21,Bachelors,10.0,1.0,Scorpio,Poor,12
+1223,2001-12-26,Voluntary,1969-06-15,32.0,4600.0,1992-11-06,High School,9.0,4.0,Gemini,Poor,12
+1224,2002-12-26,Voluntary,1972-06-08,30.0,4500.0,1992-05-13,Associates,10.0,3.0,Gemini,Poor,12
+1225,2002-12-26,Voluntary,1951-04-05,51.0,12000.0,1979-06-23,Bachelors,23.0,2.0,Aries,Lower-middle Class,12
+1226,2007-12-26,Necessary,1959-03-12,48.0,3000.0,1988-07-23,Bachelors,17.0,2.0,Pisces,Poor,12
+1227,2013-12-26,Voluntary,1958-06-14,55.0,6000.0,1980-05-13,Elementary,33.0,3.0,Gemini,Poor,12
+1228,2009-01-27,Necessary,1954-08-26,54.0,25000.0,1975-12-19,Bachelors,33.0,3.0,Virgo,Wealthy,01
+1229,2003-02-27,Voluntary,1961-05-20,41.0,5000.0,1991-08-31,Bachelors,12.0,1.0,Taurus,Poor,02
+1230,2003-02-27,Voluntary,1954-09-14,48.0,5000.0,1989-01-14,Bachelors,14.0,2.0,Virgo,Poor,02
+1231,2002-03-27,Voluntary,1971-08-09,30.0,3000.0,1996-10-01,Associates,5.0,1.0,Leo,Poor,03
+1232,2003-03-27,Voluntary,1960-05-07,42.0,1500.0,1983-05-07,High School,19.0,2.0,Taurus,Poor,03
+1233,2007-03-27,Voluntary,1953-10-14,53.0,6000.0,1994-07-18,Elementary,12.0,2.0,Libra,Poor,03
+1234,2007-03-27,Necessary,1958-08-26,48.0,4000.0,1978-12-06,Elementary,14.0,2.0,Virgo,Poor,03
+1235,2007-03-27,Necessary,1961-10-03,45.0,7000.0,1986-10-07,Associates,19.0,2.0,Libra,Poor,03
+1236,2008-03-27,Necessary,1961-11-28,46.0,6000.0,1981-03-07,Associates,26.0,2.0,Sagittarius,Poor,03
+1237,2009-03-27,Necessary,1971-04-27,37.0,6000.0,2001-06-16,Bachelors,5.0,1.0,Taurus,Poor,03
+1238,2012-03-27,Necessary,1976-02-13,36.0,6000.0,1995-02-13,Bachelors,17.0,3.0,Aquarius,Poor,03
+1239,2013-03-27,Necessary,1967-02-23,46.0,10000.0,1996-05-18,Associates,16.0,1.0,Pisces,Lower-middle Class,03
+1240,2004-04-27,Voluntary,1966-01-29,38.0,2800.0,1987-11-28,High School,16.0,2.0,Aquarius,Poor,04
+1241,2006-04-27,Necessary,1962-02-28,44.0,8000.0,1985-12-02,Associates,20.0,2.0,Pisces,Poor,04
+1242,2011-04-27,Necessary,1963-01-26,48.0,8000.0,1987-05-30,Bachelors,18.0,4.0,Aquarius,Poor,04
+1243,2011-04-27,Necessary,1974-05-13,36.0,6000.0,2005-12-18,Bachelors,5.0,1.0,Taurus,Poor,04
+1244,2004-05-27,Voluntary,1973-03-21,30.0,3800.0,1997-06-20,Elementary,6.0,1.0,Aries,Poor,05
+1245,2004-05-27,Voluntary,1967-10-23,36.0,3000.0,1989-07-05,Bachelors,14.0,1.0,Scorpio,Poor,05
+1246,2008-05-27,Necessary,1957-05-28,50.0,14000.0,1987-08-08,Bachelors,17.0,2.0,Gemini,Lower-middle Class,05
+1247,2010-05-27,Necessary,1978-06-16,31.0,3000.0,1996-11-28,High School,14.0,2.0,Gemini,Poor,05
+1248,2000-06-27,Voluntary,1964-12-19,35.0,5000.0,1991-08-15,Bachelors,8.0,2.0,Sagittarius,Poor,06
+1249,2003-06-27,Voluntary,1968-10-26,34.0,6000.0,1991-03-29,Associates,12.0,2.0,Scorpio,Poor,06
+1250,2008-06-27,Necessary,1957-11-11,50.0,5000.0,1980-06-07,Bachelors,13.0,2.0,Scorpio,Poor,06
+1251,2008-06-27,Necessary,1962-03-10,46.0,8000.0,1986-10-04,High School,20.0,1.0,Pisces,Poor,06
+1252,2011-06-27,Necessary,1957-12-21,53.0,6000.0,1983-05-07,Bachelors,28.0,3.0,Sagittarius,Poor,06
+1253,2014-06-27,Necessary,1971-03-18,43.0,10000.0,1995-09-11,Bachelors,10.0,1.0,Pisces,Lower-middle Class,06
+1254,2001-07-27,Voluntary,1965-03-22,36.0,2600.0,1986-07-19,High School,14.0,1.0,Aries,Poor,07
+1255,2012-07-27,Necessary,1972-10-16,39.0,7000.0,1996-09-11,Associates,15.0,1.0,Libra,Poor,07
+1256,2001-08-27,Voluntary,1951-04-12,50.0,1000.0,1982-06-19,Associates,19.0,2.0,Aries,Poor,08
+1257,2003-08-27,Voluntary,1982-01-11,21.0,4000.0,1998-07-09,Associates,5.0,1.0,Capricorn,Poor,08
+1258,2004-08-27,Voluntary,1966-08-24,38.0,6000.0,1997-09-25,Bachelors,7.0,1.0,Virgo,Poor,08
+1259,2008-08-27,Necessary,1963-07-14,45.0,5000.0,1998-10-07,Associates,9.0,1.0,Cancer,Poor,08
+1260,2010-08-27,Necessary,1974-05-18,36.0,7000.0,1996-10-18,Bachelors,13.0,1.0,Taurus,Poor,08
+1261,2013-08-27,Necessary,1969-06-21,44.0,20000.0,2006-02-11,Bachelors,7.0,2.0,Cancer,Wealthy,08
+1262,2007-09-27,Necessary,1970-07-02,37.0,7000.0,1989-06-10,Associates,18.0,1.0,Cancer,Poor,09
+1263,2010-09-27,Necessary,1974-07-13,36.0,5000.0,2000-08-09,Bachelors,9.0,2.0,Cancer,Poor,09
+1264,2011-09-27,Necessary,1973-07-02,38.0,4000.0,2001-06-25,Elementary,9.0,1.0,Cancer,Poor,09
+1265,2011-09-27,Voluntary,1968-02-10,43.0,2500.0,1990-10-09,Elementary,20.0,1.0,Aquarius,Poor,09
+1266,2008-10-27,Necessary,1985-11-27,22.0,4000.0,2006-02-06,Elementary,2.0,1.0,Sagittarius,Poor,10
+1267,2008-10-27,Necessary,1959-06-09,49.0,10000.0,1980-09-06,Bachelors,28.0,2.0,Gemini,Lower-middle Class,10
+1268,2001-11-27,Voluntary,1963-03-31,38.0,3500.0,1985-03-01,Bachelors,15.0,2.0,Aries,Poor,11
+1269,2002-11-27,Voluntary,1964-02-18,38.0,5000.0,1993-12-23,Associates,8.0,2.0,Aquarius,Poor,11
+1270,2006-11-27,Necessary,1957-11-30,48.0,2000.0,1981-05-20,Elementary,13.0,2.0,Sagittarius,Poor,11
+1271,2011-12-27,Necessary,1976-05-30,35.0,5000.0,2002-08-15,Bachelors,11.0,2.0,Gemini,Poor,12
+1272,2011-12-27,Necessary,1962-11-25,49.0,4000.0,1985-03-02,Associates,25.0,2.0,Sagittarius,Poor,12
+1273,2013-12-27,Necessary,1973-01-07,40.0,30000.0,2007-10-05,Bachelors,6.0,1.0,Capricorn,Wealthy,12
+1274,2003-01-28,Voluntary,1968-05-29,34.0,2000.0,1988-09-10,Associates,14.0,2.0,Gemini,Poor,01
+1275,2003-01-28,Voluntary,1952-05-24,50.0,4000.0,1977-01-07,Associates,25.0,2.0,Gemini,Poor,01
+1276,2004-01-28,Voluntary,1950-02-21,53.0,4000.0,1974-12-23,High School,29.0,2.0,Pisces,Poor,01
+1277,2005-01-28,Necessary,1976-07-06,28.0,1200.0,1999-07-30,Elementary,5.0,1.0,Cancer,Poor,01
+1278,2008-01-28,Necessary,1978-01-12,30.0,9000.0,2000-12-01,Bachelors,5.0,2.0,Capricorn,Poor,01
+1279,2009-01-28,Necessary,1967-04-05,41.0,5000.0,1997-07-21,Bachelors,11.0,2.0,Aries,Poor,01
+1280,2013-01-28,Necessary,1974-03-31,38.0,7500.0,1996-09-18,Bachelors,16.0,2.0,Aries,Poor,01
+1281,2013-02-28,Necessary,1968-10-17,44.0,2000.0,1990-10-26,Associates,18.0,2.0,Libra,Poor,02
+1282,2003-03-28,Voluntary,1949-05-20,53.0,5000.0,1975-07-19,Bachelors,27.0,3.0,Taurus,Poor,03
+1283,2006-03-28,Necessary,1973-02-14,33.0,1500.0,2001-08-31,Associates,4.0,1.0,Aquarius,Poor,03
+1284,2007-03-28,Voluntary,1955-12-06,51.0,21000.0,1983-09-03,Bachelors,24.0,2.0,Sagittarius,Wealthy,03
+1285,2008-03-28,Necessary,1972-02-20,36.0,3000.0,2003-02-13,Associates,5.0,1.0,Pisces,Poor,03
+1286,2008-03-28,Necessary,1978-09-07,29.0,3800.0,1999-09-03,Bachelors,7.0,1.0,Virgo,Poor,03
+1287,2011-03-28,Necessary,1964-12-11,46.0,6000.0,2000-05-06,Bachelors,10.0,1.0,Sagittarius,Poor,03
+1288,2004-04-28,Voluntary,1973-11-24,30.0,3000.0,1994-08-11,Associates,9.0,1.0,Sagittarius,Poor,04
+1289,2004-04-28,Voluntary,1955-09-14,48.0,1200.0,1978-03-13,Elementary,25.0,3.0,Virgo,Poor,04
+1290,2006-04-28,Necessary,1953-04-22,53.0,3000.0,1973-03-17,Elementary,32.0,3.0,Taurus,Poor,04
+1291,2008-04-28,Necessary,1954-12-05,53.0,20000.0,1986-07-19,Bachelors,22.0,2.0,Sagittarius,Wealthy,04
+1292,2010-04-28,Necessary,1959-10-11,50.0,8000.0,1991-10-11,Elementary,18.0,2.0,Libra,Poor,04
+1293,2011-04-28,Necessary,1979-08-08,31.0,5000.0,2005-03-22,Associates,4.0,1.0,Leo,Poor,04
+1294,2014-04-28,Voluntary,1955-09-19,58.0,6800.0,1980-12-19,Bachelors,33.0,2.0,Virgo,Poor,04
+1295,2001-05-28,Necessary,1951-01-30,50.0,2800.0,1973-08-24,Associates,27.0,2.0,Aquarius,Poor,05
+1296,2002-05-28,Voluntary,1958-01-06,44.0,3500.0,1985-01-19,Bachelors,17.0,3.0,Capricorn,Poor,05
+1297,2003-05-28,Voluntary,1950-10-10,52.0,25000.0,1979-11-10,Bachelors,23.0,2.0,Libra,Wealthy,05
+1298,2004-05-28,Voluntary,1978-12-22,25.0,8000.0,1996-04-11,High School,8.0,2.0,Capricorn,Poor,05
+1299,2001-06-28,Necessary,1959-02-12,42.0,5000.0,1978-08-26,Bachelors,22.0,3.0,Aquarius,Poor,06
+1300,2001-06-28,Voluntary,1977-11-18,23.0,4000.0,1997-02-10,Associates,4.0,1.0,Scorpio,Poor,06
+1301,2002-06-28,Voluntary,1962-03-17,40.0,3000.0,1986-03-20,Associates,16.0,2.0,Pisces,Poor,06
+1302,2011-06-28,Necessary,1962-08-12,48.0,3000.0,1986-12-06,High School,24.0,2.0,Leo,Poor,06
+1303,2008-07-28,Necessary,1974-03-13,34.0,15000.0,1999-04-10,Bachelors,8.0,2.0,Pisces,Upper-middle Class,07
+1304,2000-08-28,Voluntary,1977-01-10,23.0,1200.0,1996-01-10,Associates,4.0,1.0,Capricorn,Poor,08
+1305,2002-08-28,Voluntary,1977-02-13,25.0,2200.0,1995-07-21,Bachelors,7.0,1.0,Aquarius,Poor,08
+1306,2008-08-28,Necessary,1974-01-07,34.0,6500.0,2003-12-11,Bachelors,4.0,1.0,Capricorn,Poor,08
+1307,2001-09-28,Voluntary,1956-11-12,44.0,2500.0,1982-05-04,High School,19.0,2.0,Scorpio,Poor,09
+1308,2004-09-28,Voluntary,1963-03-12,41.0,12000.0,1985-09-28,Bachelors,18.0,2.0,Pisces,Lower-middle Class,09
+1309,2009-09-28,Necessary,1964-12-27,44.0,12000.0,1986-11-06,Bachelors,23.0,2.0,Capricorn,Lower-middle Class,09
+1310,2011-09-28,Necessary,1978-07-01,33.0,9000.0,2000-06-30,Bachelors,11.0,2.0,Cancer,Poor,09
+1311,2009-10-28,Necessary,1973-10-01,36.0,3800.0,1992-10-10,Bachelors,17.0,3.0,Libra,Poor,10
+1312,2009-10-28,Necessary,1985-07-05,24.0,3000.0,2008-02-11,Associates,1.0,1.0,Cancer,Poor,10
+1313,2009-10-28,Necessary,1984-02-16,25.0,3600.0,2003-02-04,High School,3.0,1.0,Aquarius,Poor,10
+1314,2003-11-28,Voluntary,1957-11-27,45.0,8700.0,1981-07-31,High School,22.0,1.0,Sagittarius,Poor,11
+1315,2008-11-28,Necessary,1978-05-09,30.0,4000.0,1998-11-06,Associates,7.0,1.0,Taurus,Poor,11
+1316,2008-11-28,Necessary,1965-09-16,43.0,10000.0,1995-02-25,Bachelors,13.0,1.0,Virgo,Lower-middle Class,11
+1317,2011-11-28,Necessary,1973-07-01,38.0,12000.0,1990-04-06,High School,21.0,2.0,Cancer,Lower-middle Class,11
+1318,2013-11-28,Necessary,1980-08-16,33.0,12000.0,2007-03-03,Bachelors,6.0,1.0,Leo,Lower-middle Class,11
+1319,2002-01-29,Voluntary,1972-10-25,29.0,900.0,1993-08-02,Bachelors,8.0,1.0,Scorpio,Poor,01
+1320,2004-01-29,Voluntary,1961-04-21,42.0,8000.0,1984-11-10,Bachelors,9.0,2.0,Taurus,Poor,01
+1321,2009-01-29,Necessary,1976-07-20,32.0,14890.0,2007-12-14,Associates,1.0,1.0,Cancer,Lower-middle Class,01
+1322,2010-01-29,Voluntary,1955-12-15,54.0,15000.0,1984-10-01,Bachelors,25.0,2.0,Sagittarius,Upper-middle Class,01
+1323,2008-02-29,Necessary,1966-05-05,41.0,5000.0,1992-12-05,Bachelors,15.0,3.0,Taurus,Poor,02
+1324,2001-03-29,Voluntary,1975-12-28,25.0,1400.0,1995-02-23,High School,5.0,1.0,Capricorn,Poor,03
+1325,2003-04-29,Voluntary,1961-11-12,41.0,5000.0,1987-05-15,Bachelors,15.0,2.0,Scorpio,Poor,04
+1326,2003-04-29,Voluntary,1966-07-06,36.0,20000.0,1993-12-18,Bachelors,9.0,1.0,Cancer,Wealthy,04
+1327,2008-04-29,Necessary,1966-12-30,41.0,3000.0,2001-08-17,Bachelors,7.0,1.0,Capricorn,Poor,04
+1328,2011-04-29,Necessary,1963-08-02,47.0,5700.0,1990-11-29,Bachelors,3.0,2.0,Leo,Poor,04
+1329,2001-05-29,Voluntary,1962-11-12,38.0,4000.0,1985-11-22,Bachelors,15.0,1.0,Scorpio,Poor,05
+1330,2002-05-29,Voluntary,1955-02-25,47.0,3000.0,1982-04-03,High School,20.0,2.0,Pisces,Poor,05
+1331,2006-05-29,Necessary,1968-07-21,37.0,20000.0,1993-03-20,Bachelors,12.0,1.0,Cancer,Wealthy,05
+1332,2006-05-29,Necessary,1964-04-19,42.0,2000.0,1990-01-25,Elementary,11.0,1.0,Aries,Poor,05
+1333,2006-05-29,Necessary,1961-03-27,45.0,1400.0,1993-02-16,Elementary,4.0,4.0,Aries,Poor,05
+1334,2004-06-29,Voluntary,1967-06-23,37.0,3500.0,1999-01-25,Associates,5.0,1.0,Cancer,Poor,06
+1335,2009-06-29,Necessary,1968-04-29,41.0,2500.0,1994-03-09,High School,15.0,3.0,Taurus,Poor,06
+1336,2010-06-29,Voluntary,1961-08-21,48.0,8000.0,1995-06-28,Associates,15.0,1.0,Leo,Poor,06
+1337,2012-06-29,Necessary,1963-03-03,49.0,3000.0,1997-12-29,Bachelors,13.0,1.0,Pisces,Poor,06
+1338,2002-07-29,Voluntary,1965-12-20,36.0,11500.0,1991-03-09,Bachelors,11.0,2.0,Sagittarius,Lower-middle Class,07
+1339,2003-07-29,Voluntary,1980-01-24,23.0,4500.0,1998-04-27,Associates,5.0,1.0,Aquarius,Poor,07
+1340,2013-07-29,Voluntary,1968-07-15,45.0,12000.0,1990-08-09,Associates,22.0,2.0,Cancer,Lower-middle Class,07
+1341,2008-08-29,Necessary,1960-05-25,48.0,5000.0,2000-09-07,Associates,7.0,1.0,Gemini,Poor,08
+1342,2008-08-29,Necessary,1969-12-22,38.0,10000.0,1992-10-29,Associates,16.0,3.0,Capricorn,Lower-middle Class,08
+1343,2011-08-29,Necessary,1956-01-04,55.0,10000.0,1994-11-24,Bachelors,16.0,2.0,Capricorn,Lower-middle Class,08
+1344,2014-08-29,Voluntary,1948-11-10,65.0,12000.0,1975-07-25,Bachelors,39.0,2.0,Scorpio,Lower-middle Class,08
+1345,2003-09-29,Voluntary,1962-05-01,41.0,15000.0,1985-11-06,Bachelors,17.0,2.0,Taurus,Upper-middle Class,09
+1346,2003-09-29,Voluntary,1967-09-24,36.0,10000.0,1993-09-22,Bachelors,10.0,2.0,Libra,Lower-middle Class,09
+1347,2004-09-29,Voluntary,1958-03-29,46.0,5000.0,1995-04-08,Bachelors,9.0,2.0,Aries,Poor,09
+1348,2008-09-29,Necessary,1974-03-24,34.0,12000.0,1999-07-15,Bachelors,9.0,1.0,Aries,Lower-middle Class,09
+1349,2008-09-29,Necessary,1969-03-26,39.0,7000.0,1991-02-01,Associates,17.0,2.0,Aries,Poor,09
+1350,2008-09-29,Necessary,1976-06-08,32.0,4500.0,2000-04-12,Associates,8.0,2.0,Gemini,Poor,09
+1351,2011-09-29,Necessary,1979-09-07,32.0,7000.0,2007-12-27,Bachelors,2.0,1.0,Virgo,Poor,09
+1352,2002-10-29,Voluntary,1963-07-11,39.0,8000.0,1988-06-10,Bachelors,14.0,1.0,Cancer,Poor,10
+1353,2002-10-29,Voluntary,1971-09-22,31.0,3000.0,1996-10-14,Associates,6.0,1.0,Virgo,Poor,10
+1354,2003-10-29,Voluntary,1979-09-02,24.0,3000.0,2001-05-24,Associates,2.0,1.0,Virgo,Poor,10
+1355,2003-10-29,Voluntary,1971-08-10,32.0,15000.0,1996-05-10,Bachelors,7.0,1.0,Leo,Upper-middle Class,10
+1356,2003-10-29,Voluntary,1950-05-18,53.0,15000.0,1979-11-21,Bachelors,23.0,3.0,Taurus,Upper-middle Class,10
+1357,2007-10-29,Necessary,1981-01-08,26.0,5000.0,2001-01-23,Bachelors,6.0,3.0,Capricorn,Poor,10
+1358,2008-10-29,Necessary,1973-04-05,35.0,6000.0,2002-12-04,Bachelors,5.0,1.0,Aries,Poor,10
+1359,2009-10-29,Necessary,1965-08-11,44.0,6000.0,1986-11-29,Bachelors,21.0,2.0,Leo,Poor,10
+1360,2010-10-29,Necessary,1980-12-06,29.0,8000.0,2001-04-26,Bachelors,7.0,1.0,Sagittarius,Poor,10
+1361,2013-10-29,Necessary,1978-08-09,35.0,6000.0,2002-12-05,Bachelors,10.0,1.0,Leo,Poor,10
+1362,2013-10-29,Necessary,1970-11-20,42.0,15000.0,1995-01-20,Associates,18.0,3.0,Scorpio,Upper-middle Class,10
+1363,2013-10-29,Necessary,1954-12-30,58.0,40000.0,1988-05-21,Bachelors,25.0,2.0,Capricorn,Wealthy,10
+1364,2000-11-29,Voluntary,1978-05-01,22.0,1200.0,1997-10-09,Associates,3.0,1.0,Taurus,Poor,11
+1365,2001-11-29,Voluntary,1963-05-26,38.0,2000.0,1993-06-11,Bachelors,8.0,1.0,Gemini,Poor,11
+1366,2006-11-29,Necessary,1966-11-01,40.0,3000.0,2004-01-09,Associates,2.0,1.0,Scorpio,Poor,11
+1367,2011-11-29,Necessary,1983-04-06,28.0,5000.0,2007-10-15,High School,3.0,2.0,Aries,Poor,11
+1368,2000-12-29,Voluntary,1954-07-09,46.0,4500.0,1977-09-27,Bachelors,23.0,3.0,Cancer,Poor,12
+1369,2008-12-29,Necessary,1951-12-16,57.0,4500.0,1977-05-18,Elementary,31.0,2.0,Sagittarius,Poor,12
+1370,2001-01-30,Voluntary,1966-01-20,35.0,6000.0,1992-08-22,Bachelors,8.0,1.0,Aquarius,Poor,01
+1371,2006-01-30,Necessary,1958-09-01,47.0,8000.0,1980-12-26,Elementary,26.0,2.0,Virgo,Poor,01
+1372,2009-01-30,Necessary,1957-03-16,51.0,3000.0,1987-05-07,Elementary,21.0,3.0,Pisces,Poor,01
+1373,2009-01-30,Necessary,1963-07-10,45.0,2800.0,1999-02-08,Associates,10.0,1.0,Cancer,Poor,01
+1374,2013-01-30,Necessary,1978-11-27,34.0,2400.0,1998-11-10,Associates,14.0,1.0,Sagittarius,Poor,01
+1375,2014-01-30,Necessary,1975-08-02,38.0,12000.0,2005-07-30,Bachelors,3.0,1.0,Leo,Lower-middle Class,01
+1376,2007-03-30,Necessary,1967-04-14,39.0,16000.0,1994-05-06,Bachelors,12.0,2.0,Aries,Upper-middle Class,03
+1377,2009-03-30,Necessary,1983-10-22,25.0,35000.0,2000-10-13,Bachelors,5.0,1.0,Libra,Wealthy,03
+1378,2010-03-30,Necessary,1947-09-30,62.0,5000.0,1976-12-10,Bachelors,13.0,1.0,Libra,Poor,03
+1379,2011-03-30,Necessary,1952-09-20,58.0,3000.0,1980-12-06,Bachelors,30.0,2.0,Virgo,Poor,03
+1380,2011-03-30,Necessary,1984-02-24,27.0,1500.0,2004-08-05,High School,6.0,2.0,Pisces,Poor,03
+1381,2015-03-30,Voluntary,1969-12-15,45.0,7500.0,1989-11-13,High School,5.0,2.0,Sagittarius,Poor,03
+1382,2002-04-30,Voluntary,1953-08-23,48.0,6000.0,1977-11-17,Elementary,24.0,4.0,Virgo,Poor,04
+1383,2004-04-30,Voluntary,1961-11-06,42.0,8500.0,1990-07-14,Bachelors,13.0,2.0,Scorpio,Poor,04
+1384,2007-04-30,Necessary,1975-08-11,31.0,4000.0,1992-12-26,High School,15.0,2.0,Leo,Poor,04
+1385,2010-04-30,Necessary,1974-08-16,35.0,7400.0,2002-12-20,Bachelors,7.0,1.0,Leo,Poor,04
+1386,2014-04-30,Necessary,1980-09-27,33.0,7500.0,2006-10-19,Bachelors,2.0,1.0,Libra,Poor,04
+1387,2003-05-30,Voluntary,1961-10-12,41.0,15000.0,1989-01-20,Bachelors,14.0,2.0,Libra,Upper-middle Class,05
+1388,2011-05-30,Necessary,1979-03-01,32.0,6000.0,2004-12-06,Bachelors,3.0,1.0,Pisces,Poor,05
+1389,2012-05-30,Necessary,1976-05-07,36.0,8000.0,2003-05-16,Bachelors,5.0,1.0,Taurus,Poor,05
+1390,2000-06-30,Voluntary,1973-12-28,26.0,2000.0,1994-12-15,High School,5.0,1.0,Capricorn,Poor,06
+1391,2008-06-30,Necessary,1971-09-05,36.0,2500.0,1992-05-18,Associates,16.0,1.0,Virgo,Poor,06
+1392,2009-06-30,Necessary,1970-10-10,38.0,6800.0,1997-12-22,Bachelors,12.0,1.0,Libra,Poor,06
+1393,2010-06-30,Voluntary,1949-05-25,61.0,3000.0,1981-04-10,High School,29.0,2.0,Gemini,Poor,06
+1394,2011-06-30,Necessary,1979-10-23,31.0,5000.0,2001-07-04,High School,10.0,1.0,Scorpio,Poor,06
+1395,2001-07-30,Voluntary,1970-12-16,30.0,2600.0,1996-08-31,Associates,4.0,2.0,Sagittarius,Poor,07
+1396,2002-07-30,Voluntary,1945-06-11,57.0,5000.0,1974-09-30,High School,27.0,3.0,Gemini,Poor,07
+1397,2003-07-30,Voluntary,1967-03-06,36.0,9600.0,1990-03-06,Bachelors,13.0,3.0,Pisces,Poor,07
+1398,2003-07-30,Voluntary,1958-12-10,44.0,4000.0,1985-07-22,Elementary,18.0,2.0,Sagittarius,Poor,07
+1399,2008-07-30,Necessary,1964-05-21,44.0,16500.0,1991-12-27,Bachelors,7.0,1.0,Gemini,Upper-middle Class,07
+1400,2001-08-30,Voluntary,1967-07-10,34.0,4600.0,1989-12-19,Bachelors,11.0,2.0,Cancer,Poor,08
+1401,2002-08-30,Voluntary,1963-10-19,38.0,1500.0,1994-02-23,Elementary,8.0,2.0,Libra,Poor,08
+1402,2004-08-30,Voluntary,1956-04-30,48.0,3000.0,1980-05-26,Associates,24.0,2.0,Taurus,Poor,08
+1403,2006-08-30,Necessary,1983-09-08,22.0,8000.0,2000-07-06,Associates,5.0,1.0,Virgo,Poor,08
+1404,2007-08-30,Necessary,1950-02-13,57.0,15000.0,1978-12-27,Bachelors,29.0,2.0,Aquarius,Upper-middle Class,08
+1405,2013-09-30,Voluntary,1962-12-05,50.0,24000.0,1987-01-29,Bachelors,26.0,2.0,Sagittarius,Wealthy,09
+1406,2002-10-30,Voluntary,1969-09-17,33.0,4500.0,1992-12-30,High School,9.0,1.0,Virgo,Poor,10
+1407,2003-10-30,Voluntary,1968-02-08,35.0,5000.0,1997-06-28,Bachelors,6.0,1.0,Aquarius,Poor,10
+1408,2007-10-30,Necessary,1974-08-26,33.0,4500.0,1996-07-05,Elementary,11.0,2.0,Virgo,Poor,10
+1409,2008-10-30,Necessary,1970-01-29,38.0,25000.0,2000-11-29,Bachelors,7.0,2.0,Aquarius,Wealthy,10
+1410,2009-10-30,Necessary,1967-07-19,42.0,15000.0,1995-12-23,Bachelors,13.0,3.0,Cancer,Upper-middle Class,10
+1411,2000-11-30,Voluntary,1953-08-13,47.0,5000.0,1981-10-10,Bachelors,18.0,2.0,Leo,Poor,11
+1412,2001-11-30,Voluntary,1945-07-28,56.0,10000.0,1981-08-01,Associates,21.0,1.0,Leo,Lower-middle Class,11
+1413,2001-11-30,Voluntary,1945-09-14,56.0,6000.0,1970-12-26,Bachelors,30.0,4.0,Virgo,Poor,11
+1414,2004-11-30,Voluntary,1961-12-17,42.0,4000.0,1981-08-30,High School,23.0,1.0,Sagittarius,Poor,11
+1415,2002-12-30,Voluntary,1963-10-17,39.0,2400.0,1983-09-09,Associates,19.0,2.0,Libra,Poor,12
+1416,2003-12-30,Voluntary,1973-03-03,30.0,2000.0,1993-06-10,High School,11.0,1.0,Pisces,Poor,12
+1417,2013-12-30,Necessary,1985-12-09,28.0,6000.0,2011-02-11,Bachelors,2.0,1.0,Sagittarius,Poor,12
+1418,2003-01-31,Voluntary,1965-02-25,37.0,3500.0,1986-04-29,Associates,16.0,3.0,Pisces,Poor,01
+1419,2003-03-31,Voluntary,1977-03-15,26.0,1500.0,1996-10-25,High School,6.0,1.0,Pisces,Poor,03
+1420,2004-03-31,Voluntary,1966-06-23,37.0,3000.0,1988-07-18,Elementary,15.0,2.0,Cancer,Poor,03
+1421,2006-03-31,Necessary,1953-12-21,52.0,3500.0,1984-12-24,Bachelors,21.0,2.0,Sagittarius,Poor,03
+1422,2008-03-31,Necessary,1971-05-10,36.0,14000.0,1995-12-16,Associates,11.0,2.0,Taurus,Lower-middle Class,03
+1423,2010-03-31,Necessary,1975-10-18,34.0,3000.0,2001-06-22,Bachelors,8.0,1.0,Libra,Poor,03
+1424,2007-05-31,Necessary,1959-09-04,47.0,8400.0,1984-04-06,Bachelors,23.0,3.0,Virgo,Poor,05
+1425,2000-07-31,Voluntary,1953-04-22,47.0,8000.0,1979-10-20,Bachelors,20.0,3.0,Taurus,Poor,07
+1426,2010-08-31,Necessary,1974-11-25,35.0,5000.0,1995-01-27,High School,14.0,2.0,Sagittarius,Poor,08
+1427,2000-10-31,Voluntary,1952-02-01,48.0,10000.0,1975-01-31,Bachelors,25.0,2.0,Aquarius,Lower-middle Class,10
+1428,2000-10-31,Voluntary,1959-09-03,41.0,6000.0,1992-02-18,Bachelors,8.0,1.0,Virgo,Poor,10
+1429,2001-10-31,Voluntary,1962-11-20,38.0,20000.0,1988-12-16,Bachelors,12.0,1.0,Scorpio,Wealthy,10
+1430,2001-10-31,Voluntary,1953-01-19,48.0,3500.0,1978-08-19,Associates,23.0,2.0,Capricorn,Poor,10
+1431,2001-10-31,Voluntary,1958-07-04,43.0,6000.0,1988-04-30,Bachelors,12.0,2.0,Cancer,Poor,10
+1432,2002-10-31,Voluntary,1951-08-18,51.0,4000.0,1996-07-26,Elementary,6.0,1.0,Leo,Poor,10
+1433,2013-10-31,Voluntary,1954-10-28,59.0,20000.0,1978-06-02,Bachelors,35.0,2.0,Scorpio,Wealthy,10
