@@ -1,0 +1,26 @@
+/* Styles for dark mode */
+body.dark-mode {
+    background-color: #171324ed;
+    color: #f4f2e3;
+  }
+  
+  /* Styles for light mode */
+  body.light-mode {
+    background-color: #ede7f2;
+    color: #160e1c;
+  }
+  
+  .theme-toggle-button {
+    width: 28px; /* Adjust the width as per your image dimensions */
+    height: 28px;
+    margin-left: -100px;  /* Adjust the height as per your image dimensions */
+  }
+
+  #github {
+    margin-left: -150px;
+}
+
+.github-logo {
+    width: 100px;
+    height: 100px;
+}

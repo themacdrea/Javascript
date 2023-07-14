@@ -1,0 +1,48 @@
+{% extends "base.html" %} {% block title %}Why Divorce{% endblock %}
+
+{% block header %}
+<h1>About</h1>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="flex-container">
+      <div class="image-container">
+        <img src="{{ url_for('static', filename='images/heart.png') }}" alt="heart" style="width: 400px; height: auto;">
+      </div>
+      <div class="text-container">
+        <h2 style="text-align: center; margin-bottom: 20px;">Why Divorce Project</h2>
+        <p> This project utilizes <a
+            href="https://www.kaggle.com/datasets/aagghh/divorcemarriage-dataset-with-birth-dates" target="_blank"
+            rel="noreferrer">Mexican data</a> from Kaggle to analyze various aspects of divorce. 
+        By investigating the relationship between zodiac signs and divorce, identifying zodiac signs with the highest divorce rates, exploring specific zodiac sign combinations, 
+        assessing the correlation between the number of children and divorce, determining the duration of marriages, examining specific months with higher divorce rates, 
+        evaluating the influence of income brackets on divorce, and comparing one-income and two-income households, 
+        the aim is to gain a comprehensive understanding of divorce patterns and the potential factors associated with divorce rates.</p>
+        {{ text }} 
+      </div>
+    </div>
+</div>
+
+<style>
+    .container {
+      margin-top: 20px;
+    }
+    
+    .flex-container {
+      display: flex;
+      align-items: center;
+    }
+    
+    .image-container {
+      flex: 1;
+    }
+    
+    .text-container {
+      flex: 1;
+      margin-left: 20px;
+    }
+</style>
+{% endblock %}
+
+
