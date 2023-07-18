@@ -1,19 +1,17 @@
 # Import the modules
 from flask import Flask
-from sqlalchemy import create_engine, inspect
-from sqlalchemy.orm import Session
 
-engine = create_engine(f"postgresql://postgres:postgres@pgAdmin:5432/Divorce_Schema")
+# from sqlalchemy.orm import Session
 
 # # Create our session (link) from Python to the DB
 # session = Session(engine)
+# inspector = inspect(engine)
+# table_names = inspector.get_table_names()
 
-
-# @app.route('/')
 def create_app():
     app = Flask(__name__)
     app.config['SECRET_KEY'] = 'randomgjdkrfsgr'
-
+    
     from .about import about
     from .ranks import ranks
     from .family import family
@@ -27,4 +25,5 @@ def create_app():
     app.register_blueprint(income, url_prefix='/income')
 
     return app
+
 
