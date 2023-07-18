@@ -46,7 +46,7 @@ Rank	Zodiac Sign
 
 In our research, we have created a comprehensive heat chart that explores the intriguing dynamics between males and females of each zodiac sign.
 
-![Alt text](image.png)
+![image](https://github.com/themacdrea/Project_3/assets/126130532/1949f979-eec7-4fc0-a695-e671c1b3215b)
 
 ### Pairings with most Divorces
 Pairings with most divorces refer to specific combinations of zodiac signs that are statistically associated with higher divorce rates. In astrology, it is believed that the compatibility between two people's zodiac signs can impact the success and harmony of their relationship.
@@ -56,7 +56,6 @@ Sagittarius + virgo
 Leo + Aquarius
 Scorpio + virgo
 Capricorn + Gemini
-
 
 ### Income
 
@@ -81,7 +80,7 @@ On the other hand, females had the following income distribution:
 4.2% were part of the upper-middle class.
 4.3% were classified as wealthy.
 
-![Alt text](image-1.png)
+![image-1](https://github.com/themacdrea/Project_3/assets/126130532/675c42b7-fa1e-42da-b482-6b1b93ec3895)
 
 Understanding how income distribution correlates with divorce rates provides valuable insights into economic factors' role in marriage stability. As a result, we gain a better understanding of how socioeconomic factors affect relationships and a more comprehensive understanding of marriage dynamics.
 
@@ -89,13 +88,13 @@ Understanding how income distribution correlates with divorce rates provides val
 
 The data revealed that couples with 1 child have the highest divorce rate, while couples with 3 to 7 children have the lowest divorce rate. This is indeed a remarkable finding. However, it's imperative to interpret this information with care and consider other factors that might contribute to these patterns.
 
-![Alt text](image-2.png)
+![image-2](https://github.com/themacdrea/Project_3/assets/126130532/f94e3a09-42c5-4f76-98f9-49309dcb2a3e)
 
 ###  Divorce Count and Number of Years Married 
 
 The divorce rate decreases significantly after the first decade of marriage. Couples who overcome the challenges of the early years may find greater stability and satisfaction in their relationship. Shared experiences, such as raising children and building a life together, contribute to a stronger sense of unity and resilience.
 
-![Alt text](image-3.png)
+![image-3](https://github.com/themacdrea/Project_3/assets/126130532/d5f31862-a285-49db-b5aa-dcfe449bc9e7)
 
 ## Conclusion 
 
